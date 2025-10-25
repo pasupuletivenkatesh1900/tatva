@@ -277,3 +277,22 @@ body, html {
   background: white;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
+/* Prevent page breaks in PDF */
+.a4-sheet, .overview-card, .meals-wrapper, .notes-section {
+  page-break-inside: avoid !important;
+  break-inside: avoid !important;
+}
+
+.meal-card {
+  page-break-inside: avoid !important;
+  break-inside: avoid !important;
+}
+
+/* Ensure content flows as single page */
+#pdf-content * {
+  page-break-after: avoid !important;
+  page-break-before: avoid !important;
+  break-after: avoid !important;
+  break-before: avoid !important;
+}

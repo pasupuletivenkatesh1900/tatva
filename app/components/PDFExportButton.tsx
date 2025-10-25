@@ -21,8 +21,8 @@ const PDFExportButton: React.FC<PDFExportButtonProps> = ({
     if (typeof window !== 'undefined' && window.html2pdf) {
       const element = document.getElementById(targetElementId) || document.body;
       
-      // Get the height of the content
-      const totalHeight = element.scrollHeight;
+      // Get the actual content height
+      const contentHeight = element.scrollHeight;
       
       const options = {
         margin: 0,
@@ -31,15 +31,14 @@ const PDFExportButton: React.FC<PDFExportButtonProps> = ({
         html2canvas: { 
           scale: 2, 
           scrollY: 0,
-          useCORS: true,
-          allowTaint: true
+          height: contentHeight,
+          windowHeight: contentHeight
         },
         jsPDF: {
-          unit: 'mm',
-          format: [210, totalHeight * 0.264], // custom height in mm for continuous page
+          unit: 'px',
+          format: [element.offsetWidth, contentHeight], // Use actual content dimensions
           orientation: 'portrait'
-        },
-        pageBreak: { mode: 'avoid' }
+        }
       };
 
       window.html2pdf().set(options).from(element).save();
