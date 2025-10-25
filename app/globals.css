@@ -260,3 +260,20 @@ body, html {
 
   nav, .no-print, footer { display: none !important; }
 }
+
+/* PDF Export specific styles */
+.export-controls {
+  display: block;
+}
+
+@media print {
+  .export-controls {
+    display: none !important;
+  }
+}
+
+/* Ensure PDF content is properly contained */
+#pdf-content {
+  background: white;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}

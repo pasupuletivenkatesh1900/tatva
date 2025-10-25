@@ -4,6 +4,7 @@ import OverviewCard from "./components/OverviewCard";
 import Meal1 from "./components/Meal1";
 import Meal2 from "./components/Meal2";
 import Snack from "./components/Snack";
+import PDFExportButton from "./components/PDFExportButton";
 const goalsText = response.Goals.join(", ");
 
 export default function Page() {
@@ -11,10 +12,14 @@ export default function Page() {
 
   return (
     <div className="center-viewport">
-      <div className="a4-sheet">
+      <div className="export-controls" style={{ textAlign: 'center', marginBottom: '20px' }}>
+        <PDFExportButton targetElementId="pdf-content" filename="tatva-meal-plan.pdf" />
+      </div>
+      
+      <div id="pdf-content" className="a4-sheet">
         <OverviewCard
           name={response.Name}
-          logoUrl="/tatva-logo.png"
+          logoUrl="/tatva-logo.svg"
           age={response.Age}
           gender={response.Gender}
           currentWeight={response.CurrentWeight}
