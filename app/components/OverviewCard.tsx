@@ -30,10 +30,12 @@ const OverviewCard: React.FC<OverviewCardProps> = ({
 }) => (
   <section className="overview-card">
     <div className="header-flex-row">
-      <h1 className="main-title">
-        <span>{name}</span>
-        <span className="plan-title"> – Nutrition Plan</span>
-      </h1>
+      <div className="title-container">
+        <h1 className="main-title">
+          <span className="client-name">{name}</span>
+        </h1>
+        <p className="plan-subtitle">Nutrition Plan</p>
+      </div>
       <img src={logoUrl} alt="Tatva logo" className="header-logo" />
     </div>
     <h2>Overview</h2>
