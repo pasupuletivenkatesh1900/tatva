@@ -1,9 +1,7 @@
 import React from "react";
 import response from "./data/response.json";
 import OverviewCard from "./components/OverviewCard";
-import Meal1 from "./components/Meal1";
-import Meal2 from "./components/Meal2";
-import Snack from "./components/Snack";
+import DynamicMeal from "./components/DynamicMeal";
 import PDFExportButton from "./components/PDFExportButton";
 const goalsText = response.Goals.join(", ");
 
@@ -34,9 +32,13 @@ export default function Page() {
         <div className="meals-wrapper">
           <div className="meals-panel">
             <div className="meals-grid">
-              <Meal1 meal={daily.Meal1} />
-              <Meal2 meal={daily.Meal2} />
-              <Snack meal={daily.Snack} />
+              {Object.entries(daily).map(([mealKey, mealData]) => (
+                <DynamicMeal 
+                  key={mealKey} 
+                  mealKey={mealKey} 
+                  meal={mealData} 
+                />
+              ))}
             </div>
 
             <div className="notes-section">
