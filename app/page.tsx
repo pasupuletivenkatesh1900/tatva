@@ -13,24 +13,23 @@ export default function Page() {
   const convertedDaily: { [key: string]: { Time?: string; Items?: string[] } } = {};
   
   Object.entries(daily).forEach(([key, items]) => {
-    // Extract meal type and time from key like "Meal_1_Late_Breakfast_or_Brunch"
     let mealKey = key;
     let time = "";
     
     if (key.includes("_")) {
       const parts = key.split("_");
-      if (parts.length >= 3) {
-        // Handle different patterns: "Meal_1", "Snack", etc.
-        if (parts[0] === "Meal" && parts[1]) {
-          mealKey = `Meal${parts[1]}`; // "Meal_1" → "Meal1"
-        } else if (parts[0] === "Snack") {
-          mealKey = "Snack"; // "Snack_Midday_or_Post_Yoga" → "Snack"
-        } else {
-          mealKey = parts[0]; // fallback to first part
-        }
-        
-        // Join the remaining parts as time description
-        time = parts.slice(2).join(" ").replace(/_/g, " ");
+      const name = parts[0]; // "Meal", "Snack", etc.
+      const second = parts[1]; // Could be number or description
+      
+      // Check if second part is a number
+      if (second && !isNaN(Number(second))) {
+        // Has number: keep name + number as title
+        mealKey = `${name} ${second}`;
+        time = parts.slice(2).join(" "); // Rest as description
+      } else {
+        // No number: keep just name as title
+        mealKey = name;
+        time = parts.slice(1).join(" "); // Rest as description
       }
     }
     

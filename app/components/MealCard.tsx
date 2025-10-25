@@ -12,30 +12,29 @@ interface MealCardProps {
 }
 
 const MealCard: React.FC<MealCardProps> = ({ title, meal }) => {
-  if (!meal) return null;
-  const { Time, Items, Optional } = meal;
+  const { Time, Items, Optional } = meal || {};
 
   return (
     <section className="meal-card">
       <h3 className="meal-title">
         {title}
-        {Optional ? (
+        {Optional && (
           <span style={{
             marginLeft: 8,
             fontSize: "0.85rem",
             color: "#6b8a75",
             fontWeight: 600,
           }}>(Optional)</span>
-        ) : null}
+        )}
       </h3>
-      {Time ? <p className="meal-time">{Time}</p> : null}
-      {Array.isArray(Items) && Items.length > 0 ? (
+      {Time && <p className="meal-time">{Time}</p>}
+      {Items && (
         <ul className="meal-items">
           {Items.map((it, idx) => (
             <li key={idx}>{it}</li>
           ))}
         </ul>
-      ) : null}
+      )}
     </section>
   );
 };

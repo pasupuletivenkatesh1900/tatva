@@ -41,26 +41,26 @@ const OverviewCard: React.FC<OverviewCardProps> = ({
     <h2>Overview</h2>
     <ul>
       <li>
-        <strong>Age:</strong> {age} <b>|</b> <strong>Gender:</strong> {gender}
+        <span className="overview-label">Age:</span> {age} <span className="overview-separator">|</span> <span className="overview-label">Gender:</span> {gender}
       </li>
       <li>
-        <strong>Current Weight:</strong> {currentWeight}
+        <span className="overview-label">Current Weight:</span> {currentWeight}
       </li>
       <li>
-        <strong>Diet Type:</strong> {dietType}
+        <span className="overview-label">Diet Type:</span> {dietType}
       </li>
       <li>
-        <strong>Occupation:</strong> {occupation}
+        <span className="overview-label">Occupation:</span> {occupation}
       </li>
       <li>
-        <strong>Sleep:</strong> {sleep} <b>|</b> <strong>Steps per Day:</strong> {steps}
+        <span className="overview-label">Sleep:</span> {sleep} <span className="overview-separator">|</span> <span className="overview-label">Steps per Day:</span> {steps}
       </li>
       <li>
-        <strong>Meals per Day:</strong> {mealsPerDay}
+        <span className="overview-label">Meals per Day:</span> {mealsPerDay}
       </li>
     </ul>
     <div className="goal-box">
-      <strong>Goal:</strong> {goal}
+      <span className="overview-label">Goal:</span> {goal}
     </div>
   </section>
 );
