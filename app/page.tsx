@@ -52,7 +52,7 @@ export default function Page() {
       <div id="pdf-content" className="a4-sheet">
         <OverviewCard
           name={overview.Name}
-          logoUrl="/tatva-logo.svg"
+          logoUrl="/logo.png"
           age={overview.Age}
           gender={overview.Gender}
           currentWeight={`${overview.Current_Weight_kg} kg`}
