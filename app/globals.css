@@ -1,26 +1,262 @@
-@import "tailwindcss";
-
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --primary: #31523a;
+  --header-accent: #81a884;
+  --card-bg: #f9faf7;
+  --text: #22382b;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+/* Ensure padding/border don't push elements outside containers */
+*, *::before, *::after { box-sizing: border-box; }
+
+/* A4 layout container */
+.a4-sheet {
+  width: 210mm;
+  min-height: 297mm;
+  margin: 0 auto;
+  background: #eeecec;
+  padding: 32px 20mm;
+  box-sizing: border-box;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+.header {
+  padding: 2.5rem 3rem 1.5rem 3.5rem;
+}
+
+.header-flex-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.plan-title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin: 0;
+  line-height: 1.3;
+}
+
+
+
+.client-name {
+  color: var(--primary);
+}
+
+.header-title {
+  flex: 1;
+  min-width: 320px;
+}
+
+.main-title {
+  font-size: 2rem;
+  font-weight: 800;
+  color: var(--primary);
+  margin: 0;
+  display: flex;
+  align-items: baseline;
+  letter-spacing: 0.02em;
+}
+
+.main-title .plan-title {
+  font-weight: 600;
+  font-size: 1.22rem;
+  margin-left: 0.45em;
+  color: var(--primary);
+}
+
+.header-logo {
+  height: 60px;
+  width: 60px;
+  display: block;
+  object-fit: contain;
+  border-radius: 50%;
+  margin-left: 0.8em;
+}
+
+/* Card Styles */
+.overview-card {
+  width: 100%;
+  max-width: 100%;
+  box-sizing: border-box;
+  background: var(--card-bg);
+  box-shadow: 0 6px 28px 0 rgba(37, 78, 55, 0.12);
+  border-radius: 16px;
+  padding: 34px 38px 28px 38px;
+  border: 1.5px solid #deebdf;
+  margin: 0 auto 0 auto;
+}
+.overview-card h2 {
+  font-size: 1.38rem;
+  color: var(--primary);
+  font-weight: 700;
+  margin-bottom: 1.25rem;
+  letter-spacing: -1px;
+}
+.overview-card ul {
+  padding-left: 0;
+  margin-bottom: 0.5em;
+}
+.overview-card li {
+  font-size: 1.1rem;
+  color: var(--text);
+  margin: 8px 0 0 0;
+  list-style: none;
+  line-height: 1.62;
+}
+.overview-card li strong {
+  color: var(--primary);
+  font-weight: 700;
+  margin-right: 1px;
+}
+.goal-box {
+  background: #eaf5e3;
+  margin-top: 18px;
+  border-left: 4px solid var(--header-accent);
+  padding: 12px 15px;
+  border-radius: 6px;
+  font-size: 1.04rem;
+  color: #3e5948;
+  font-weight: 500;
+}
+
+/* Global Font */
+body, html {
+  height: 100vh;
+  font-family: 'Poppins', 'Inter', Arial, sans-serif;
+  background: #f8f8f3;
+  color: #22382b;
+  margin: 0;
+  padding: 0;
+}
+
+.center-viewport {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.a4-sheet {
+  width: 650px;
+  max-width: 98vw;
+  min-height: 297mm;
+  background: #fff;
+  box-sizing: border-box;
+  box-shadow: 0 6px 28px 0 rgba(37, 78, 55, 0.10);
+  border-radius: 16px;
+  padding: 30px 38px 28px 38px;
+  overflow: hidden; /* prevent inner overflow glow */
+}
+/* Meals layout */
+.meals-wrapper {
+  margin-top: 22px;
+}
+.meals-panel {
+  border-radius: 14px;
+  border: 2px solid #dceadb;
+  padding: 20px 22px;
+  background: transparent;
+  box-sizing: border-box;
+}
+.meals-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 18px;
+}
+.meal-card {
+  background: #fff;
+  border-radius: 10px;
+  padding: 18px 18px;
+  border: 1.25px solid #d9e8db;
+  box-shadow: 0 4px 18px rgba(34,56,43,0.06);
+  box-sizing: border-box;
+}
+.meal-title {
+  font-size: 1.08rem;
+  font-weight: 700;
+  color: var(--primary);
+  margin: 0 0 6px 0;
+}
+.meal-time {
+  color: #6b8a75;
+  font-size: 0.95rem;
+  margin: 0 0 10px 0;
+}
+.meal-items {
+  margin: 0;
+  padding-left: 1.05rem;
+}
+.meal-items li {
+  margin: 6px 0;
+  color: var(--text);
+  line-height: 1.5;
+  font-size: 1rem;
+}
+.notes-section {
+  margin-top: 16px;
+  font-size: 0.95rem;
+  color: #475e4d;
+  line-height: 1.45;
+}
+
+/* Make grid two-column on wider screens similar to screenshot */
+@media (min-width: 880px) {
+  .meals-grid {
+    grid-template-columns: 1fr 1fr;
   }
 }
+/* Print Styles */
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 12mm;
+  }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #fff !important;
+    color: #22382b;
+    font-family: 'Poppins', 'Inter', Arial, sans-serif;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  /* Keep the designed look while fitting A4 */
+  .a4-sheet {
+    width: 210mm !important;
+    max-width: 210mm !important;
+    margin: 0 auto !important;
+    background: #fff !important;
+    box-shadow: none !important; /* shadows rarely print well */
+    border-radius: 12px; /* keep rounded look */
+  }
+
+  .overview-card {
+    background: var(--card-bg) !important;
+    border: 1.5px solid #deebdf !important;
+    box-shadow: none !important;
+    padding: 34px 38px 28px 38px !important;
+  }
+
+  .goal-box {
+    background: #eaf5e3 !important;
+    border-left: 4px solid var(--header-accent) !important;
+  }
+
+  .meals-panel {
+    border: 2px solid #dceadb !important;
+    background: transparent !important;
+  }
+
+  .meal-card {
+    background: #fff !important;
+    border: 1.25px solid #d9e8db !important;
+    box-shadow: none !important;
+  }
+
+  /* Stack the grid for predictable page width */
+  .meals-grid { grid-template-columns: 1fr !important; }
+
+  nav, .no-print, footer { display: none !important; }
 }

@@ -1,0 +1,58 @@
+{
+  "Name": "gous",
+  "Age": 34,
+  "Gender": "Female",
+  "Height": "5’3”",
+  "CurrentWeight": "82 kg",
+  "TargetWeight": "62 kg",
+  "GoalFatLoss": "20 kg",
+  "MedicalConditions": ["PCOS"],
+  "DietType": "Non-Vegetarian",
+  "Occupation": "Homemaker",
+  "Sleep": "6–8 hrs",
+  "Steps": "5k–10k",
+  "Exercise": "Walking",
+  "MealsPerDay": 2,
+  "Goals": [
+    "Balance hormones",
+    "Reduce PCOS symptoms",
+    "Achieve steady fat loss",
+    "Improve energy and mood"
+  ],
+  "DailyMealPlan": {
+    "Meal1": {
+      "Time": "Late Morning / Brunch",
+      "Items": [
+        "2–3 whole eggs cooked in ghee (pan fried or boiled)",
+        "1 bowl curd or a glass of buttermilk",
+        "1 small bowl rice with cooked vegetables (bottle gourd, ridge gourd, or spinach)",
+        "Small serving of fish or chicken (lightly cooked, not spicy)"
+      ]
+    },
+    "Meal2": {
+      "Time": "Evening / Early Dinner",
+      "Items": [
+        "150g grilled chicken, boiled fish, or paneer",
+        "1 small bowl rice or vegetable khichdi",
+        "Cooked vegetables such as beans, carrots, or snake gourd",
+        "1 bowl curd"
+      ]
+    },
+    "Snack": {
+      "Optional": true,
+      "Time": "Afternoon or Evening",
+      "Items": [
+        "Roasted makhana or puffed rice mixed with ghee and salt"
+      ]
+    }
+  },
+  "NotesAndTips": [
+    "Avoid sugar, sweets, bakery foods, and refined oils to support hormone balance.",
+    "Use ghee or butter for cooking instead of sunflower, groundnut, or seed oils.",
+    "Keep spice levels moderate to reduce cravings and improve digestion.",
+    "Include protein (eggs, chicken, fish, paneer) with every meal to control hunger and aid fat loss.",
+    "Take short walks or breathing breaks to manage stress and avoid overeating.",
+    "Avoid long gaps between meals; eat calmly and stop when satisfied.",
+    "Consistency will improve metabolism, reduce PCOS symptoms, and support lean body composition."
+  ]
+}
