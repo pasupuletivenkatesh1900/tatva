@@ -18,10 +18,6 @@
   box-sizing: border-box;
 }
 
-.header {
-  padding: 2.5rem 3rem 1.5rem 3.5rem;
-}
-
 .header-flex-row {
   display: flex;
   align-items: flex-start;
@@ -35,17 +31,6 @@
   color: var(--primary);
   margin: 0;
   line-height: 1.3;
-}
-
-
-
-.client-name {
-  color: var(--primary);
-}
-
-.header-title {
-  flex: 1;
-  min-width: 320px;
 }
 
 .main-title {
