@@ -1,0 +1,48 @@
+{
+  "Overview": {
+    "Name": "NagaSrinivas Thota",
+    "Age": 38,
+    "Gender": "Male",
+    "Current_Weight_kg": 81,
+    "Target_Weight_kg": 75,
+    "Medical_Conditions": [
+      "Fatty liver (Grade 1)",
+      "High cholesterol",
+      "Back pain"
+    ],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Desk Job (Irregular hours)",
+    "Sleep_hrs": "6–8",
+    "Exercise": "Yoga",
+    "Steps": "Not tracked",
+    "Meals_per_Day": 2,
+    "Goal": "Improve overall energy, reduce cholesterol and liver fat, and enhance body composition while keeping meals satisfying and simple."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Late_Breakfast_or_Brunch": [
+      "3 whole eggs cooked in ghee (pan fried or boiled)",
+      "1 bowl curd or a glass of buttermilk",
+      "1 small bowl rice with cooked vegetables (bottle gourd, ridge gourd, or spinach)",
+      "A small serving of fish or chicken (lightly cooked, no spicy gravy)"
+    ],
+    "Meal_2_Evening_or_Early_Dinner": [
+      "150–200g grilled chicken, boiled fish, or paneer",
+      "1 small bowl rice or vegetable khichdi",
+      "Lightly cooked vegetables such as beans, carrots, or snake gourd",
+      "1 bowl curd"
+    ],
+    "Snack_Midday_or_Post_Yoga": [
+      "Puffed rice or makhana roasted in ghee with salt and pepper"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Focus on liver and cholesterol health — avoid fried foods, spicy biriyani, and packaged snacks. Stick to home-cooked, low-oil meals.",
+    "Cook with ghee or butter instead of seed oils.",
+    "Limit rice to small portions and pair it with enough protein (eggs, chicken, fish, or paneer).",
+    "Avoid skipping meals to prevent overeating later in the day.",
+    "Manage social gatherings by eating a light protein-rich meal before attending.",
+    "Keep hydration steady throughout the day; plain water and buttermilk are best.",
+    "Gentle yoga and short post-meal walks can help relieve back pain and improve digestion.",
+    "Over time, this plan will help reduce liver fat, stabilize cholesterol, and give a leaner, more defined look."
+  ]
+}
