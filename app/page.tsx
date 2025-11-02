@@ -1,5 +1,5 @@
 import React from "react";
-import response from "../response1.json";
+import response from "../response2.json";
 import OverviewCard from "./components/OverviewCard";
 import DynamicMeal from "./components/DynamicMeal";
 import PDFExportButton from "./components/PDFExportButton";

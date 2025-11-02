@@ -7,7 +7,6 @@ interface DynamicMealProps {
 }
 
 const DynamicMeal: React.FC<DynamicMealProps> = ({ mealKey, meal }) => {
-  // Just use the mealKey as the title - no complicated logic
   const title = mealKey;
 
   return <MealCard title={title} meal={meal} />;

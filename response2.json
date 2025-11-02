@@ -1,0 +1,43 @@
+{
+  "Overview": {
+    "Name": "Naga Sainath Therala",
+    "Age": 39,
+    "Gender": "Male",
+    "Height": "5'7\"",
+    "Current_Weight_kg": 94,
+    "Target_Weight_kg": 75,
+    "Medical_Conditions": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Occupation": "Desk Job (9–5)",
+    "Sleep_hrs": "Less than 6",
+    "Exercise": "None",
+    "Steps": "<5k",
+    "Meals_per_Day": 2,
+    "Goal": "Improve overall health, manage weight, and prevent future lifestyle-related issues through clean and structured eating."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Morning_or_Brunch": [
+      "2–3 whole eggs (if acceptable) or 100g paneer cooked in ghee",
+      "1 small bowl curd",
+      "1 small bowl rice with cooked vegetables (bottle gourd, ridge gourd, beans, or spinach)",
+      "Add a small portion of ghee to rice for satiety"
+    ],
+    "Meal_2_Evening_or_Early_Dinner": [
+      "150g paneer or tofu lightly cooked in butter or ghee",
+      "1 small bowl rice or millet with cooked vegetables",
+      "1 bowl curd"
+    ],
+    "Snack_Optional_Afternoon": [
+      "Roasted makhana or puffed rice mixed with a spoon of ghee and a pinch of salt"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Prioritize whole ingredients like eggs, paneer, curd, rice, and vegetables — avoid processed foods, biscuits, and seed oils.",
+    "Since you have less than 6 hours of sleep and a desk job, focus on walking after meals to improve metabolism.",
+    "Try to increase sleep duration to at least 7 hours for better weight management and hormonal balance.",
+    "Eat slowly and stop at comfortable fullness — this supports digestion and helps prevent overeating.",
+    "Keep meals simple and repetitive if needed; consistency matters more than variety right now.",
+    "Avoid snacking late at night and try to keep a 3-hour gap before bedtime after dinner.",
+    "This plan will help you feel lighter, reduce bloating, and gradually improve overall health markers like energy, digestion, and body composition."
+  ]
+}

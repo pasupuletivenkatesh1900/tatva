@@ -1,5 +1,6 @@
 // app/layout.tsx
 import "./globals.css";
+import Navigation from "./components/Navigation";
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
@@ -12,6 +13,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.3/html2pdf.bundle.min.js"></script>
       </head>
       <body style={{ fontFamily: "'Poppins', 'Inter', Arial, sans-serif", background: "#f8f8f3" }}>
+        <Navigation />
         {children}
       </body>
     </html>
