@@ -1,0 +1,49 @@
+{
+  "Overview": {
+    "Name": "Vinay",
+    "Age": 30,
+    "Gender": "Male",
+    "Height": "175 cm",
+    "Current_Weight_kg": 87,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Stress", "Anxiety"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Desk Job (Shifts, 6–8 hrs)",
+    "Sleep_hrs": "6–8",
+    "Exercise": "Yoga",
+    "Steps": "<5k",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), feeling energetic & confident, mental wellbeing & stress reduction"
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Breakfast": [
+      "2 whole eggs pan fried",
+      "100g fish or chicken (pan fried, minimal spices)",
+      "1 small bowl cooked leafy vegetables",
+      "1 small bowl rice (with a spoon of ghee for satiety)"
+    ],
+    "Meal_2_Lunch": [
+      "150g chicken or fish (grilled or pan fried)",
+      "1 small bowl rice with cooked vegetables (avoid potato, mutton)",
+      "1 bowl curd"
+    ],
+    "Meal_3_Dinner": [
+      "2 eggs or 100g fish (pan fried)",
+      "1 small bowl rice with vegetables",
+      "1 small bowl curd"
+    ],
+    "Snack_Optional": [
+      "Puffed rice or makhana with a spoon of ghee and pinch of salt"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Focus on whole ingredients: eggs, chicken, fish, curd, rice, and vegetables. Avoid mutton, potato, and processed foods.",
+    "Keep cooking simple and quick — pan frying and grilling are ideal.",
+    "Since you have a busy schedule and family member cooks, keep meal prep minimal and repetitive.",
+    "Practice mindful eating: eat slowly, stop at comfortable fullness, and avoid late-night snacking.",
+    "For cravings, have savory snacks like puffed rice or makhana. Avoid fried and processed options.",
+    "Yoga and walking after meals will help manage stress and improve energy.",
+    "Social gatherings and late nights are common triggers — plan ahead with simple, portable meals.",
+    "This plan supports physique improvement, energy, and stress reduction. Consistency is key."
+  ]
+}

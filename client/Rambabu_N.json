@@ -1,0 +1,51 @@
+{
+  "Overview": {
+    "Name": "Rambabu N",
+    "Age": 44,
+    "Gender": "Male",
+    "Height": "175 cm",
+    "Current_Weight_kg": 69,
+    "Target_Weight_kg": 75,
+    "Medical_Conditions": ["Thyroid"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Desk Job (Irregular)",
+    "Sleep_hrs": "Less than 6",
+    "Exercise": "Yoga",
+    "Steps": "<5k",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), feeling energetic & confident, preventing/reversing health issues, mental wellbeing & stress reduction"
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Breakfast": [
+      "3 whole eggs pan fried in butter + 1 bowl curd",
+      "OR Omelette with onions and tomatoes + 1  banana"
+    ],
+    "Meal_2_Lunch": [
+      "Chicken curry (home made) + 1 cup white rice + cooked vegetables",
+      "OR Fish fry (shallow pan fried) + 1 cup rice + cucumber",
+      "OR Paneer curry + 1 cup rice + green vegetables",
+      "OR Boiled eggs (2-3) + mix veg + small bowl curd"
+    ],
+    "Meal_3_Dinner": [
+      "Grilled or pan fried fish + vegetables",
+      "OR Chicken or egg curry + small rice + salad",
+      "OR Paneer + vegetables + curd"
+    ],
+    "Snack_Optional_Light": [
+      "Puffed rice and curd",
+      "OR Roasted makhana",
+      "OR Boiled eggs (1-2)",
+      "OR Buttermilk with small piece of fruit"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Prioritise eggs, fish, chicken, paneer and curd in every meal for lean muscle gain support.",
+    "Limit fried, bakery, and snack foods that trigger cravings. Choose roasted or pan fried instead.",
+    "Increase steps to 7,000 per day gradually for better digestion and energy.",
+    "Manage thyroid health by improving sleep. Target minimum 7 hours instead of less than 6.",
+    "For appearance goals: keep meals simple and repeatable to stay consistent.",
+    "If you feel hunger between meals, increase protein quantity instead of adding carbs.",
+    "Savory craving strategy: have boiled eggs, curd or makhana ready at home.",
+    "Drink 2.5-3L water daily for proper hydration and metabolism support."
+  ]
+}

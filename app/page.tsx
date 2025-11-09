@@ -1,5 +1,5 @@
 import React from "react";
-import response from "../response2.json";
+import response from "../client/Swapna_N.json";
 import OverviewCard from "./components/OverviewCard";
 import DynamicMeal from "./components/DynamicMeal";
 import PDFExportButton from "./components/PDFExportButton";
@@ -45,13 +45,16 @@ export default function Page() {
   return (
     <div className="center-viewport">
       <div className="export-controls" style={{ textAlign: 'center', marginBottom: '20px' }}>
-        <PDFExportButton targetElementId="pdf-content" filename="tatva-meal-plan.pdf" />
+        <PDFExportButton 
+          targetElementId="pdf-content" 
+          filename={`${overview.Name ? overview.Name.replace(/\s+/g, '_') : 'client'}_meal_plan.pdf`} 
+        />
       </div>
       
       <div id="pdf-content" className="a4-sheet">
         <OverviewCard
           name={overview.Name}
-          logoUrl="/logo.png"
+          logoUrl="/tatva.png"
           age={overview.Age}
           gender={overview.Gender}
           currentWeight={`${overview.Current_Weight_kg} kg`}

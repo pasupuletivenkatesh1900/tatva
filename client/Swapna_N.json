@@ -1,0 +1,54 @@
+{
+  "Overview": {
+    "Name": "Swapna N",
+    "Age": 38,
+    "Gender": "Female",
+    "Height": "151 cm",
+    "Current_Weight_kg": 64,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["Thyroid", "Gas issues", "Vertigo"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Homemaker",
+    "Sleep_hrs": "6–8",
+    "Exercise": "Yoga",
+    "Steps": "Don't track",
+    "Meals_per_Day": 3,
+    "Goal": "Weight loss while improving energy, gut comfort, and hormone balance with focus on appearance, confidence, health, and mental wellbeing."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Breakfast": [
+      "2 whole eggs pan fried + 1 small bowl fruit (papaya or banana)",
+      "Ragi dosa + 1 boiled egg",
+      "Idli + 2 eggs omelette (skip chutneys with too much oil)"
+    ],
+    "Meal_2_Lunch": [
+      "Rice + fish curry/chicken curry + cooked vegetables",
+      "Grilled chicken + rice + cucumber and carrot",
+      "Egg rice + cooked beans or greens"
+    ],
+    "Meal_3_Dinner": [
+      "Chicken curry + cooked vegetables (beans, carrot, cabbage)",
+      "Eggs (3) + stir-fried vegetables",
+      "Fish fry (minimal oil) + veg soup"
+    ],
+    "Snack_Optional_If_Hungry": [
+      "Puffed rice with salt and onion (small bowl)",
+      "Makhana roasted in ghee",
+      "Coconut pieces",
+      "Lemon water or buttermilk without curd (use diluted milk option)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid curd as requested to prevent gas issues and digestive discomfort.",
+    "For thyroid and vertigo: include fish and iodised salt in meals for iodine and omega-3 support.",
+    "Gas control: avoid raw onion, heavy dals, deep-fried foods that trigger digestive issues.",
+    "Cook everything with minimal oil and avoid seed oils completely.",
+    "Eat slowly and stop when satisfied to support digestion and weight loss.",
+    "Savory fried cravings: replace with grilled or air-fried options for healthier alternatives.",
+    "Make sure each meal has a clear protein source (meat, eggs, dal) for satiety and muscle preservation.",
+    "Fill half plate with vegetables to improve fullness and nutrient density.",
+    "Keep dinner smaller than lunch for optimal fat loss and better sleep.",
+    "Weekly rotation: 3 days chicken, 2 days eggs, 2 days fish for variety and thyroid support.",
+    "Yoga is excellent. Add light walking after meals when possible for better digestion and metabolism."
+  ]
+}
