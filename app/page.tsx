@@ -1,5 +1,5 @@
 import React from "react";
-import response from "../client/Swapna_N.json";
+import response from "../client/Vinay.json";
 import OverviewCard from "./components/OverviewCard";
 import DynamicMeal from "./components/DynamicMeal";
 import PDFExportButton from "./components/PDFExportButton";
@@ -54,7 +54,7 @@ export default function Page() {
       <div id="pdf-content" className="a4-sheet">
         <OverviewCard
           name={overview.Name}
-          logoUrl="/tatva.png"
+          logoUrl="/TATVA_logos.png"
           age={overview.Age}
           gender={overview.Gender}
           currentWeight={`${overview.Current_Weight_kg} kg`}

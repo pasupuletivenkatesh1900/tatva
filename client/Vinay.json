@@ -1,0 +1,55 @@
+{
+  "Overview": {
+    "Name": "Vinay",
+    "Age": 30,
+    "Gender": "Male",
+    "Height": "175 cm",
+    "Current_Weight_kg": 87,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Stress", "Anxiety"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Desk Job (Shifts)",
+    "Sleep_hrs": "6–8",
+    "Exercise": "Yoga",
+    "Steps": "<5k",
+    "Meals_per_Day": 3,
+    "Goal": "Look better (appearance), feel confident, reduce stress and mental wellbeing through simple meals focused on fat loss and visible physique changes."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Breakfast": [
+      "3 whole eggs pan fried + leafy vegetable plate",
+      "OR Omelette with onions, tomatoes, leafy greens",
+      "OR Grilled chicken (small portion) + 1 banana",
+      "OR Fish pan fried + small bowl curd"
+    ],
+    "Meal_2_Lunch": [
+      "Chicken curry + 1 cup white rice + cooked leafy vegetables",
+      "OR Fish fry (shallow pan fried) + 1 cup rice + cucumber",
+      "OR Boiled eggs (2-3) + rice + leafy vegetables",
+      "OR Chicken breast grilled + vegetables"
+    ],
+    "Meal_3_Dinner": [
+      "Fish pan fried + vegetables",
+      "OR Chicken curry + small rice + leafy greens",
+      "OR 3 eggs omelette + vegetables",
+      "OR Boiled eggs + curd + vegetable plate"
+    ],
+    "Snack_Optional_Light": [
+      "Puffed rice snack",
+      "OR Roasted makhana",
+      "OR 1-2 boiled eggs",
+      "OR Buttermilk + small fruit"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Prioritise eggs, chicken and fish in every meal for faster fat loss and better body composition.",
+    "Avoid fried snacks and savories. Replace with eggs, curd, makhana or puffed rice.",
+    "Since shifts can affect hunger and stress, keep boiled eggs or curd ready for quick meals.",
+    "Increase daily steps toward 7,000 for better energy and lower stress levels.",
+    "Late-night overeating: stop screen time during meals and finish dinner 2 to 3 hours before sleep.",
+    "Social gatherings: choose grilled chicken or fish, skip starters that are fried.",
+    "As stress is a trigger, keep meals repetitive on busy days to avoid decision fatigue.",
+    "Drink 2.5 to 3L water per day for proper hydration and metabolism support.",
+    "Focus on leafy vegetables for easy digestion and avoid potatoes and mutton as preferred."
+  ]
+}
