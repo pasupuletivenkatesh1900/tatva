@@ -1,0 +1,50 @@
+{
+  "Overview": {
+    "Name": "Madhava Rao Gadiyapudi",
+    "Age": 43,
+    "Gender": "Male",
+    "Height": "175 cm",
+    "Current_Weight_kg": 88,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["High BP"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Desk Job",
+    "Sleep_hrs": "Fixed routine",
+    "Exercise": "Yoga",
+    "Steps": "<5k",
+    "Meals_per_Day": 1,
+    "Goal": "Reduce weight, improve BP control, and keep energy consistent through the day with appearance, confidence, health, and stress reduction focus."
+  },
+  "Daily_Meal_Plan": {
+    "Main_Meal_Lunch_or_Dinner": [
+      "Chicken curry with minimal oil + rice (small portion) + cooked vegetables",
+      "OR Fish fry pan fried in ghee + rice + carrot or beans",
+      "OR Boiled eggs (3 to 4) + dal + cooked vegetables",
+      "OR Grilled chicken + curd + rice",
+      "OR Egg curry + rice + spinach or cabbage"
+    ],
+    "Light_Snacks_Only_If_Hungry": [
+      "Puffed rice with onion and salt",
+      "OR Makhana roasted in ghee",
+      "OR Coconut pieces",
+      "OR One seasonal fruit (banana, apple, papaya)"
+    ],
+    "Protein_Rotation_Weekly": [
+      "3 days chicken",
+      "2 days eggs", 
+      "2 days fish"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For BP: limit pickles, papad, bakery foods, and anything very salty.",
+    "Avoid all fried items since they trigger overeating and affect BP.",
+    "Keep meals slow cooked or pan fried with minimal oil for BP control.",
+    "Eat vegetables daily to improve fullness and digestion.",
+    "Since you eat only one meal, drink water through the day and avoid long gaps with no fluids.",
+    "Social gatherings: eat protein first (chicken, fish, eggs) before touching rice or snacks.",
+    "Yoga is excellent. Add short walks after your meal to help BP control.",
+    "Stick to the same routine daily to match your preference for a fixed structure.",
+    "Focus heavily on protein and clean fats to keep you full throughout the day.",
+    "Keep oil low and avoid deep fried items because of high BP management needs."
+  ]
+}

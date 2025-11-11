@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Soundarya Kollimarla",
+    "Age": 35,
+    "Gender": "Female",
+    "Height": "165 cm",
+    "Current_Weight_kg": 84.5,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["Thyroid", "PCOS"],
+    "Diet_Type": "Vegetarian",
+    "Occupation": "Not specified",
+    "Sleep_hrs": "Less than 6",
+    "Exercise": "Yoga",
+    "Steps": "<5k",
+    "Meals_per_Day": 3,
+    "Goal": "Support fat loss, balance hormones, improve energy and reduce PCOS symptoms with simple, whole-ingredient vegetarian meals for appearance, energy, health improvement, and mental wellbeing."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Morning": [
+      "3 whole eggs pan fried in ghee + a bowl of cooked vegetables",
+      "OR Paneer (150g) pan fried in butter + vegetables",
+      "OR Curd bowl + 2 boiled eggs + fruit",
+      "OR Paneer bhurji cooked in ghee + small portion rice",
+      "Optional add-ons: Fruit (apple, papaya or banana) OR Curd with pepper"
+    ],
+    "Meal_2_Midday_Lunch": [
+      "Paneer curry + rice + cooked vegetables",
+      "OR 3 boiled or pan fried eggs + vegetables + small portion rice",
+      "OR Curd + vegetables + 2 boiled eggs",
+      "OR Paneer cooked in butter + rice"
+    ],
+    "Meal_3_Evening_Dinner": [
+      "3 boiled eggs + vegetables",
+      "OR Paneer cooked in ghee + vegetables",
+      "OR Curd + cooked vegetables + 1 boiled egg"
+    ],
+    "Snack_Optional_Light": [
+      "Puffed rice snack",
+      "OR Roasted makhana",
+      "OR Fruit",
+      "OR Small bowl of curd with salt and pepper",
+      "OR Buttermilk (no store-bought masala, no seed oils)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For PCOS & Thyroid: Keep meals protein-heavy to support hormones and reduce cravings.",
+    "Avoid long gaps between meals; stick to your 3-meal structure for hormone balance.",
+    "Reduce sugar and deep-fried foods since cravings already lean towards sweet, fried, spicy.",
+    "For stress, late nights, boredom eating: Keep boiled eggs, paneer cubes and fruit ready for clean food choices.",
+    "Drink a glass of water when cravings hit. Wait 10 minutes before eating.",
+    "Avoid eating while watching TV or scrolling to prevent mindless overeating.",
+    "For sleep & energy: Aim for small improvements, sleep 20 minutes earlier each week.",
+    "Keep dinner lighter to avoid late-night discomfort and improve sleep quality.",
+    "Protein-heavy meals tighten physique and reduce bloating for appearance goals.",
+    "Stay consistent with steps and yoga for steady inch loss and hormone balance.",
+    "Walk 10 minutes after meals to improve digestion and metabolism.",
+    "Use ghee or butter only for cooking. Avoid all seed oils for PCOS management."
+  ]
+}

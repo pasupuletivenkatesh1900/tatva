@@ -1,0 +1,51 @@
+{
+  "Overview": {
+    "Name": "Madhusmita Sahoo",
+    "Age": 34,
+    "Gender": "Female",
+    "Height": "5 ft",
+    "Current_Weight_kg": 47,
+    "Target_Weight_kg": 55,
+    "Medical_Conditions": ["Hypertension"],
+    "Diet_Type": "Vegetarian",
+    "Occupation": "Not specified",
+    "Sleep_hrs": "6–8",
+    "Exercise": "Yoga",
+    "Steps": "Not tracked",
+    "Meals_per_Day": 2,
+    "Goal": "Support healthy weight gain with simple vegetarian meals focused on whole ingredients. Increase calorie-dense clean foods without increasing salt due to hypertension. Mental wellbeing and stress reduction."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Late_Morning_Breakfast": [
+      "3 whole eggs pan fried in ghee + cooked vegetables",
+      "OR Paneer (150 to 200g) pan fried in butter + vegetables",
+      "OR Curd bowl with fruit + 2 boiled eggs",
+      "OR Paneer bhurji cooked in ghee + small portion rice",
+      "Add-ons: One fruit (banana or apple) + One spoon ghee mixed into rice or vegetables"
+    ],
+    "Meal_2_Evening_Dinner": [
+      "Paneer curry + rice + vegetables",
+      "OR 3 boiled or pan fried eggs + vegetables + small portion rice",
+      "OR Curd + vegetables + 2 boiled eggs",
+      "OR Paneer cooked in butter + rice (gluten and soy free)"
+    ],
+    "Snack_Optional_If_Needed": [
+      "Roasted makhana",
+      "OR Puffed rice mixed with curd",
+      "OR Fruit",
+      "OR A cup of curd with salt and pepper"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For hypertension: avoid pickles, papads, packaged foods and any high-salt snacks. Keep home cooking low salt.",
+    "Weight gain goal: eat slightly larger portions of paneer, curd and eggs. Add ghee to meals for safe calorie increase.",
+    "Since you have gluten and soy allergies, avoid breads, rotis made from wheat, soya chunks and processed veg foods. Stick to rice-based meals.",
+    "In social gatherings: begin with protein first (paneer or eggs) before touching snacks. This reduces overeating and keeps portions controlled.",
+    "You handle desserts well, so no special restrictions needed.",
+    "Add a short walk after meals to support digestion and blood pressure.",
+    "Since you cook for yourself, keep meals simple and repeatable so you don't get decision fatigue.",
+    "Use ghee or butter only for cooking. No seed oils.",
+    "Drink 2.5L water daily with low-salt cooking for hypertension management.",
+    "Focus on calorie-dense whole foods like paneer, eggs, curd, and ghee for healthy weight gain."
+  ]
+}

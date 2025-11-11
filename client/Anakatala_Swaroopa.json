@@ -13,36 +13,42 @@
     "Exercise": "Yoga",
     "Steps": "<5k",
     "Meals_per_Day": 3,
-    "Goal": "Support overall health, manage hypertension and joint pain, and maintain energy for daily activities."
+    "Goal": "Health, stability, strength through simple egg-based meals with gentle digestion, low-salt cooking for blood pressure, and protein priority to improve strength and support joint function."
   },
   "Daily_Meal_Plan": {
     "Meal_1_Breakfast": [
-      "2 whole eggs pan fried in ghee",
-      "1 small bowl curd",
-      "1 small bowl rice with cooked vegetables (bottle gourd, ridge gourd, beans, spinach)",
-      "Add a small portion of ghee to rice for satiety"
+      "2 to 3 whole eggs pan fried in ghee + cooked vegetables",
+      "OR Vegetable omelette with onions, tomatoes and spinach",
+      "OR Boiled eggs (2 to 3) + curd",
+      "OR Scrambled eggs + small fruit"
     ],
     "Meal_2_Lunch": [
-      "2 whole eggs or 100g paneer lightly cooked in ghee",
-      "1 small bowl rice with vegetables (avoid potatoes)",
-      "1 bowl curd"
+      "2 to 3 boiled or pan fried eggs + 1 small cup rice + cooked vegetables",
+      "OR Egg curry (less spice) + rice + leafy vegetables",
+      "OR Paneer (100 to 150g) cooked in butter or ghee + vegetables + small portion rice"
     ],
     "Meal_3_Dinner": [
-      "2 whole eggs or 100g paneer (pan fried)",
-      "1 small bowl rice with vegetables",
-      "1 small bowl curd"
+      "2 to 3 eggs pan fried + vegetables",
+      "OR Paneer curry + small bowl rice",
+      "OR Vegetable plate + curd + boiled eggs"
     ],
-    "Snack_Optional": [
-      "Roasted makhana or puffed rice with a spoon of ghee and pinch of salt"
+    "Snack_Optional_Light": [
+      "Roasted makhana",
+      "OR Puffed rice with curd",
+      "OR One boiled egg",
+      "OR Buttermilk"
     ]
   },
   "Notes_and_Tips": [
-    "Prioritize whole ingredients: eggs, paneer, curd, rice, and vegetables. Avoid processed foods and seed oils.",
-    "Keep cooking simple and quick — pan frying and boiling are ideal.",
-    "Since you cook for yourself, keep meal prep minimal and repetitive for ease.",
-    "Eat slowly and stop at comfortable fullness to support digestion and prevent overeating.",
-    "Yoga and gentle walking after meals can help with joint pain and blood pressure management.",
-    "For cravings, have savory snacks like puffed rice or makhana. Avoid fried and processed options.",
-    "Consistency is key for managing hypertension and joint pain."
+    "Keep meals less spicy to avoid vertigo triggers and reduce inflammation.",
+    "Use ghee or butter for cooking. Avoid all seed oils.",
+    "Prioritise eggs and paneer in each meal to support muscle strength and reduce joint pain.",
+    "For hypertension: reduce packaged foods, papads, pickles and any high-salt dishes.",
+    "Eat slowly and stop at comfortable fullness since you already manage desserts well.",
+    "Since steps are below 5k, add small walks after meals to improve blood pressure and digestion.",
+    "Yoga supports balance and stability. Add gentle stretching for knee and back pain.",
+    "Consistency is more important than variety for your goals. Keep meals simple and repeatable.",
+    "Drink 2.5L water per day for proper hydration and blood pressure management.",
+    "Salt intake: Keep on the lower side for blood pressure control."
   ]
 }

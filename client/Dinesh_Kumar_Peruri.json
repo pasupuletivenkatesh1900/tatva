@@ -1,0 +1,48 @@
+{
+  "Overview": {
+    "Name": "Dinesh Kumar Peruri",
+    "Age": 39,
+    "Gender": "Male",
+    "Height": "159 cm",
+    "Current_Weight_kg": 95,
+    "Target_Weight_kg": 75,
+    "Medical_Conditions": ["Diabetes"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Desk job with irregular hours",
+    "Sleep_hrs": "6–8",
+    "Exercise": "Yoga",
+    "Steps": "<5k",
+    "Meals_per_Day": 2,
+    "Goal": "Support fat loss and stabilise blood sugar through clean, protein-focused meals that reduce overeating triggers and remove fried or spicy foods for appearance, energy, confidence, and preventing health issues."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Brunch": [
+      "3 whole eggs pan fried in ghee",
+      "OR 150–180g chicken cooked in ghee with mild seasoning",
+      "OR One bowl cooked vegetables such as bottle gourd, ridge gourd, carrots, beans",
+      "OR One small fruit like apple or orange"
+    ],
+    "Meal_2_Dinner": [
+      "150–180g paneer or chicken cooked in ghee",
+      "OR One bowl vegetables",
+      "OR Small portion rice if needed for energy"
+    ],
+    "Snack_Optional_If_Hungry": [
+      "Roasted makhana in ghee",
+      "OR Puffed rice with onion and lemon",
+      "OR One fruit"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Diabetes responds well to steady protein intake and minimal processed carbs. Keep your two meals rich in eggs, paneer, and chicken.",
+    "Since fried and spicy foods trigger cravings, avoid hotel food, deep-fried items, and masala-heavy dishes. Use only ghee, pepper, rock salt, ginger, garlic, turmeric, and herbs.",
+    "Stress and late nights increase hunger. Pause before eating, drink warm water, or take a short walk to reduce stress-driven eating.",
+    "Walk 10 minutes after each meal to help blood sugar stay stable.",
+    "Sleep and irregular work hours can increase cravings. Maintain consistent meal timing to reduce blood sugar swings.",
+    "Increase daily steps to 6k–7k over the next few weeks. Even slow walking helps fat loss in diabetes.",
+    "Keep meals repetitive if needed. Simple protein-and-vegetable plates give better control than variety that leads to overeating.",
+    "If you feel low energy, increase protein, not carbs for better blood sugar management.",
+    "Keep flavours simple and low spice to avoid sugar spikes and craving triggers.",
+    "Avoid foods you dislike (fried, spicy) and focus on foods you love (chicken, paneer, egg) prepared in healthy ways."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "Overview": {
+    "Name": "Rajesh Patibandla",
+    "Age": 38,
+    "Gender": "Male",
+    "Height": "170 cm",
+    "Current_Weight_kg": 64,
+    "Target_Weight_kg": 64,
+    "Medical_Conditions": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Occupation": "Desk job with shift work",
+    "Sleep_hrs": "6–8",
+    "Exercise": "Walking",
+    "Steps": "5k–10k",
+    "Meals_per_Day": 2,
+    "Goal": "Maintain weight while improving energy, digestion, and day-to-day steadiness. Meals kept clean, simple, and flexible for shift timings."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1": [
+      "2–3 whole eggs or 120g paneer cooked in ghee",
+      "OR One small bowl rice + Cooked vegetables + One bowl curd"
+    ],
+    "Meal_2": [
+      "150g paneer or homemade curd as the protein base",
+      "OR One bowl rice with a mix of cooked vegetables",
+      "OR 2 boiled eggs if needed for fullness"
+    ],
+    "Snack_Optional_If_Hungry": [
+      "Roasted makhana in ghee",
+      "OR Puffed rice with onion and salt",
+      "OR Fruit like banana, apple or papaya"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since you crave tasty food, focus on making meals flavourful without excess oil. Use ghee, pepper, ginger, garlic, and fresh herbs.",
+    "Keep vegetables simple and cooked well; avoid overuse of masala to prevent overeating triggers.",
+    "Shift work can affect hunger patterns. Stick to two fixed meals even if timings vary.",
+    "Include curd often to keep digestion steady and improve gut comfort.",
+    "Avoid bakery items, deep fried foods, and snacks with seed oils.",
+    "If you feel low energy, increase protein slightly instead of increasing rice.",
+    "Take a 10 minute walk after each meal to maintain energy and support mental clarity.",
+    "Focus on maintaining current weight while improving overall energy and digestive health.",
+    "Use ghee as primary cooking fat and avoid seed oils for better nutrition absorption."
+  ]
+}
