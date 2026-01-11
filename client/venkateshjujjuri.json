@@ -1,0 +1,51 @@
+{
+  "Overview": {
+    "Name": "Venkatesh Jujjuri",
+    "Age": 33,
+    "Gender": "Male",
+    "Height": "177 cm",
+    "Current_Weight_kg": 63,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Strictly Vegetarian (no eggs, no non-veg)",
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Mixed",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 1,
+    "Goal": "Feel energetic and confident with a simple, consistent vegetarian routine."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + plain milk (small cup)",
+      "Option 2: Warm water + small bowl curd",
+      "Option 3: Plain milk (small cup)"
+    ],
+    "Meal_1_Main_Meal": [
+      "Option 1: Plain rice (small portion) + dal + cooked vegetables",
+      "Option 2: Plain rice (small portion) + paneer curry + vegetables",
+      "Option 3: Plain rice (small portion) + curd + vegetable curry"
+    ],
+    "Evening_Snack_Optional": [
+      "Option 1: Puffed rice (small portion, dry)",
+      "Option 2: Fruit bowl (seasonal fruits)",
+      "Option 3: Plain milk or curd"
+    ],
+    "Meal_2_Light_Dinner": [
+      "Option 1: Paneer curry + small portion plain rice + vegetables",
+      "Option 2: Dal + small portion plain rice + cooked vegetables",
+      "Option 3: Vegetable curry + small portion plain rice + curd"
+    ]
+  },
+  "Notes_and_Tips": [
+    "All meals are strictly vegetarian with no eggs or non-veg.",
+    "Include paneer or dal regularly for adequate protein.",
+    "Keep rice portions small to maintain lightness and energy.",
+    "Avoid skipping meals even if appetite is low.",
+    "Yoga and regular meals support digestion and steady energy.",
+    "Focus on how the body feels rather than small weight changes."
+  ]
+}

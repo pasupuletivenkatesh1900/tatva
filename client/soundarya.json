@@ -1,0 +1,54 @@
+{
+  "Overview": {
+    "Name": "Soundarya Kollimarla",
+    "Age": 35,
+    "Gender": "Female",
+    "Height": "165 cm",
+    "Current_Weight_kg": 84.5,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["Thyroid", "PCOS"],
+    "Diet_Type": "Vegetarian",
+    "Occupation": "Desk Job (Shifts)",
+    "Sleep_hrs": "<6",
+    "Exercise": "Yoga",
+    "Steps": "<5k",
+    "Meals_per_Day": 3,
+    "Goal": "Reduce body fat, improve hormonal balance, feel energetic and confident, and achieve visible physique changes with simple, sustainable meals."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Breakfast": [
+      "Paneer pan fried + cooked vegetables",
+      "OR Curd bowl + vegetable stir fry",
+      "OR Paneer bhurji (simple, home style)",
+      "OR Curd + fruit (small portion)"
+    ],
+    "Meal_2_Lunch": [
+      "Paneer curry + 1 cup rice + cooked vegetables",
+      "OR Curd rice (small portion) + vegetable side",
+      "OR Paneer pan fried + vegetables + small rice",
+      "OR Vegetable curry + paneer cubes"
+    ],
+    "Meal_3_Dinner": [
+      "Paneer pan fried + vegetable plate",
+      "OR Curd bowl + cooked vegetables",
+      "OR Paneer bhurji + vegetables",
+      "OR Light vegetable curry + paneer"
+    ],
+    "Snack_Optional_Light": [
+      "Puffed rice (plain, lightly salted)",
+      "OR Roasted makhana",
+      "OR Small bowl curd",
+      "OR One fruit if hungry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Focus on paneer and curd daily to support fat loss and hormonal balance.",
+    "Keep meals low in sugar and refined foods to support thyroid and PCOS health.",
+    "Since stress and late nights trigger cravings, keep dinner light and protein-focused.",
+    "Avoid sweets and fried foods on work shift days; replace with curd or makhana.",
+    "Try to finish dinner at least 2 hours before sleep for better digestion.",
+    "Repeat meals on busy days to avoid decision fatigue and overeating.",
+    "Increase daily movement slowly toward 6,000–7,000 steps for better fat loss.",
+    "Stay consistent rather than perfect; visible body changes will follow routine."
+  ]
+}

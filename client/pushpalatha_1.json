@@ -1,0 +1,61 @@
+{
+  "Overview": {
+    "Name": "Pushpalatha",
+    "Age": 31,
+    "Gender": "Female",
+    "Height": "5 ft 1 in",
+    "Current_Weight_kg": 63.6,
+    "Target_Weight_kg": 58,
+    "Medical_Conditions": ["PCOS"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Working Professional",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 4,
+    "Goal": "Preventing and reversing health issues, supporting hormonal balance, and gradual fat loss."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + 1 boiled egg",
+      "Option 2: Plain milk (small cup)",
+      "Option 3: Warm water + small bowl curd"
+    ],
+    "Meal_1_Breakfast": [
+      "Option 1: Vegetable omelette (2 eggs) + small bowl curd",
+      "Option 2: Paneer bhurji (pan fried) + cooked vegetables",
+      "Option 3: Poha (small portion) with vegetables"
+    ],
+    "Mid_Morning": [
+      "Option 1: One fruit (apple or guava)",
+      "Option 2: Buttermilk (plain)",
+      "Option 3: Small bowl curd"
+    ],
+    "Meal_2_Lunch": [
+      "Option 1: Plain rice (small portion) + chicken curry (pressure cooked) + vegetables",
+      "Option 2: Plain rice (small portion) + fish curry + vegetables",
+      "Option 3: Plain rice (small portion) + paneer curry + vegetables"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice with onion and salt (dry)",
+      "Option 2: 1–2 boiled eggs",
+      "Option 3: Plain milk or curd"
+    ],
+    "Meal_3_Dinner": [
+      "Option 1: Egg curry + cooked vegetables",
+      "Option 2: Paneer curry + vegetables",
+      "Option 3: Curd bowl with cooked vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep rice portions controlled to support PCOS and fat loss.",
+    "Avoid frequent fried foods; use pan fried or pressure cooked meals.",
+    "Since social gatherings trigger overeating, eat a protein-rich meal before attending.",
+    "For sweet and savory cravings, have curd or boiled eggs first and wait 10 minutes.",
+    "Maintain regular meal timing to support hormonal balance.",
+    "Focus on consistency rather than strict dieting."
+  ]
+}

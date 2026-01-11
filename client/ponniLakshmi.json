@@ -1,0 +1,52 @@
+{
+  "Overview": {
+    "Name": "R Ponni Lakshmi",
+    "Age": 39,
+    "Gender": "Female",
+    "Height": "152 cm",
+    "Current_Weight_kg": 65,
+    "Target_Weight_kg": 58,
+    "Medical_Conditions": ["Hormonal imbalance"],
+    "Food_Allergies": ["Dairy"],
+    "Diet_Type": "Non-Vegetarian (No dairy)",
+    "Occupation": "Desk Job (9–5)",
+    "Sleep_hrs": "6–8",
+    "Exercise": "Yoga",
+    "Steps": "<5k",
+    "Meals_per_Day": 3,
+    "Goal": "Improve overall health and hormonal balance while reducing body fat through simple, consistent meals."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Breakfast": [
+      "2–3 whole eggs pan fried in coconut oil + cooked vegetables",
+      "OR Boiled eggs + vegetable plate",
+      "OR Fish pan fried + small fruit"
+    ],
+    "Meal_2_Lunch": [
+      "Chicken curry + 1 small cup rice + cooked vegetables",
+      "OR Fish curry + rice + vegetable stir fry",
+      "OR Boiled eggs (2–3) + rice + vegetables"
+    ],
+    "Meal_3_Dinner": [
+      "Fish pan fried + vegetables",
+      "OR Chicken curry + vegetable plate",
+      "OR Egg omelette (2–3 eggs) + vegetables"
+    ],
+    "Snack_Optional_Light": [
+      "Puffed rice with salt",
+      "OR Roasted makhana",
+      "OR 1–2 boiled eggs",
+      "OR Small fruit"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid all dairy due to allergy. Use coconut oil for cooking.",
+    "Keep meals simple and home cooked to support hormonal balance.",
+    "Limit spicy foods if digestion feels heavy or bloated.",
+    "If hunger appears between meals, prefer eggs or puffed rice instead of packaged snacks.",
+    "Maintain consistent meal timings to help regulate hormones.",
+    "Increase daily steps gradually toward 6,000–7,000 for better fat loss.",
+    "Manage stress with yoga and short walks, as stress can affect hormonal balance.",
+    "Stay well hydrated through the day with plain water."
+  ]
+}

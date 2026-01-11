@@ -1,0 +1,43 @@
+{
+  "Overview": {
+    "Name": "Renuka K",
+    "Age": 31,
+    "Gender": "Female",
+    "Height": "5.3 ft",
+    "Current_Weight_kg": 77,
+    "Target_Weight_kg": 62,
+    "Medical_Conditions": [],
+    "Food_Allergies": [],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Beautician (9 to 9)",
+    "Sleep_hrs": "6–8",
+    "Exercise": "Yoga",
+    "Steps": "Don’t track",
+    "Meals_per_Day": 1,
+    "Goal": "Improve daily energy levels, feel lighter and more confident, and reduce overall fatigue through simple, consistent meals that support fat loss."
+  },
+  "Daily_Meal_Plan": {
+    "Main_Meal": [
+      "3 whole eggs pan fried",
+      "OR Chicken curry (moderate portion)",
+      "OR Fish pan fried",
+      "AND 1 small bowl rice",
+      "AND Cooked vegetables such as bottle gourd, ridge gourd, beans, or spinach",
+      "AND 1 small bowl curd"
+    ],
+    "Optional_Light_Snack": [
+      "Puffed rice with salt",
+      "OR Roasted makhana",
+      "OR 1–2 boiled eggs"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since you prefer one main meal, focus on making it protein-heavy to improve energy and prevent muscle loss.",
+    "Avoid very spicy food on late workdays to reduce digestion issues and tiredness.",
+    "Finish the main meal at least 2–3 hours before sleep to improve recovery.",
+    "On long workdays, keep boiled eggs or curd ready to avoid skipping food completely.",
+    "Late nights are a trigger, so keep meals simple and repetitive on busy days.",
+    "Drink water regularly during work hours to reduce false hunger and fatigue.",
+    "Consistency matters more than variety for steady fat loss and better energy."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "Overview": {
+    "Name": "Aruna",
+    "Age": 35,
+    "Gender": "Female",
+    "Height": "164 cm",
+    "Current_Weight_kg": 54.6,
+    "Target_Weight_kg": null,
+    "Medical_Conditions": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Desk Job (9–5)",
+    "Sleep_hrs": "6–8",
+    "Exercise": "Walking",
+    "Steps": "<5k",
+    "Meals_per_Day": 3,
+    "Goal": "Stay fit, improve overall energy and confidence through simple, consistent meals."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Breakfast": [
+      "2 whole eggs pan fried + cooked vegetables",
+      "OR Omelette with onions and tomatoes",
+      "OR Boiled eggs (2) + 1 fruit"
+    ],
+    "Meal_2_Lunch": [
+      "Chicken curry + small bowl rice + cooked vegetables",
+      "OR Fish pan fried + rice + vegetable curry",
+      "OR Egg curry + rice + vegetables"
+    ],
+    "Meal_3_Dinner": [
+      "Fish pan fried + vegetables",
+      "OR Chicken stir cooked + vegetables",
+      "OR 2–3 eggs omelette + vegetable plate"
+    ],
+    "Snack_Optional_Light": [
+      "Puffed rice",
+      "OR Roasted makhana",
+      "OR 1 boiled egg",
+      "OR Fruit (small portion)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep meals simple and home-cooked to stay consistent.",
+    "Since stress is a trigger, avoid skipping meals to prevent cravings later.",
+    "Prefer pan fried, boiled, or lightly cooked foods instead of deep fried.",
+    "Increase daily steps gradually toward 7,000 for better fitness.",
+    "If craving spicy food, keep portions controlled and pair with protein.",
+    "Drink enough water through the day to support digestion and energy.",
+    "Focus on regular meal timings to maintain steady energy levels."
+  ]
+}

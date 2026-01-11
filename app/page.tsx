@@ -1,5 +1,5 @@
 import React from "react";
-import response from "../client/Swapna_N.json";
+import response from "../client/kpriyanka.json";
 import OverviewCard from "./components/OverviewCard";
 import DynamicMeal from "./components/DynamicMeal";
 import PDFExportButton from "./components/PDFExportButton";
@@ -58,6 +58,7 @@ export default function Page() {
           age={overview.Age}
           gender={overview.Gender}
           currentWeight={`${overview.Current_Weight_kg} kg`}
+          targetWeight={`${overview.Target_Weight_kg} kg`}
           dietType={overview.Diet_Type}
           occupation={overview.Occupation}
           sleep={overview.Sleep_hrs}

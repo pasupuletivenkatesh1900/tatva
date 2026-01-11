@@ -1,0 +1,54 @@
+{
+  "Overview": {
+    "Name": "Kankara Greeshmasree Reddy",
+    "Age": 24,
+    "Gender": "Female",
+    "Height": "168 cm",
+    "Current_Weight_kg": 61,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Freelance Artist (Irregular schedule)",
+    "Sleep_hrs": "6–8",
+    "Exercise": "Starting yoga soon",
+    "Steps": "<5k",
+    "Meals_per_Day": 3,
+    "Goal": "Achieve visible fat loss, improve body shape, feel energetic and confident, and support long-term health through simple, structured meals."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Breakfast": [
+      "2–3 whole eggs pan fried",
+      "OR Boiled eggs + 1 fruit",
+      "OR Omelette with onions and tomatoes",
+      "OR Fish pan fried (small portion)"
+    ],
+    "Meal_2_Lunch": [
+      "Chicken curry + 1 cup rice + cooked vegetables",
+      "OR Fish pan fried + rice + vegetable sabzi",
+      "OR Boiled eggs (3) + rice + vegetables",
+      "OR Chicken pan fried + vegetable plate"
+    ],
+    "Meal_3_Dinner": [
+      "Chicken pan fried + vegetables",
+      "OR Fish curry + small rice + vegetables",
+      "OR 2–3 eggs omelette + vegetable plate",
+      "OR Boiled eggs + curd + vegetables"
+    ],
+    "Snack_Optional_Light": [
+      "Puffed rice (plain or lightly salted)",
+      "OR Roasted makhana",
+      "OR 1–2 boiled eggs",
+      "OR Buttermilk"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since sweets and fried foods trigger overeating, avoid keeping them at home.",
+    "Base every meal around eggs, chicken, or fish to control hunger and support fat loss.",
+    "For irregular work hours, keep boiled eggs or cooked chicken ready for quick meals.",
+    "If stress or late nights trigger cravings, eat protein first before deciding on anything else.",
+    "During social outings, choose grilled or pan-fried non-veg and skip fried starters.",
+    "Start yoga consistently to improve metabolism and body tone.",
+    "Aim to slowly increase steps toward 7,000 per day for better fat loss results.",
+    "Drink enough water through the day to reduce false hunger and sugar cravings."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "Overview": {
+    "Name": "S H S S Subrahmanyeswari",
+    "Age": 31,
+    "Gender": "Female",
+    "Height": "157 cm",
+    "Current_Weight_kg": 51,
+    "Target_Weight_kg": "Optimal as per BMI",
+    "Medical_Conditions": ["Thyroid", "Rheumatoid arthritis"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (balanced, not every meal)",
+    "Occupation": "Desk Job",
+    "Work_Hours": "12 pm – 9 pm",
+    "Sleep_hrs": "Irregular",
+    "Who_Cooks": "Mixed",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 3,
+    "Goal": "Improve energy, reduce inflammation, manage health conditions, and support mental wellbeing."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + plain milk (small cup)",
+      "Option 2: Warm water + 1 boiled egg",
+      "Option 3: Small bowl curd"
+    ],
+    "Meal_1_Breakfast": [
+      "Option 1: Omelette (2 eggs) + cooked vegetables",
+      "Option 2: Paneer bhurji (pan fried) + vegetables",
+      "Option 3: Rice rawa upma (small portion) with vegetables"
+    ],
+    "Meal_2_Lunch": [
+      "Option 1: Plain rice (small portion) + chicken curry (pressure cooked) + vegetables",
+      "Option 2: Plain rice (small portion) + fish curry + vegetables",
+      "Option 3: Plain rice (small portion) + dal + cooked vegetables"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (small portion, dry)",
+      "Option 2: 1 boiled egg",
+      "Option 3: Plain milk or curd"
+    ],
+    "Meal_3_Dinner": [
+      "Option 1: Paneer curry + small portion plain rice + cooked vegetables",
+      "Option 2: Egg curry + small portion plain rice + vegetables",
+      "Option 3: Dal + small portion plain rice + cooked vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid skipping meals to support thyroid health and energy levels.",
+    "Keep meals anti-inflammatory by limiting fried and very spicy foods.",
+    "Eat slowly and stop before feeling too full to avoid flare-ups.",
+    "Stress and boredom trigger overeating; stick to planned meal timing.",
+    "Light movement and yoga support joint health and digestion.",
+    "Consistency with sleep, meals, and routine matters more than strict dieting."
+  ]
+}

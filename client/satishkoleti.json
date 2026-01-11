@@ -1,0 +1,49 @@
+{
+  "Overview": {
+    "Name": "Satish Koleti",
+    "Age": 47,
+    "Gender": "Male",
+    "Height": "Not specified",
+    "Current_Weight_kg": 92,
+    "Target_Weight_kg": 75,
+    "Medical_Conditions": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Occupation": "Desk Job (9–5)",
+    "Sleep_hrs": "6–8",
+    "Exercise": "Yoga",
+    "Steps": "5k–10k",
+    "Meals_per_Day": 2,
+    "Goal": "Reduce body fat, look leaner, improve energy levels and overall health while keeping meals simple and sustainable."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Main_Meal": [
+      "Paneer pan fried in ghee + vegetable curry (bottle gourd, ridge gourd or beans)",
+      "OR Thick curd bowl + cooked vegetables",
+      "OR Paneer curry + small portion plain rice",
+      "OR Vegetable dal + plain rice + rasam"
+    ],
+    "Meal_2_Second_Meal": [
+      "Paneer bhurji + vegetable plate",
+      "OR Curd rice (small portion) + cooked vegetables",
+      "OR Vegetable curry + jowar roti (1)",
+      "OR Dal + vegetables"
+    ],
+    "Snack_Optional_Light": [
+      "Puffed rice",
+      "OR Roasted makhana",
+      "OR Plain buttermilk",
+      "OR Small bowl curd"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Prioritise paneer, curd and dal in every meal to support fat loss and muscle maintenance.",
+    "Keep rice portions small and avoid biryani and heavy mixed dishes during regular days.",
+    "Use ghee for cooking instead of refined oils.",
+    "Since social gatherings trigger overeating, eat a paneer or curd-based meal before attending.",
+    "Stick to simple, repetitive meals on busy days to avoid overeating.",
+    "Aim to maintain 7,000–8,000 steps daily for better fat loss and digestion.",
+    "Finish dinner at least 2–3 hours before sleep for better recovery.",
+    "Stay well hydrated with water and buttermilk through the day.",
+    "Consistency with simple meals will visibly reduce belly fat and improve overall physique."
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Overview": {
+    "Name": "R Venkateshwar Reddy",
+    "Age": 34,
+    "Gender": "Male",
+    "Height": "180 cm",
+    "Current_Weight_kg": 75,
+    "Target_Weight_kg": null,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Desk Job",
+    "Work_Hours": "10 am – 7 pm",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Family member",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 3,
+    "Goal": "Improve energy levels, support overall health, and maintain a fit and balanced body through simple, consistent meals."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Breakfast": [
+      "2–3 whole eggs pan fried + cooked vegetables",
+      "OR Omelette with onions and greens",
+      "OR Boiled eggs (2) + small fruit"
+    ],
+    "Meal_2_Lunch": [
+      "Chicken curry + 1 cup rice + cooked vegetables",
+      "OR Fish pan fried + rice + vegetable curry",
+      "OR Egg curry + rice + vegetables"
+    ],
+    "Meal_3_Dinner": [
+      "Fish pan fried + vegetable plate",
+      "OR Chicken curry + small rice portion + vegetables",
+      "OR 2–3 eggs omelette + vegetables"
+    ],
+    "Snack_Optional_Light": [
+      "Roasted makhana",
+      "OR Puffed rice (small portion)",
+      "OR 1 boiled egg"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep meals simple and home-style to make it easy to stay consistent.",
+    "Prioritise eggs, chicken, or fish in every main meal for better energy and muscle support.",
+    "Since social gatherings trigger overeating, eat a protein-rich meal before attending events.",
+    "Choose grilled or pan fried options when eating outside and avoid fried starters.",
+    "Try to track steps loosely and aim to move more during the day, especially after meals.",
+    "Finish dinner at least 2–3 hours before sleep for better digestion.",
+    "Drink enough water through the day to support digestion and overall health."
+  ]
+}

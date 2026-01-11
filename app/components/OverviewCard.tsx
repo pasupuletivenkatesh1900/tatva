@@ -7,6 +7,7 @@ interface OverviewCardProps {
   age: number;
   gender: string;
   currentWeight: string;
+  targetWeight: string;
   dietType: string;
   occupation: string;
   sleep: string;
@@ -21,6 +22,7 @@ const OverviewCard: React.FC<OverviewCardProps> = ({
   age,
   gender,
   currentWeight,
+  targetWeight,
   dietType,
   occupation,
   sleep,
@@ -45,6 +47,9 @@ const OverviewCard: React.FC<OverviewCardProps> = ({
       </li>
       <li>
         <span className="overview-label">Current Weight:</span> {currentWeight}
+      </li>
+      <li>
+        <span className="overview-label">Target Weight:</span> {targetWeight}
       </li>
       <li>
         <span className="overview-label">Diet Type:</span> {dietType}

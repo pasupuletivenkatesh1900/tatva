@@ -1,0 +1,56 @@
+{
+  "Overview": {
+    "Name": "SABERA SHAIK",
+    "Age": 41,
+    "Gender": "Female",
+    "Height": "5 ft",
+    "Current_Weight_kg": 74,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "Less than 6",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 3,
+    "Goal": "Improve energy, confidence, mental wellbeing, and support gradual fat loss."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + 1 boiled egg",
+      "Option 2: Plain milk (small cup)",
+      "Option 3: Warm water + small bowl curd"
+    ],
+    "Meal_1_Breakfast": [
+      "Option 1: Omelette (2 eggs) + cooked vegetables",
+      "Option 2: Paneer bhurji (pan fried) + vegetables",
+      "Option 3: Poha (small portion) with vegetables"
+    ],
+    "Meal_2_Lunch": [
+      "Option 1: Plain rice (small portion) + chicken curry + vegetables",
+      "Option 2: Plain rice (small portion) + fish curry + vegetables",
+      "Option 3: Plain rice (small portion) + mutton curry (small portion) + vegetables"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (small portion, dry)",
+      "Option 2: 1 boiled egg",
+      "Option 3: Plain milk or curd"
+    ],
+    "Meal_3_Dinner": [
+  "Option 1: Chicken curry + small portion plain rice + cooked vegetables",
+  "Option 2: Fish pan fried + small portion plain rice + vegetables",
+  "Option 3: Paneer curry + small portion plain rice + vegetables"
+]
+  },
+  "Notes_and_Tips": [
+    "Since sleep is less than 6 hours, keep dinners light to support digestion and recovery.",
+    "For sweet cravings, eat curd or a boiled egg first and wait 10 minutes.",
+    "Avoid frequent late-night eating as it affects energy and weight.",
+    "Use pressure cooked or pan fried methods to reduce oil.",
+    "Focus on daily routine and consistency rather than strict rules.",
+    "Yoga and regular meals will support both mental and physical wellbeing."
+  ]
+}

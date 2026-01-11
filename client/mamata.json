@@ -1,0 +1,52 @@
+{
+  "Overview": {
+    "Name": "R Mamatha",
+    "Age": 27,
+    "Gender": "Female",
+    "Height": "Not provided",
+    "Current_Weight_kg": 80,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["PCOS"],
+    "Food_Allergies": ["Brinjal"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Homemaker",
+    "Work_Hours": "Not fixed",
+    "Sleep_hrs": "More than 8",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 3,
+    "Goal": "Improve energy levels, support hormonal balance, reduce health risks, and improve mental wellbeing with simple, sustainable meals."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Breakfast": [
+      "2 whole eggs pan fried + cooked vegetables",
+      "OR Egg omelette with onions and tomatoes",
+      "OR Boiled eggs (2) + vegetable plate"
+    ],
+    "Meal_2_Lunch": [
+      "Chicken curry + 1 cup rice + cooked vegetables",
+      "OR Fish pan fried + rice + vegetable curry",
+      "OR Boiled eggs (3) + rice + vegetables"
+    ],
+    "Meal_3_Dinner": [
+      "Chicken pan fried + vegetables",
+      "OR Fish curry + vegetables",
+      "OR Egg omelette (3 eggs) + vegetable plate"
+    ],
+    "Snack_Optional_Light": [
+      "Roasted makhana",
+      "OR Small puffed rice snack",
+      "OR 1 boiled egg"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Focus on eggs, chicken, and fish regularly to support hormonal balance and fat loss.",
+    "Keep meals simple and home cooked to avoid overeating.",
+    "Since PCOS is present, avoid refined snacks and sugary foods.",
+    "If boredom triggers eating, keep fixed meal timings and avoid grazing.",
+    "Prepare vegetables and boil eggs in advance to reduce effort.",
+    "Increase daily movement gradually even outside yoga sessions.",
+    "Drink enough water through the day to support digestion and hormones."
+  ]
+}

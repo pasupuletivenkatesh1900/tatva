@@ -1,0 +1,57 @@
+{
+  "Overview": {
+    "Name": "Tejasvi",
+    "Age": 31,
+    "Gender": "Female",
+    "Height": "158 cm",
+    "Current_Weight_kg": 53,
+    "Target_Weight_kg": 53,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": "None",
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Homemaker",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "More than 8",
+    "Who_Cooks": "Self",
+    "Steps_per_Day": "<5k",
+    "Exercise": "None",
+    "Meals_per_Day": 3,
+    "Goal": "Improve appearance, feel energetic and confident, support thyroid health, and maintain a lean, balanced physique with simple and controlled eating."
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1_Breakfast": [
+      "2 whole eggs pan fried + cooked vegetables",
+      "OR Omelette with onions and vegetables",
+      "OR Boiled eggs (2) + 1 fruit",
+      "OR Paneer cubes pan fried + vegetables"
+    ],
+    "Meal_2_Lunch": [
+      "Chicken curry + 1 small cup rice + cooked vegetables",
+      "OR Fish pan fried + rice + vegetable curry",
+      "OR Paneer curry + rice + vegetables",
+      "OR Eggs curry + rice + vegetable plate"
+    ],
+    "Meal_3_Dinner": [
+      "Fish pan fried + vegetables",
+      "OR Chicken curry (small portion) + vegetables",
+      "OR Paneer pan fried + vegetables",
+      "OR Omelette (2 eggs) + vegetable plate"
+    ],
+    "Snack_Optional_Light": [
+      "Puffed rice (small bowl)",
+      "OR Roasted makhana",
+      "OR 1 boiled egg",
+      "OR Small bowl curd"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since sweets are a trigger, avoid keeping sweets at home and eat full meals on time to prevent cravings.",
+    "Focus on protein like eggs, chicken, fish or paneer in every meal to stay full and avoid overeating.",
+    "Keep meals simple and repetitive on busy or low-motivation days to avoid mindless snacking.",
+    "For boredom eating, drink water first or take a short walk before reaching for food.",
+    "Try to increase daily steps gradually toward 6,000–7,000 for better metabolism and thyroid support.",
+    "Avoid eating directly from packets; always plate your food to control portions.",
+    "Use ghee or butter for cooking and avoid refined or seed oils.",
+    "Consistency with simple meals will help maintain weight, improve energy and keep hormones balanced."
+  ]
+}

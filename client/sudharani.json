@@ -1,0 +1,56 @@
+{
+  "Overview": {
+    "Name": "Sudharani Palli",
+    "Age": 39,
+    "Gender": "Female",
+    "Height": "5 ft 1 in",
+    "Current_Weight_kg": 69,
+    "Target_Weight_kg": 61,
+    "Medical_Conditions": ["Migraine"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Mixed",
+    "Steps": "<5k",
+    "Exercise": "Dance",
+    "Meals_per_Day": 3,
+    "Goal": "Improve appearance, body shape, and confidence with steady fat loss."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + 1 boiled egg",
+      "Option 2: Plain milk (small cup)",
+      "Option 3: Warm water + small bowl curd"
+    ],
+    "Meal_1_Breakfast": [
+      "Option 1: Vegetable omelette (2 eggs) + small bowl curd",
+      "Option 2: Paneer bhurji (pan fried) + cooked vegetables",
+      "Option 3: Poha (small portion) with vegetables"
+    ],
+    "Meal_2_Lunch": [
+      "Option 1: Plain rice (small portion) + chicken curry (pressure cooked) + vegetables",
+      "Option 2: Plain rice (small portion) + fish curry + vegetables",
+      "Option 3: Plain rice (small portion) + egg curry + vegetables"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (small portion, dry)",
+      "Option 2: 1 boiled egg",
+      "Option 3: Plain milk or curd"
+    ],
+    "Meal_3_Dinner": [
+      "Option 1: Chicken curry + small portion plain rice + cooked vegetables",
+      "Option 2: Egg curry + small portion plain rice + vegetables",
+      "Option 3: Paneer curry + small portion plain rice + vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Eat meals on time to avoid migraine triggers linked to hunger.",
+    "Avoid skipping meals, especially breakfast.",
+    "For sweet cravings under stress, start with protein and wait 10 minutes.",
+    "Keep spices balanced; extremely spicy or oily meals may trigger migraines.",
+    "Dance is good cardio; support it with regular meals and hydration.",
+    "Focus on visible body changes and confidence rather than quick weight drops."
+  ]
+}
