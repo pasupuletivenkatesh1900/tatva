@@ -1,0 +1,61 @@
+{
+  "Overview": {
+    "Name": "Swetha Reddy",
+    "Age": 41,
+    "Gender": "Female",
+    "Height": "166 cm",
+    "Current_Weight_kg": 81,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (minimal, mostly vegetarian)",
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga (recently started)",
+    "Meals_per_Day": 2,
+    "Goal": "Improve daily energy and gradually support healthy fat loss."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + plain milk (small cup)",
+      "Option 2: Warm water + small bowl curd",
+      "Option 3: Plain milk (small cup)"
+    ],
+    "Meal_1_Breakfast": [
+      "Option 1: Paneer bhurji (pan fried) + cooked vegetables",
+      "Option 2: Curd bowl + cooked vegetable side",
+      "Option 3: Rice rawa upma (small portion) with vegetables"
+    ],
+    "Mid_Morning_Optional": [
+      "Option 1: One fruit (apple or guava)",
+      "Option 2: Buttermilk (plain)",
+      "Option 3: Small bowl curd"
+    ],
+    "Meal_2_Lunch": [
+      "Option 1: Plain rice (small portion) + dal + cooked vegetables",
+      "Option 2: Plain rice (small portion) + paneer curry + vegetables",
+      "Option 3: Plain rice (small portion) + chicken curry (small portion) + vegetables"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (small portion, dry)",
+      "Option 2: Plain milk",
+      "Option 3: Small bowl curd"
+    ],
+    "Meal_3_Dinner": [
+      "Option 1: Paneer curry + small portion plain rice + cooked vegetables",
+      "Option 2: Dal + small portion plain rice + vegetables",
+      "Option 3: Curd + small portion plain rice + cooked vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since yoga is newly started, keep meals simple and regular.",
+    "Avoid skipping meals to support thyroid health.",
+    "For sweet cravings, start meals with protein and eat slowly.",
+    "Keep fried foods occasional to prevent overeating.",
+    "Small rice portions help consistency without feeling restricted.",
+    "Focus on energy, digestion, and routine rather than quick weight loss."
+  ]
+}

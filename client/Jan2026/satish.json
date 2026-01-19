@@ -1,0 +1,56 @@
+{
+  "Overview": {
+    "Name": "Sathish Reddy",
+    "Age": 32,
+    "Gender": "Male",
+    "Height": "5 ft 6 in",
+    "Current_Weight_kg": 69,
+    "Target_Weight_kg": 62,
+    "Medical_Conditions": ["Hypertension"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Occupation": "Field Work",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Walking",
+    "Meals_per_Day": 3,
+    "Goal": "Improve energy, manage blood pressure, and support overall health."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + 1 boiled egg",
+      "Option 2: Warm water + plain milk (small cup)",
+      "Option 3: Warm water + small bowl curd"
+    ],
+    "Meal_1_Breakfast": [
+      "Option 1: Omelette (2 eggs) + cooked vegetables",
+      "Option 2: Dal (simple) + cooked vegetables",
+      "Option 3: Rice rawa upma (small portion) with vegetables"
+    ],
+    "Meal_2_Lunch": [
+      "Option 1: Plain rice (small portion) + egg curry + cooked vegetables",
+      "Option 2: Plain rice (small portion) + dal + cooked vegetables",
+      "Option 3: Plain rice (small portion) + paneer curry + vegetables"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (small portion, dry)",
+      "Option 2: 1 boiled egg",
+      "Option 3: Plain milk or curd"
+    ],
+    "Meal_3_Dinner": [
+      "Option 1: Egg curry + small portion plain rice + cooked vegetables",
+      "Option 2: Dal + small portion plain rice + cooked vegetables",
+      "Option 3: Paneer curry + small portion plain rice + vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Use minimal salt to support blood pressure control.",
+    "Eggs provide easy protein without increasing carbs.",
+    "Avoid very spicy and fried foods as they can affect BP.",
+    "Field work increases activity; do not skip meals.",
+    "Light walking after dinner supports digestion and BP.",
+    "Consistency with simple meals works better than frequent changes."
+  ]
+}

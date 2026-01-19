@@ -1,0 +1,56 @@
+{
+  "Overview": {
+    "Name": "Manasa",
+    "Age": 33,
+    "Gender": "Female",
+    "Height": "NA",
+    "Current_Weight_kg": 69,
+    "Target_Weight_kg": 58,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (balanced, not every meal)",
+    "Occupation": "Desk Job",
+    "Work_Hours": "11 hrs a day",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 3,
+    "Goal": "Improve appearance, energy levels, and overall health with steady fat loss."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + 1 boiled egg",
+      "Option 2: Warm water + plain milk (small cup)",
+      "Option 3: Warm water + small bowl curd"
+    ],
+    "Meal_1_Breakfast": [
+      "Option 1: Vegetable omelette (2 eggs) + cooked vegetables",
+      "Option 2: Paneer bhurji (pan fried) + vegetables",
+      "Option 3: Poha (small portion) with vegetables"
+    ],
+    "Meal_2_Lunch": [
+      "Option 1: Plain rice (small portion) + dal + cooked vegetables",
+      "Option 2: Plain rice (small portion) + paneer curry + vegetables",
+      "Option 3: Plain rice (small portion) + curd + vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (small portion, dry)",
+      "Option 2: Plain milk or curd",
+      "Option 3: Fruit bowl (seasonal fruits)"
+    ],
+    "Meal_3_Dinner": [
+      "Option 1: Chicken curry + small portion plain rice + cooked vegetables",
+      "Option 2: Egg curry + small portion plain rice + vegetables",
+      "Option 3: Paneer curry + small portion plain rice + vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep fried foods occasional as they trigger cravings.",
+    "Spicy foods can be used in moderation without excess oil.",
+    "Long work hours require regular meals—avoid skipping lunch.",
+    "Dinner with small rice portion supports consistency and sleep.",
+    "Yoga and daily routine support steady fat loss.",
+    "Focus on visible body changes and daily energy levels."
+  ]
+}

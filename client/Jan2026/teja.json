@@ -1,0 +1,56 @@
+{
+  "Overview": {
+    "Name": "Teja Narra",
+    "Age": 35,
+    "Gender": "Female",
+    "Height": "5 ft 2 in",
+    "Current_Weight_kg": 83,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (balanced, not every meal)",
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 2,
+    "Goal": "Improve daily energy and confidence with steady fat loss."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + 1 boiled egg",
+      "Option 2: Warm water + plain milk (small cup)",
+      "Option 3: Warm water + small bowl curd"
+    ],
+    "Meal_1_Breakfast": [
+      "Option 1: Vegetable omelette (2 eggs) + cooked vegetables",
+      "Option 2: Paneer bhurji (pan fried) + vegetables",
+      "Option 3: Rice rawa upma (small portion) with vegetables"
+    ],
+    "Meal_2_Lunch": [
+      "Option 1: Plain rice (small portion) + fish curry + vegetables",
+      "Option 2: Plain rice (small portion) + chicken curry + vegetables",
+      "Option 3: Plain rice (small portion) + dal + cooked vegetables"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (small portion, dry)",
+      "Option 2: 1 boiled egg",
+      "Option 3: Plain milk or curd"
+    ],
+    "Meal_3_Dinner": [
+      "Option 1: Fish curry + small portion plain rice + cooked vegetables",
+      "Option 2: Egg curry + small portion plain rice + vegetables",
+      "Option 3: Paneer curry + small portion plain rice + vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "No fruits are included at breakfast as preferred.",
+    "Fish can be included more often for protein and satiety.",
+    "Keep spicy foods moderate to avoid overeating.",
+    "Avoid skipping meals even on low-appetite days.",
+    "Small rice portions at dinner help consistency and sleep.",
+    "Yoga and routine will gradually improve energy and body composition."
+  ]
+}

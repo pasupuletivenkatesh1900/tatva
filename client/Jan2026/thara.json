@@ -1,0 +1,56 @@
+{
+  "Overview": {
+    "Name": "Y. Thara",
+    "Age": 29,
+    "Gender": "Female",
+    "Height": "5 ft 2 in",
+    "Current_Weight_kg": 59,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (balanced, not every meal)",
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "Irregular",
+    "Who_Cooks": "Family member",
+    "Steps": "Don’t track",
+    "Exercise": "Walking",
+    "Meals_per_Day": 3,
+    "Goal": "Improve appearance, energy, confidence, and overall health."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + 1 boiled egg",
+      "Option 2: Warm water only",
+      "Option 3: Plain tea or coffee (no sugar)"
+    ],
+    "Meal_1_Breakfast": [
+      "Option 1: Omelette (2 eggs) + cooked vegetables",
+      "Option 2: Boiled eggs (2) + fruit",
+      "Option 3: Poha (small portion) with vegetables"
+    ],
+    "Meal_2_Lunch": [
+      "Option 1: Plain rice (small portion) + chicken curry + vegetables",
+      "Option 2: Plain rice (small portion) + egg curry + vegetables",
+      "Option 3: Plain rice (small portion) + dal + cooked vegetables"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (small portion, dry)",
+      "Option 2: Fruit bowl",
+      "Option 3: Plain milk or curd"
+    ],
+    "Meal_3_Dinner": [
+      "Option 1: Chicken curry + small portion plain rice + cooked vegetables",
+      "Option 2: Egg curry + small portion plain rice + vegetables",
+      "Option 3: Dal + small portion plain rice + cooked vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid lady’s finger as mentioned.",
+    "For stress, social gatherings, or late nights, eat protein first.",
+    "Keep fried foods occasional as they trigger cravings.",
+    "Regular walking and yoga support fat loss and energy.",
+    "Maintain meal timing even on busy workdays.",
+    "Focus on consistency rather than strict restriction."
+  ]
+}

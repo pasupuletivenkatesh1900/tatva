@@ -1,0 +1,56 @@
+{
+  "Overview": {
+    "Name": "Raghavender Vemula",
+    "Age": 30,
+    "Gender": "Male",
+    "Height": "172 cm",
+    "Current_Weight_kg": 70,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (balanced, not every meal)",
+    "Occupation": "Desk Job + Field Work",
+    "Work_Hours": "9 am – 8 pm",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 3,
+    "Goal": "Improve appearance, energy, confidence, and overall health."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + 1 boiled egg",
+      "Option 2: Warm water only",
+      "Option 3: Plain tea or coffee (no sugar)"
+    ],
+    "Meal_1_Breakfast": [
+      "Option 1: Omelette (2 eggs) + cooked vegetables",
+      "Option 2: Boiled eggs (2) + fruit",
+      "Option 3: Poha (small portion) with vegetables"
+    ],
+    "Meal_2_Lunch": [
+      "Option 1: Plain rice (small portion) + chicken curry + vegetables",
+      "Option 2: Plain rice (small portion) + fish curry + vegetables",
+      "Option 3: Plain rice (small portion) + dal + cooked vegetables"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (small portion, dry)",
+      "Option 2: Fruit bowl",
+      "Option 3: Boiled eggs (1–2)"
+    ],
+    "Meal_3_Dinner": [
+      "Option 1: Chicken curry + small portion plain rice + cooked vegetables",
+      "Option 2: Egg curry + small portion plain rice + vegetables",
+      "Option 3: Dal + small portion plain rice + cooked vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid milk, curd, butter, cheese, malai as per preference.",
+    "Keep non-veg mainly at dinner as selected.",
+    "Long workdays need regular meals; avoid skipping lunch.",
+    "Late nights trigger overeating—keep dinner light and on time.",
+    "Yoga and daily movement support fat loss and energy.",
+    "Focus on consistency rather than perfection."
+  ]
+}

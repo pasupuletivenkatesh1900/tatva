@@ -1,0 +1,56 @@
+{
+  "Overview": {
+    "Name": "A. Saisree",
+    "Age": 40,
+    "Gender": "Female",
+    "Height": "153 cm",
+    "Current_Weight_kg": 82,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (balanced, not every meal)",
+    "Occupation": "Desk Job",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Mixed",
+    "Steps": "5k–10k",
+    "Exercise": "None",
+    "Meals_per_Day": 3,
+    "Goal": "Improve appearance, energy, and manage thyroid with steady fat loss and better routine."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + 1 boiled egg",
+      "Option 2: Warm water + plain milk (small cup)",
+      "Option 3: Warm water + small bowl curd"
+    ],
+    "Meal_1_Breakfast": [
+      "Option 1: Vegetable omelette (2 eggs) + cooked vegetables",
+      "Option 2: Paneer bhurji (pan fried) + vegetables",
+      "Option 3: Poha (small portion) with vegetables"
+    ],
+    "Meal_2_Lunch": [
+      "Option 1: Plain rice (small portion) + chicken curry (pressure cooked) + vegetables",
+      "Option 2: Plain rice (small portion) + fish curry + vegetables",
+      "Option 3: Plain rice (small portion) + dal + cooked vegetables"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (small portion, dry)",
+      "Option 2: 1 boiled egg",
+      "Option 3: Plain milk or curd"
+    ],
+    "Meal_3_Dinner": [
+      "Option 1: Paneer curry + small portion plain rice + cooked vegetables",
+      "Option 2: Egg curry + small portion plain rice + vegetables",
+      "Option 3: Dal + small portion plain rice + cooked vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep meal timing regular to support thyroid function.",
+    "Stress and late nights trigger sweet and fried cravings; start meals with protein and eat slowly.",
+    "Keep rice portions small and consistent across meals.",
+    "Prefer pan fried or pressure cooked foods with minimal oil.",
+    "Try light movement after dinner to improve sleep quality.",
+    "Focus on steady routine and energy improvements rather than quick weight loss."
+  ]
+}

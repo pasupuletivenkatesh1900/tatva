@@ -1,0 +1,56 @@
+{
+  "Overview": {
+    "Name": "Ruka Mamatha",
+    "Age": 27,
+    "Gender": "Female",
+    "Height": "165 cm",
+    "Current_Weight_kg": 80,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["PCOS"],
+    "Food_Allergies": ["Brinjal"],
+    "Diet_Type": "Strictly Vegetarian",
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 3,
+    "Goal": "Improve appearance, energy, and manage PCOS with steady fat loss."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water + plain milk (small cup)",
+      "Option 2: Warm water + small bowl curd",
+      "Option 3: Plain milk (small cup)"
+    ],
+    "Meal_1_Breakfast": [
+      "Option 1: Paneer bhurji (pan fried) + cooked vegetables (no brinjal)",
+      "Option 2: Curd bowl + cooked vegetable side (no brinjal)",
+      "Option 3: Rice rawa upma (small portion) with vegetables (no brinjal)"
+    ],
+    "Meal_2_Lunch": [
+      "Option 1: Plain rice (small portion) + dal + cooked vegetables (no brinjal)",
+      "Option 2: Plain rice (small portion) + paneer curry + vegetables",
+      "Option 3: Plain rice (small portion) + curd + vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (small portion, dry)",
+      "Option 2: Plain milk",
+      "Option 3: Small bowl curd"
+    ],
+    "Meal_3_Dinner": [
+      "Option 1: Paneer curry + small portion plain rice + cooked vegetables",
+      "Option 2: Dal + small portion plain rice + cooked vegetables",
+      "Option 3: Vegetable curry + small portion plain rice + curd"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid brinjal completely as mentioned.",
+    "Keep fried and very spicy foods occasional.",
+    "Eat meals on time to support PCOS and hormonal balance.",
+    "Include protein (paneer or dal) in every main meal.",
+    "Yoga and daily routine support fat loss and mood.",
+    "Focus on consistency and body feel rather than quick scale changes."
+  ]
+}
