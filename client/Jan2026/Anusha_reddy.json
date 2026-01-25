@@ -28,28 +28,23 @@
   },
   "Daily_Meal_Plan": {
     "Early_Morning (optional)": [
-      "Option 1: Warm water (200 ml) + lemon water",
-      "Option 2: Warm water (200 ml) + soaked almonds (6 nos)",
-      "Option 3: Warm water (200 ml) + fresh fruit (100 g)"
+      "Option 1: Warm water (200 ml) & lemon water",
+      "Option 2: Warm water (200 ml) & soaked almonds (6 nos)",
+      "Option 3: Warm water (200 ml) & fresh fruit (100 g)"
     ],
-    "Breakfast": [
-      "Option 1: Idli (2 small) with sambar (150 g) + coconut chutney (20 g)",
-      "Option 2: Vegetable upma (80 g) with mixed veggies (50 g) + curd (100 g)",
-      "Option 3: Poha (80 g) with peanuts (15 g) + buttermilk (150 ml)"
-    ],
-    "Lunch": [
-      "Option 1: Brown rice (150 g) + dal (150 g) + vegetable curry (100 g)",
-      "Option 2: Chapati (2 medium) + paneer curry (120 g) + salad (50 g)",
-      "Option 3: Millet khichdi (150 g) + mixed vegetables (100 g) + curd (100 g)"
+    "Meal_1": [
+      "Option 1: Brown rice (150 g) & dal (150 g) & vegetable curry (100 g)",
+      "Option 2: Chapati (2 medium) & paneer curry (120 g) & salad (50 g)",
+      "Option 3: Millet khichdi (150 g) & mixed vegetables (100 g) & curd (100 g)"
     ],
     "Evening_Snack": [
-      "Option 1: Fruit (100 g) + green tea (200 ml)",
+      "Option 1: Fruit (100 g) & green tea (200 ml)",
       "Option 2: Roasted makhana (30 g)",
       "Option 3: Sprout salad (100 g)"
     ],
-    "Dinner": [
-      "Option 1: Vegetable soup (250 ml) + 2 chapatis + lightly cooked vegetables (100 g)",
-      "Option 2: Mixed vegetable stir-fry (150 g) + ragi roti (2 small)",
+    "Meal_2": [
+      "Option 1: Vegetable soup (250 ml) & 2 chapatis & lightly cooked vegetables (100 g)",
+      "Option 2: Mixed vegetable stir-fry (150 g) & ragi roti (2 small)",
       "Option 3: Paneer tikka (100 g) with salad (50 g)"
     ]
   },

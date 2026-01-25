@@ -50,11 +50,6 @@ export default function Page() {
       </div>
       
       <div id="pdf-content" className="a4-sheet">
-        {overview.Meals_per_Day === 2 && (
-          <div style={{ background: '#fff3cd', padding: '8px 12px', borderRadius: 6, marginBottom: 12, border: '1px solid #ffeeba' }}>
-            <strong>Note:</strong> This client prefers 2 meals per day — breakfast may be skipped or kept light.
-          </div>
-        )}
         <OverviewCard
           name={overview.Name}
           logoUrl="/TATVA_logos.png"

@@ -28,29 +28,24 @@
   },
   "Daily_Meal_Plan": {
     "Early_Morning (optional)": [
-      "Option 1: Warm water (200 ml) + soaked almonds (6 nos)",
-      "Option 2: Warm water (200 ml) + lemon water (no sugar)",
-      "Option 3: Warm water (200 ml) + fresh fruit (100 g)"
+      "Option 1: Warm water (200 ml) & soaked almonds (6 nos)",
+      "Option 2: Warm water (200 ml) & lemon water (no sugar)",
+      "Option 3: Warm water (200 ml) & fresh fruit (100 g)"
     ],
-    "Breakfast": [
-      "Option 1: Poha (80 g) with vegetables (50 g) + curd (100 g)",
-      "Option 2: Vegetable upma (80 g) + buttermilk (150 ml)",
-      "Option 3: Idli (2 small) + sambar (150 g)"
-    ],
-    "Lunch": [
-      "Option 1: Plain rice (150 g) + grilled fish (200 g) + dal (100 g) + vegetable curry (100 g)",
-      "Option 2: Plain rice (150 g) + chicken curry (200 g) + dal (100 g) + salad (50 g)",
-      "Option 3: Plain rice (150 g) + paneer curry (150 g) + dal (100 g) + vegetable curry (100 g)"
+    "Meal_1": [
+      "Option 1: Plain rice (150 g) & grilled fish (200 g) & dal (100 g) & vegetable curry (100 g)",
+      "Option 2: Plain rice (150 g) & chicken curry (200 g) & dal (100 g) & salad (50 g)",
+      "Option 3: Plain rice (150 g) & paneer curry (150 g) & dal (100 g) & vegetable curry (100 g)"
     ],
     "Evening_Snack": [
-      "Option 1: Roasted chana (30 g) + green tea (200 ml)",
-      "Option 2: Fruit (100 g) + handful of nuts (20 g)",
+      "Option 1: Roasted chana (30 g) & green tea (200 ml)",
+      "Option 2: Fruit (100 g) & handful of nuts (20 g)",
       "Option 3: Puffed rice (30 g) with cucumber (50 g)"
     ],
-    "Dinner": [
-      "Option 1: Dal (180 g) + vegetable curry (120 g) + salad (50 g)",
-      "Option 2: Paneer curry (150 g) + rice (100 g) + vegetable fry (100 g)",
-      "Option 3: Light vegetable soup (250 ml) + 2 chapatis"
+    "Meal_2": [
+      "Option 1: Dal (180 g) & vegetable curry (120 g) & salad (50 g)",
+      "Option 2: Paneer curry (150 g) & rice (100 g) & vegetable fry (100 g)",
+      "Option 3: Light vegetable soup (250 ml) & 2 chapatis"
     ]
   },
   "Notes_and_Tips": [
