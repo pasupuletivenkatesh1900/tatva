@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Mamatha Rachakonda",
+    "Age": 31,
+    "Gender": "Female",
+    "Height": "5 ft",
+    "Current_Weight_kg": 71.5,
+    "Target_Weight_kg": 55,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["Seafood", "None"],
+    "Diet_Type": "Eggetarian",
+    "Dislikes": ["non veg"],
+    "Likes": ["veg and salads"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Fried, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Social gatherings", "Boredom"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Strictly vegetarian, No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + lemon water (no sugar)",
+      "Option 2: Warm water (200 ml) + soaked almonds (6 nos)",
+      "Option 3: Warm water (200 ml) + fresh fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Vegetable upma (80 g) with mixed vegetables (50 g) + curd (100 g)",
+      "Option 2: Poha (80 g) with peanuts (15 g) and veggies (50 g) + buttermilk (150 ml)",
+      "Option 3: 2 boiled eggs + Ragi dosa (1 small) with sambar (100 g)"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + dal (150 g) + mixed vegetable curry (100 g) + salad (50 g)",
+      "Option 2: Chapati (2 medium) + paneer curry (120 g) + dal (100 g) + salad (50 g)",
+      "Option 3: Millet khichdi (150 g) with vegetables (100 g) + curd (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (30 g) + green tea (200 ml)",
+      "Option 2: Sprout salad (100 g) with cucumber and tomato",
+      "Option 3: Fruit (100 g) + small handful of nuts (20 g)"
+    ],
+    "Dinner": [
+      "Option 1: Vegetable soup (250 ml) + 2 chapatis + lightly cooked vegetables (100 g)",
+      "Option 2: Mixed vegetable stir-fry (150 g) + ragi roti (2 small)",
+      "Option 3: Egg bhurji (2 eggs) with multigrain chapati (1) + salad (50 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For thyroid: avoid very low-calorie crash diets; maintain balanced iodine and selenium through diet.",
+    "Prefer small frequent meals if you feel low energy; keep consistent meal timings.",
+    "Limit fried foods; choose steamed, grilled, or sautéed options.",
+    "Include fiber-rich foods (millets, vegetables, dals) for satiety and weight control.",
+    "Stay hydrated and aim for gentle daily movement like walking or yoga.",
+    "When socializing, prioritize your regular meal and take small portions of treats."
+  ]
+}

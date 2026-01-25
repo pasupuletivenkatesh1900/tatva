@@ -1,0 +1,58 @@
+{
+  "Overview": {
+    "Name": "S H S S Subrahmanyeswari",
+    "Age": 31,
+    "Gender": "Female",
+    "Height": "157 cm",
+    "Current_Weight_kg": 51,
+    "Target_Weight_kg": "49-53",
+    "Medical_Conditions": ["Thyroid", "Rheumatoid arthritis"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (balanced, mainly at lunch)",
+    "Dislikes": ["None specified"],
+    "Likes": ["None specified"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "12–9",
+    "Sleep_hrs": "Irregular",
+    "Who_Cooks": "Mixed",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 3,
+    "Goal": "Increased energy, managing thyroid and arthritis, mental wellbeing, and stress reduction."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + 2 boiled eggs",
+      "Option 2: Warm water (200 ml) + full fat curd (150 g)",
+      "Option 3: Warm water (200 ml) + full fat milk (200 ml)"
+    ],
+    "Breakfast": [
+      "Option 1: Omelette (2 eggs) with spinach (50 g) + small bowl curd (100 g)",
+      "Option 2: Boiled eggs (2) + rice poha (80 g) + curd (100 g)",
+      "Option 3: Rice rawa upma (80 g) with vegetables (50 g) + boiled egg (1) + curd (100 g)"
+    ],
+    "Lunch": [
+      "Option 1: Plain rice (120 g) + chicken curry (150 g) + dal (100 g) + leafy vegetable curry (100 g) + curd (100 g)",
+      "Option 2: Plain rice (120 g) + fish curry (150 g) + dal (100 g) + vegetable curry (100 g) + curd (100 g)",
+      "Option 3: Plain rice (120 g) + egg curry (2 eggs) + dal (100 g) + spinach curry (100 g) + curd (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (30 g) with cucumber (50 g) + boiled chickpeas (40 g)",
+      "Option 2: Roasted makhana (30 g) + small fruit (80 g)",
+      "Option 3: Full fat curd (100 g) + small fruit (80 g)"
+    ],
+    "Dinner": [
+      "Option 1: Dal (150 g) + rice (100 g) + vegetable curry (100 g) + curd (100 g)",
+      "Option 2: Paneer curry (120 g) + rice (100 g) + leafy vegetable fry (100 g) + curd (100 g)",
+      "Option 3: Egg curry (2 eggs) + rice (100 g) + dal (100 g) + vegetable curry (100 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For thyroid and arthritis: eat meals at consistent times daily, focus on eggs, fish, and leafy vegetables.",
+    "Non-veg at lunch 4-5 times per week is good - chicken and fish help reduce inflammation.",
+    "When you lose control eating: serve one fixed portion, eat slowly, wait 15 minutes before more.",
+    "Sweet cravings: have jaggery or fruit with curd instead of processed sweets.",
+    "Stress/boredom eating: drink water first, then have curd or keep puffed rice in pre-portioned containers.",
+    "Maintain meal timing even with irregular sleep - this helps manage thyroid levels."
+  ]
+}

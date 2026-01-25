@@ -1,0 +1,58 @@
+{
+  "Overview": {
+    "Name": "Endarapu Rajitha",
+    "Age": 33,
+    "Gender": "Female",
+    "Height": "154 cm",
+    "Current_Weight_kg": 72,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["No"],
+    "Likes": ["Rice","chapati"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "House work",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Walking",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Soaked almonds (6 nos)",
+      "Option 3: Fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Poha (80 g) + vegetables",
+      "Option 2: Upma (80 g) + chutney",
+      "Option 3: Oats porridge (60 g)"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + dal (150 g) + vegetable curry (100 g)",
+      "Option 2: 2 chapatis + paneer curry (120 g) + salad",
+      "Option 3: Millet khichdi (150 g) + mixed veg"
+    ],
+    "Dinner": [
+      "Option 1: Light vegetable soup (250 ml) + 1 chapati",
+      "Option 2: Grilled paneer (120 g) + steamed veg",
+      "Option 3: Mixed vegetable stir-fry (150 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "When Meals_per_Day=2 prefer later meals and skip breakfast where convenient.",
+    "Use portion control and high-fiber options to manage cravings.",
+    "Include walking daily to support metabolic health.",
+    "Prefer minimally processed foods and whole grains.",
+    "Stay hydrated and prioritize sleep."
+  ]
+}

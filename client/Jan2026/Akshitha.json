@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Akshitha",
+    "Age": 27,
+    "Gender": "Female",
+    "Height": "5.2 ft",
+    "Current_Weight_kg": 71,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["Thyroid", "PCOS"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian (strict)",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I usually avoid them",
+    "Food_Craving": "Fried, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": [],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 1,
+    "Goal": "Preventing/reversing health issues",
+    "Preference_Notes": "Strictly vegetarian, No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + lemon water (no sugar)",
+      "Option 2: Warm water (200 ml) + soaked almonds (6 nos)",
+      "Option 3: Warm water (200 ml) + fresh fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Vegetable upma (80 g) with mixed vegetables (50 g) + curd (100 g)",
+      "Option 2: Poha (80 g) with peanuts (15 g) and veggies (50 g) + buttermilk (150 ml)",
+      "Option 3: Idli (2 small) with sambar (150 g) + coconut chutney (20 g)"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + dal (150 g) + mixed vegetable curry (100 g) + salad (50 g)",
+      "Option 2: Chapati (2 medium) + paneer curry (120 g) + dal (100 g) + salad (50 g)",
+      "Option 3: Millet khichdi (150 g) with vegetables (100 g) + curd (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (30 g) + green tea (200 ml)",
+      "Option 2: Sprout salad (100 g) with cucumber and tomato",
+      "Option 3: Fruit (100 g) + small handful of nuts (20 g)"
+    ],
+    "Dinner": [
+      "Option 1: Vegetable soup (250 ml) + 2 chapatis + lightly cooked vegetables (100 g)",
+      "Option 2: Mixed vegetable stir-fry (150 g) + ragi roti (2 small)",
+      "Option 3: Paneer tikka (100 g) with salad (50 g) + small bowl dal (100 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For thyroid and PCOS: focus on balanced meals, include fiber and lean protein.",
+    "Avoid crash diets; aim for steady weight loss with regular meals.",
+    "Limit fried and high-sugar foods; choose whole grains and millets.",
+    "Include regular gentle exercise like walking and yoga for metabolic health.",
+    "Stay hydrated and manage stress with sleep and relaxation techniques.",
+    "When tempted, choose fruit or a small handful of nuts instead of fried snacks."
+  ]
+}

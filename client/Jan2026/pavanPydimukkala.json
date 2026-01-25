@@ -1,0 +1,58 @@
+{
+  "Overview": {
+    "Name": "Pavan Kumar Pydimukkala",
+    "Age": 34,
+    "Gender": "Male",
+    "Height": "168 cm",
+    "Current_Weight_kg": 87,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (balanced, mainly at lunch)",
+    "Dislikes": ["None specified"],
+    "Likes": ["None specified"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "10–6 (may vary with project)",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 3,
+    "Goal": "Fat loss, better appearance, increased energy, confidence, health improvement, and stress reduction."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + 2 boiled eggs",
+      "Option 2: Warm water (200 ml) + full fat curd (150 g)",
+      "Option 3: Warm water (200 ml) + full fat milk (200 ml)"
+    ],
+    "Breakfast": [
+      "Option 1: Omelette (3 eggs) with vegetables (50 g) + small bowl curd (100 g)",
+      "Option 2: Boiled eggs (3) + rice poha (80 g)",
+      "Option 3: Rice rawa upma (80 g) with vegetables (50 g) + curd (150 g)"
+    ],
+    "Lunch": [
+      "Option 1: Plain rice (150 g) + chicken curry (200 g) + dal (100 g) + vegetable curry (100 g)",
+      "Option 2: Plain rice (150 g) + fish curry (200 g) + dal (100 g) + leafy vegetable fry (100 g)",
+      "Option 3: Plain rice (150 g) + mutton curry (200 g) + dal (100 g) + vegetable curry (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (30 g) with boiled chickpeas (50 g) + cucumber (50 g)",
+      "Option 2: Roasted makhana (30 g) + small fruit (100 g)",
+      "Option 3: Boiled egg whites (2 eggs) + small fruit (100 g)"
+    ],
+    "Dinner": [
+      "Option 1: Egg curry (3 eggs) + small rice (100 g) + vegetable curry (100 g) + curd (100 g)",
+      "Option 2: Dal (200 g) + rice (100 g) + paneer curry (100 g) + vegetable fry (100 g)",
+      "Option 3: Paneer curry (150 g) + rice (100 g) + dal (150 g) + curd (100 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Non-veg at lunch 4-5 times per week is sufficient - lighter dinner with eggs, paneer, or dal supports fat loss.",
+    "Sweet cravings: you control desserts well - use this strength at social gatherings.",
+    "Fried cravings: add ghee or butter to dal/vegetables for satisfaction without deep frying.",
+    "Spicy cravings: add green chilies or pepper to regular meals.",
+    "Boredom eating: keep puffed rice, makhana, or boiled eggs ready instead of fried snacks.",
+    "Social gatherings: eat your meal before going, then take only small portions."
+  ]
+}

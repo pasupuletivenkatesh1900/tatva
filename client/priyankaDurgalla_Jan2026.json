@@ -1,0 +1,58 @@
+{
+  "Overview": {
+    "Name": "Priyanka Durgalla",
+    "Age": 37,
+    "Gender": "Female",
+    "Height": "147 cm",
+    "Current_Weight_kg": 77,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Dislikes": ["Ridge gourd", "Beetroot", "Radish", "Paneer", "Mushroom", "Seafood", "Snake gourd", "Soy products"],
+    "Likes": ["Rice", "Eggs", "Chicken", "Chickpeas", "Green gram", "Dal", "Spinach", "Ivory gourd", "Sweet corn", "Salads"],
+    "Diet_Type": "Non-Vegetarian (Monday & Thursday vegetarian)",
+    "Occupation": "Desk Job",
+    "Work_Hours": "8:30–5:30",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Self",
+    "Steps": "Don't track",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 2,
+    "Goal": "Fat loss, better body shape, increased energy, confidence, and stress reduction."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + 2 boiled eggs",
+      "Option 2: Warm water (200 ml) + full fat curd (150 g)",
+      "Option 3: Warm water (200 ml) + full fat milk (200 ml)"
+    ],
+    "Breakfast": [
+      "Option 1: Omelette (3 eggs) with spinach (50 g) + small bowl curd (100 g)",
+      "Option 2: Boiled eggs (3) + ivory gourd curry (100 g)",
+      "Option 3: Rice poha (80 g) with scrambled eggs (2)"
+    ],
+    "Lunch": [
+      "Option 1: Plain rice (150 g) + chicken curry (150 g) + spinach curry (100 g) [Tue/Wed/Fri/Sat/Sun]",
+      "Option 2: Plain rice (150 g) + egg curry (2 eggs) + dal (100 g) + vegetables (100 g)",
+      "Option 3: Plain rice (150 g) + dal (150 g) + ivy gourd fry (100 g) + curd (100 g) [Mon/Thu - vegetarian]"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (30 g) with boiled chickpeas (50 g) + cucumber (50 g)",
+      "Option 2: Sweet corn salad (100 g corn, 50 g cucumber, 50 g tomato, lemon)",
+      "Option 3: Boiled egg whites (2 eggs) + small fruit (100 g)"
+    ],
+    "Dinner": [
+      "Option 1: Chicken curry (200 g) + small portion rice (80 g) + spinach (100 g) [Tue/Wed/Fri/Sat/Sun]",
+      "Option 2: Egg curry (3 eggs) + rice (80 g) + vegetable curry (100 g)",
+      "Option 3: Dal (150 g) + rice (80 g) + curd (100 g) + green gram curry (100 g) [Mon/Thu - vegetarian]"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Monday and Thursday are vegetarian days - focus on eggs, dal, chickpeas, and curd.",
+    "Savory/spicy cravings: keep puffed rice or boiled chickpeas ready, add chilies to meals instead of fried foods.",
+    "Social gatherings: eat your regular meal before going, then take only small portions.",
+    "Late night eating: if hungry past 8 PM, have boiled eggs or curd only.",
+    "Include spinach daily for better fat loss - keep rice portions smaller at dinner.",
+    "Stay consistent with 2 main meals at times that suit your work schedule."
+  ]
+}

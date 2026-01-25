@@ -1,0 +1,58 @@
+{
+  "Overview": {
+    "Name": "V Sangamesh",
+    "Age": 41,
+    "Gender": "Male",
+    "Height": "Not provided",
+    "Current_Weight_kg": 78,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Hypertension"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Eggetarian",
+    "Dislikes": ["None specified"],
+    "Likes": ["None specified"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Family member",
+    "Steps": "Don't track",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 3,
+    "Goal": "Fat loss, better appearance, increased energy, confidence, health improvement, and stress reduction."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + 2 boiled eggs",
+      "Option 2: Warm water (200 ml) + full fat curd (150 g)",
+      "Option 3: Warm water (200 ml) + full fat milk (200 ml)"
+    ],
+    "Breakfast": [
+      "Option 1: Omelette (3 eggs) with vegetables (50 g) + small bowl curd (100 g)",
+      "Option 2: Boiled eggs (3) + rice poha (80 g) + curd (100 g)",
+      "Option 3: Rice rawa upma (80 g) with vegetables (50 g) + curd (150 g)"
+    ],
+    "Lunch": [
+      "Option 1: Plain rice (150 g) + egg curry (3 eggs) + dal (100 g) + vegetable curry (100 g)",
+      "Option 2: Plain rice (150 g) + dal (150 g) + vegetable curry (100 g) + curd (150 g)",
+      "Option 3: Plain rice (150 g) + paneer curry (150 g) + leafy vegetable curry (100 g) + curd (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (30 g) with boiled chickpeas (50 g) + cucumber (50 g)",
+      "Option 2: Roasted makhana (30 g) + small fruit (100 g)",
+      "Option 3: Boiled green gram (50 g) with tomato (50 g) and cucumber (50 g) + lemon"
+    ],
+    "Dinner": [
+      "Option 1: Egg curry (3 eggs) + rice (100 g) + vegetable curry (100 g) + curd (100 g)",
+      "Option 2: Dal (150 g) + rice (100 g) + vegetable curry (100 g) + curd (150 g)",
+      "Option 3: Paneer curry (150 g) + rice (100 g) + leafy vegetable fry (100 g) + buttermilk (150 ml)"
+    ]
+  },
+    "Notes_and_Tips": [
+      "Keep salt very moderate; avoid pickles, papad, and processed foods.",
+      "Use eggs, paneer, and dal as primary protein sources for fat loss.",
+      "For sweet cravings, choose fruit with curd or a small piece of jaggery.",
+      "Prepare easy snacks (puffed rice, makhana, boiled chickpeas) for irregular hours.",
+      "Maintain consistency with three balanced meals daily.",
+      "Monitor portion sizes of rice and fried foods to control calories."
+    ]
+}

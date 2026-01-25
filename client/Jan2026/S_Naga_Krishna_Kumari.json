@@ -1,0 +1,58 @@
+{
+  "Overview": {
+    "Name": "S. Naga Krishna Kumari",
+    "Age": 36,
+    "Gender": "Female",
+    "Height": "5.3 ft",
+    "Current_Weight_kg": 58,
+    "Target_Weight_kg": 55,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["None"],
+    "Likes": ["Sea food"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Walking",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Soaked almonds (6 nos)",
+      "Option 3: Fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Idli (2) + sambar",
+      "Option 2: Poha (80 g) + vegetables",
+      "Option 3: Oats porridge (60 g)"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + fish curry (120 g) + salad (50 g)",
+      "Option 2: Chapati (2) + dal + vegetable curry (100 g)",
+      "Option 3: Millet khichdi (150 g) + mixed veg"
+    ],
+    "Dinner": [
+      "Option 1: Grilled fish (120 g) + steamed veg",
+      "Option 2: Vegetable soup (250 ml) + 2 chapatis",
+      "Option 3: Paneer stir-fry (120 g) + salad"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Include lean proteins and prioritize seafood if preferred.",
+    "Balance meals with fiber and healthy fats to maintain energy.",
+    "Prefer regular meal timings and avoid late-night heavy meals.",
+    "Include daily walking for activity and digestion.",
+    "Stay hydrated and include fresh fruits for micronutrients."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Viswanath Sarma",
+    "Age": 39,
+    "Gender": "Male",
+    "Height": "164 cm",
+    "Current_Weight_kg": 85,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Hypertension"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": ["Masala Foods"],
+    "Likes": ["Dal"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9-8",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet, Fried",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Social gatherings", "Boredom"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Strictly vegetarian"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + lemon water",
+      "Option 2: Warm water (200 ml) + soaked almonds (6 nos)",
+      "Option 3: Warm water (200 ml) + fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Poha (80 g) with vegetables (50 g) + curd (100 g)",
+      "Option 2: Vegetable upma (80 g) + small bowl curd (100 g)",
+      "Option 3: Idli (2) + sambar (150 g)"
+    ],
+    "Lunch": [
+      "Option 1: Plain rice (150 g) + dal (150 g) + vegetable curry (100 g)",
+      "Option 2: Chapati (2) + paneer curry (150 g) + dal (100 g)",
+      "Option 3: Millet khichdi (150 g) with vegetables (100 g) + curd (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Fruit (100 g) + green tea (200 ml)",
+      "Option 2: Roasted makhana (30 g)",
+      "Option 3: Sprout salad (100 g)"
+    ],
+    "Dinner": [
+      "Option 1: Dal (180 g) + vegetable curry (120 g) + salad (50 g)",
+      "Option 2: Paneer curry (150 g) + chapati (1)",
+      "Option 3: Light vegetable soup (250 ml) + millet roti (2 small)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For hypertension: keep salt very moderate and avoid pickles and processed foods.",
+    "Control portion sizes, especially rice and fried foods.",
+    "Include dal and paneer as protein sources for satiety.",
+    "Prefer steamed or grilled options; avoid deep-fried snacks.",
+    "Aim for a short walk after meals when possible.",
+    "Keep meals regular to support blood pressure and energy."
+  ]
+}

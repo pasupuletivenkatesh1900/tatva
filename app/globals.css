@@ -278,12 +278,6 @@ body, html {
   font-family: 'Poppins', 'Inter', Arial, sans-serif;
 }
 
-/* Make grid two-column on wider screens similar to screenshot */
-@media (min-width: 880px) {
-  .meals-grid {
-    grid-template-columns: 1fr 1fr;
-  }
-}
 /* Print Styles */
 @media print {
   @page {

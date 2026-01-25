@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Sandhya",
+    "Age": 36,
+    "Gender": "Female",
+    "Height": "153 cm",
+    "Current_Weight_kg": 57,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["Thyroid", "PCOS"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian (strict)",
+    "Dislikes": ["None"],
+    "Likes": ["Fruits"],
+    "Occupation": "Field Work",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet, Fried",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Stress", "Boredom"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Strictly vegetarian, No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + lemon water (no sugar)",
+      "Option 2: Warm water (200 ml) + soaked almonds (6 nos)",
+      "Option 3: Warm water (200 ml) + fresh fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Vegetable upma (80 g) with mixed vegetables (50 g) + curd (100 g)",
+      "Option 2: Poha (80 g) with peanuts (15 g) and fruits (50 g) + buttermilk (150 ml)",
+      "Option 3: Ragi porridge (150 g) with nuts (10 g)"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + dal (150 g) + mixed vegetable curry (100 g) + salad (50 g)",
+      "Option 2: Chapati (2 medium) + paneer bhurji (120 g) + dal (100 g) + salad (50 g)",
+      "Option 3: Millet khichdi (150 g) with vegetables (100 g) + curd (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Fruit bowl (100 g) + green tea (200 ml)",
+      "Option 2: Roasted makhana (30 g) + buttermilk (150 ml)",
+      "Option 3: Sprout salad (100 g)"
+    ],
+    "Dinner": [
+      "Option 1: Vegetable soup (250 ml) + 2 chapatis + lightly cooked vegetables (100 g)",
+      "Option 2: Mixed vegetable stir-fry (150 g) + ragi roti (2 small)",
+      "Option 3: Paneer tikka (100 g) with salad (50 g) + small bowl dal (100 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For thyroid and PCOS: focus on balanced meals with fiber and controlled carbs.",
+    "Prefer whole grains and millets; avoid refined flour and sugar-heavy foods.",
+    "When craving sweets, choose fruit or small portion of jaggery with curd.",
+    "Keep easy healthy snacks (fruits, makhana) during long field work hours.",
+    "Stay hydrated and include gentle movement like walking or yoga daily.",
+    "Plan meals ahead to avoid fried or sugary convenience foods when stressed."
+  ]
+}

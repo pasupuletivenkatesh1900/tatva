@@ -1,0 +1,58 @@
+{
+  "Overview": {
+    "Name": "Gayathri Chikkulapally",
+    "Age": 25,
+    "Gender": "Female",
+    "Height": "158 cm",
+    "Current_Weight_kg": 88,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Nothing"],
+    "Likes": ["Chicken","fruits","vegetables","fresh juice"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "Less than 6 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Currently joined in yoga and gym",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Triggers": ["Stress","Overthinking and stress"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + lemon",
+      "Option 2: Soaked almonds (6 nos)",
+      "Option 3: Green tea (200 ml)"
+    ],
+    "Breakfast": [
+      "Option 1: Vegetable omelette (2 eggs) + 1 toast",
+      "Option 2: Poha (80 g) + peanuts (10 g)",
+      "Option 3: Oats porridge (60 g) with fruits (50 g)"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + chicken curry (120 g) + salad (50 g)",
+      "Option 2: Millet khichdi (150 g) + mixed veg (100 g)",
+      "Option 3: Chapati (2) + paneer curry (120 g) + salad (50 g)"
+    ],
+    "Dinner": [
+      "Option 1: Grilled fish (120 g) + steamed veg (100 g)",
+      "Option 2: Vegetable soup (250 ml) + 2 chapatis",
+      "Option 3: Paneer tikka (100 g) + salad (50 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Include lean proteins and focus on strength training to improve composition.",
+    "Manage stress with short breathing exercises and consistent sleep.",
+    "Avoid late-night heavy meals; prefer light dinners.",
+    "Ensure progressive overload in gym routine with rest days.",
+    "Include fresh fruits and vegetables for micronutrients."
+  ]
+}

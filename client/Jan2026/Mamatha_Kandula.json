@@ -1,0 +1,63 @@
+{
+  "Overview": {
+    "Name": "Mamatha Kandula",
+    "Age": 36,
+    "Gender": "Female",
+    "Height": "150 cm",
+    "Current_Weight_kg": 68,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["No foods"],
+    "Likes": ["Any type of rices"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Mixed",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Triggers": ["Social gatherings","Boredom"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Loose postpartum weight",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Dinner"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + lemon",
+      "Option 2: Soaked almonds (6 nos) + warm water (200 ml)",
+      "Option 3: Green tea (200 ml)"
+    ],
+    "Breakfast": [
+      "Option 1: Poha (80 g) + vegetable mix (50 g)",
+      "Option 2: Idli (2) + sambar (150 g)",
+      "Option 3: Vegetable upma (80 g) + chutney (20 g)"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + dal (150 g) + vegetable curry (100 g)",
+      "Option 2: 2 chapatis + chicken curry (120 g) + salad (50 g)",
+      "Option 3: Millet pulao (150 g) + mixed veg (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Fruit (100 g) + buttermilk (150 ml)",
+      "Option 2: Roasted chana (30 g)",
+      "Option 3: Sprout salad (100 g)"
+    ],
+    "Dinner": [
+      "Option 1: Vegetable sabzi (150 g) + 2 chapatis",
+      "Option 2: Grilled fish (120 g) + steamed vegetables (100 g)",
+      "Option 3: Paneer curry (120 g) + millet roti (2 small)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Include iron-rich plant foods and lean proteins to recover postpartum.",
+    "Prefer frequent small meals to manage energy and breastfeeding needs.",
+    "Avoid deep-fried and heavily processed foods.",
+    "Include gentle postnatal exercises and walk when possible.",
+    "Stay hydrated and prioritize sleep where feasible."
+  ]
+}

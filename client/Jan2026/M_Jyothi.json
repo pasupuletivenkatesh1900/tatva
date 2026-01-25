@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "M Jyothi",
+    "Age": 26,
+    "Gender": "Female",
+    "Height": "4.8 ft",
+    "Current_Weight_kg": 50,
+    "Target_Weight_kg": 48,
+    "Medical_Conditions": ["Endometriosis"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": ["Tamarind"],
+    "Likes": ["Vegetables"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Shifts",
+    "Sleep_hrs": "Less than 6 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I usually avoid them",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + lemon water",
+      "Option 2: Warm water (200 ml) + soaked almonds (6 nos)",
+      "Option 3: Warm water (200 ml) + fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Idli (2) + sambar (150 g) + coconut chutney (20 g)",
+      "Option 2: Vegetable upma (80 g) with mixed veggies (50 g)",
+      "Option 3: Poha (80 g) + buttermilk (150 ml)"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + dal (150 g) + vegetable curry (100 g)",
+      "Option 2: Chapati (2) + paneer curry (120 g) + salad (50 g)",
+      "Option 3: Millet khichdi (150 g) + mixed vegetables (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Fruit (100 g) + green tea (200 ml)",
+      "Option 2: Roasted makhana (30 g)",
+      "Option 3: Sprout salad (100 g)"
+    ],
+    "Dinner": [
+      "Option 1: Vegetable soup (250 ml) + 2 chapatis + lightly cooked vegetables (100 g)",
+      "Option 2: Mixed vegetable stir-fry (150 g) + ragi roti (2 small)",
+      "Option 3: Paneer tikka (100 g) with salad (50 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For endometriosis: include anti-inflammatory foods like turmeric, leafy greens, and omega sources.",
+    "Prefer whole grains and millets; avoid processed and deep-fried foods.",
+    "When craving spicy foods, use fresh spices and avoid oily preparations.",
+    "Keep meals regular and avoid long fasting which can trigger overeating.",
+    "Include gentle exercise like yoga to manage pain and stress.",
+    "Stay hydrated and prioritize sleep when possible."
+  ]
+}

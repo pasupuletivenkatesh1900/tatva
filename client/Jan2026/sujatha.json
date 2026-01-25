@@ -1,0 +1,58 @@
+{
+  "Overview": {
+    "Name": "Sujatha Kulkarni",
+    "Age": 46,
+    "Gender": "Female",
+    "Height": "155 cm",
+    "Current_Weight_kg": 80,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["Diabetes", "Thyroid", "Hypertension"],
+    "Food_Allergies": ["Gluten", "Soy", "Seafood"],
+    "Diet_Type": "Strictly Vegetarian",
+    "Dislikes": ["None specific"],
+    "Likes": ["Authentic traditional food"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Self",
+    "Steps": "Don't track",
+    "Exercise": "No regular exercise regime",
+    "Meals_per_Day": 3,
+    "Goal": "Fat loss, better appearance, increased energy, confidence, health improvement, and stress reduction."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + small bowl curd (150 g)",
+      "Option 2: Warm water (200 ml) + full fat milk (200 ml)",
+      "Option 3: Warm water (200 ml) + buttermilk (200 ml)"
+    ],
+    "Breakfast": [
+      "Option 1: Rice poha (80 g) with vegetables (50 g) + peanuts (10 g) + curd (100 g)",
+      "Option 2: Rice rawa upma (80 g) with vegetables (50 g) + small bowl curd (100 g)",
+      "Option 3: Paneer curry (150 g) + small portion rice (80 g)"
+    ],
+    "Lunch": [
+      "Option 1: Plain rice (150 g) + dal (150 g) + vegetable curry (100 g) + curd (100 g)",
+      "Option 2: Plain rice (150 g) + sambar (150 g) + vegetable fry (100 g) + buttermilk (150 ml)",
+      "Option 3: Plain rice (150 g) + paneer curry (150 g) + leafy vegetable curry (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (30 g) with boiled chickpeas (50 g) + cucumber (50 g)",
+      "Option 2: Roasted makhana (30 g) + small fruit (100 g)",
+      "Option 3: Boiled green gram (50 g) with tomato (50 g) and cucumber (50 g)"
+    ],
+    "Dinner": [
+      "Option 1: Dal (150 g) + small portion rice (100 g) + vegetable curry (100 g) + curd (100 g)",
+      "Option 2: Paneer curry (150 g) + rice (100 g) + leafy vegetable fry (100 g)",
+      "Option 3: Mixed vegetable curry (150 g) + rice (100 g) + dal (100 g) + buttermilk (150 ml)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Strictly avoid gluten and soy; use rice as the main carb with moderate portions.",
+    "Maintain consistent meal times to help manage diabetes and thyroid.",
+    "Include leafy vegetables daily and choose paneer/dal for protein.",
+    "For cravings: drink water first, then have curd or a small portion of puffed rice.",
+    "At social gatherings: eat your regular meal before going and take only small portions.",
+    "Keep meals regular (3 per day) to stabilise blood sugar and thyroid function."
+  ]
+}

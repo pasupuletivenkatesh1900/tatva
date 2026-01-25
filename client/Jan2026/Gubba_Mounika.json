@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Gubba Mounika",
+    "Age": 31,
+    "Gender": "Female",
+    "Height": "165 cm",
+    "Current_Weight_kg": 93,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": [],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian (strict)",
+    "Dislikes": [],
+    "Likes": ["Chapathi"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "No particular time",
+    "Sleep_hrs": "Irregular",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Stress", "Late nights"],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 2,
+    "Goal": "Feeling energetic & confident, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Strictly vegetarian"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + lemon water (no sugar)",
+      "Option 2: Warm water (200 ml) + soaked almonds (6 nos)",
+      "Option 3: Warm water (200 ml) + fresh fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Vegetable upma (100 g) with mixed vegetables (50 g)",
+      "Option 2: Poha (100 g) with peanuts (15 g) and veggies (50 g)",
+      "Option 3: 2 small chapatis with vegetable curry (100 g)"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + dal (150 g) + mixed vegetable curry (100 g)",
+      "Option 2: Chapati (2 medium) + paneer curry (120 g) + salad (50 g)",
+      "Option 3: Millet khichdi (200 g) with vegetables (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (30 g) + green tea (200 ml)",
+      "Option 2: Fruit (100 g)",
+      "Option 3: Sprout salad (100 g)"
+    ],
+    "Dinner": [
+      "Option 1: Light vegetable soup (250 ml) + 2 chapatis + veg curry (110g)",
+      "Option 2: Mixed vegetable stir-fry (150 g) + ragi roti (2 small)",
+      "Option 3: Paneer bhurji (100 g) with chapati (1)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "If you lose control when eating, use small plates and pre-portion portions.",
+    "Avoid keeping high-sugar foods visible; replace with fruits and nuts.",
+    "Prefer whole grains and include protein-rich dals and paneer.",
+    "Keep a consistent eating window to reduce late-night energy intake.",
+    "Include gentle daily movement like walking or yoga to support mood.",
+    "When stressed, choose a short walk or deep-breathing instead of snacking."
+  ]
+}

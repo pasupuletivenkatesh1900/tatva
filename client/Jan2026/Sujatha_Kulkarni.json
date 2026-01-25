@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Sujatha Kulkarni",
+    "Age": 46,
+    "Gender": "Female",
+    "Height": "5.1 ft",
+    "Current_Weight_kg": 80,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["Diabetes", "Thyroid", "Hypertension"],
+    "Food_Allergies": ["Gluten", "Soy", "Seafood"],
+    "Diet_Type": "Vegetarian (strict)",
+    "Dislikes": ["Nothing specific."],
+    "Likes": ["Authentic traditional food"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "No regular exercise regime",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Strictly vegetarian, No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + methi seeds water (1 tsp soaked)",
+      "Option 2: Warm water (200 ml) + soaked almonds (6 nos)",
+      "Option 3: Warm water (200 ml) + fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Idli (2 small) + sambar (150 g) + coconut chutney (20 g)",
+      "Option 2: Vegetable upma (80 g) with mixed vegetables (60 g) + curd (100 g)",
+      "Option 3: Moong dal dosa (2 small) + tomato chutney (30 g)"
+    ],
+    "Lunch": [
+      "Option 1: Plain rice (140 g) + dal (150 g) + vegetable curry (120 g) + salad (50 g)",
+      "Option 2: Millet rice (140 g) + sambar (180 g) + vegetable fry (100 g) + curd (100 g)",
+      "Option 3: Curd rice (140 g) + vegetable curry (150 g) + salad (50 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (30 g) + green tea (200 ml)",
+      "Option 2: Puffed rice (30 g) + roasted chana (25 g) + cucumber (50 g)",
+      "Option 3: Sprouts salad (100 g)"
+    ],
+    "Dinner": [
+      "Option 1: Vegetable soup (250 ml) + paneer curry (120 g) + salad (50 g)",
+      "Option 2: Mixed vegetable stir-fry (180 g) + curd (120 g)",
+      "Option 3: Dal (180 g) + vegetable curry (150 g) (lightest option)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For diabetes: avoid sugar, sweets, and sweetened drinks; keep rice portions controlled.",
+    "For hypertension: keep salt very moderate; avoid pickles, papad, and packaged foods.",
+    "For gluten allergy: avoid wheat/chapati; choose rice, millets, and dal-based options.",
+    "Avoid soy in all forms (soy chunks, soy sauce, tofu).",
+    "Aim for a 10–15 minute walk after lunch/dinner if possible to support sugar control.",
+    "Consistency improves appearance and energy: keep meals simple and repeatable."
+  ]
+}

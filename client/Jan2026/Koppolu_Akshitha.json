@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Koppolu Akshitha",
+    "Age": 23,
+    "Gender": "Female",
+    "Height": "167 cm",
+    "Current_Weight_kg": 59,
+    "Target_Weight_kg": 56,
+    "Medical_Conditions": ["Hormonal imbalance"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (minimal non-veg, mostly vegetarian)",
+    "Dislikes": ["Nothing"],
+    "Likes": ["Nothing specific"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian; non-veg preferred at Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + soaked almonds (6 nos)",
+      "Option 2: Warm water (200 ml) + lemon water (no sugar)",
+      "Option 3: Warm water (200 ml) + fresh fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Poha (80 g) with vegetables (50 g) + curd (100 g)",
+      "Option 2: Vegetable upma (80 g) + buttermilk (150 ml)",
+      "Option 3: Idli (2 small) + sambar (150 g)"
+    ],
+    "Lunch": [
+      "Option 1: Plain rice (150 g) + grilled fish (200 g) + dal (100 g) + vegetable curry (100 g)",
+      "Option 2: Plain rice (150 g) + chicken curry (200 g) + dal (100 g) + salad (50 g)",
+      "Option 3: Plain rice (150 g) + paneer curry (150 g) + dal (100 g) + vegetable curry (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted chana (30 g) + green tea (200 ml)",
+      "Option 2: Fruit (100 g) + handful of nuts (20 g)",
+      "Option 3: Puffed rice (30 g) with cucumber (50 g)"
+    ],
+    "Dinner": [
+      "Option 1: Dal (180 g) + vegetable curry (120 g) + salad (50 g)",
+      "Option 2: Paneer curry (150 g) + rice (100 g) + vegetable fry (100 g)",
+      "Option 3: Light vegetable soup (250 ml) + 2 chapatis"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep non-veg mostly to lunch; choose grilled or lightly cooked forms.",
+    "Manage portions of rice to control calories; increase vegetable portions.",
+    "For hormonal balance: include regular meals and fiber-rich foods.",
+    "Avoid deep-fried snacks; choose roasted or steamed options.",
+    "Stay hydrated and prefer a short walk after meals when possible.",
+    "If craving sweets, have fruit or curd instead of processed sweets."
+  ]
+}

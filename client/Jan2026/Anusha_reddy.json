@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Anusha Reddy",
+    "Age": 36,
+    "Gender": "Female",
+    "Height": "5.5 ft",
+    "Current_Weight_kg": 63,
+    "Target_Weight_kg": null,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Field Work",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Walking",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Stress", "Boredom"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 2,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + lemon water",
+      "Option 2: Warm water (200 ml) + soaked almonds (6 nos)",
+      "Option 3: Warm water (200 ml) + fresh fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Idli (2 small) with sambar (150 g) + coconut chutney (20 g)",
+      "Option 2: Vegetable upma (80 g) with mixed veggies (50 g) + curd (100 g)",
+      "Option 3: Poha (80 g) with peanuts (15 g) + buttermilk (150 ml)"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + dal (150 g) + vegetable curry (100 g)",
+      "Option 2: Chapati (2 medium) + paneer curry (120 g) + salad (50 g)",
+      "Option 3: Millet khichdi (150 g) + mixed vegetables (100 g) + curd (100 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Fruit (100 g) + green tea (200 ml)",
+      "Option 2: Roasted makhana (30 g)",
+      "Option 3: Sprout salad (100 g)"
+    ],
+    "Dinner": [
+      "Option 1: Vegetable soup (250 ml) + 2 chapatis + lightly cooked vegetables (100 g)",
+      "Option 2: Mixed vegetable stir-fry (150 g) + ragi roti (2 small)",
+      "Option 3: Paneer tikka (100 g) with salad (50 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Prefer whole grains and include fiber-rich dals for satiety.",
+    "Limit fried and sugary foods; choose fruit or nuts when craving sweets.",
+    "Aim for gentle daily walks to support energy and stress reduction.",
+    "Plan simple meals ahead for busy field work days.",
+    "Stay hydrated and prioritize consistent meal times.",
+    "Keep portion sizes moderate; use smaller plates if helpful."
+  ]
+}

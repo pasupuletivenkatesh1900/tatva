@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Panasa Swathi",
+    "Age": 34,
+    "Gender": "Female",
+    "Height": "164 cm",
+    "Current_Weight_kg": 81,
+    "Target_Weight_kg": 62,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Vegetable"],
+    "Likes": ["Fish"],
+    "Occupation": "Field Work",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Spicy",
+    "Triggers": ["Late nights"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Soaked almonds (6 nos)",
+      "Option 3: Fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Vegetable oats (60 g) + mixed nuts (10 g)",
+      "Option 2: Egg bhurji (2 eggs) + 1 chapati",
+      "Option 3: Poha (80 g) with peanuts (10 g)"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + fish curry (120 g) + salad (50 g)",
+      "Option 2: Millet pulao (150 g) + mixed veg (100 g)",
+      "Option 3: Chapati (2) + chicken curry (120 g) + vegetable side (80 g)"
+    ],
+    "Dinner": [
+      "Option 1: Light vegetable soup (250 ml) + 1 chapati",
+      "Option 2: Grilled fish (100 g) + steamed veggies (100 g)",
+      "Option 3: Mixed vegetable stir-fry (150 g) (choose preferred vegetables)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Manage thyroid under physician guidance; include selenium and iodine sources if advised.",
+    "Prefer balanced plates with protein, fiber and healthy fats.",
+    "Avoid high-sugar and highly processed foods to stabilise energy.",
+    "When Meals_per_Day=2 focus on later meals and keep breakfast light.",
+    "Maintain consistent sleep patterns to support metabolic health.",
+    "If you dislike vegetables, start with small portions and choose milder options (bottle gourd, ridge gourd, carrot, cucumber)."
+  ]
+}

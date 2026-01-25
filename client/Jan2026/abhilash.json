@@ -1,0 +1,58 @@
+{
+  "Overview": {
+    "Name": "Abhilash Gundlapally",
+    "Age": 31,
+    "Gender": "Male",
+    "Height": "167 cm",
+    "Current_Weight_kg": 61,
+    "Target_Weight_kg": 68,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (balanced approach)",
+    "Dislikes": ["None specified"],
+    "Likes": ["None specified"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Meals_per_Day": 3,
+    "Goal": "Healthy weight gain, better appearance, increased energy, confidence, and stress reduction."
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml) + full fat milk (250 ml)",
+      "Option 2: Warm water (200 ml) + 2 boiled eggs + banana (100 g)",
+      "Option 3: Warm water (200 ml) + full fat curd (150 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Omelette (3 eggs) with vegetables (50 g) + rice poha (100 g) + milk (200 ml)",
+      "Option 2: Boiled eggs (3) + rice rawa upma (100 g) + curd (150 g)",
+      "Option 3: Paneer curry (150 g) + rice (100 g) + milk (200 ml)"
+    ],
+    "Lunch": [
+      "Option 1: Plain rice (200 g) + chicken curry (200 g) + dal (100 g) + vegetable curry (100 g) + curd (150 g)",
+      "Option 2: Plain rice (200 g) + egg curry (3 eggs) + dal (150 g) + vegetables (100 g) + curd (150 g)",
+      "Option 3: Plain rice (200 g) + paneer curry (200 g) + dal (150 g) + vegetable curry (100 g) + curd (150 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (40 g) with peanuts (20 g) + banana (100 g) + milk (200 ml)",
+      "Option 2: Boiled chickpeas (80 g) with vegetables (50 g) + fruit (100 g)",
+      "Option 3: Full fat curd (150 g) + fruit (100 g) + handful peanuts (20 g)"
+    ],
+    "Dinner": [
+      "Option 1: Chicken curry (200 g) + rice (150 g) + dal (100 g) + vegetables (100 g) + curd (150 g)",
+      "Option 2: Egg curry (3 eggs) + rice (150 g) + dal (150 g) + vegetable curry (100 g) + milk (200 ml)",
+      "Option 3: Paneer curry (200 g) + rice (150 g) + dal (150 g) + vegetables (100 g) + curd (150 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Focus on completing full meals consistently; aim for steady, small increases if appetite is low.",
+    "Use rice and full-fat dairy daily to support healthy weight gain.",
+    "Include eggs, paneer, and dal across the week for protein.",
+    "For cravings: prefer fruit, jaggery in milk, or puffed rice instead of processed sweets.",
+    "Keep ready-to-eat healthy snacks (puffed rice, boiled chickpeas) for boredom or late work.",
+    "Eat slowly and keep evening snack to bridge lunch and dinner for steady intake."
+  ]
+}

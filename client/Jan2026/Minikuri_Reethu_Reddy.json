@@ -1,0 +1,58 @@
+{
+  "Overview": {
+    "Name": "Minikuri Reethu Reddy",
+    "Age": 22,
+    "Gender": "Female",
+    "Height": "161 cm",
+    "Current_Weight_kg": 48,
+    "Target_Weight_kg": 52,
+    "Medical_Conditions": ["PCOS"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Nothing as such"],
+    "Likes": ["Nothing as such"],
+    "Occupation": "Field Work",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "None",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet, Spicy",
+    "Triggers": ["Social gatherings","Boredom"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Dinner"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Soaked almonds (6 nos)",
+      "Option 3: Fruit (100 g)"
+    ],
+    "Breakfast": [
+      "Option 1: Idli (2) + sambar (150 g)",
+      "Option 2: Poha (80 g) with vegetables",
+      "Option 3: Oats porridge (60 g) with nuts"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + dal (150 g) + veg (100 g)",
+      "Option 2: Chapati (2) + chicken curry (120 g) + salad",
+      "Option 3: Millet khichdi (150 g) + mixed veg"
+    ],
+    "Dinner": [
+      "Option 1: Vegetable stir-fry (150 g) + 2 chapatis",
+      "Option 2: Grilled fish (120 g) + steamed veg",
+      "Option 3: Paneer tikka (100 g) + salad"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For PCOS focus on fiber-rich whole grains and regular protein.",
+    "Limit high-sugar and processed foods to manage insulin.",
+    "Include gentle exercise like walking and yoga.",
+    "Prefer structured meal timing to avoid binge eating.",
+    "Stay hydrated and prioritize sleep."
+  ]
+}

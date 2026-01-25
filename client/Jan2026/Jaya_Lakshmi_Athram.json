@@ -1,0 +1,58 @@
+{
+  "Overview": {
+    "Name": "Jaya Lakshmi Athram",
+    "Age": 30,
+    "Gender": "Female",
+    "Height": "152 cm",
+    "Current_Weight_kg": 56,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["PCOS"],
+    "Food_Allergies": ["Soy","Potatoes","Brinjal"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Shifts",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet, Fried",
+    "Triggers": ["Boredom","Depends on taste"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Soaked flaxseeds (1 tbsp)",
+      "Option 3: Soaked almonds (6 nos)"
+    ],
+    "Breakfast": [
+      "Option 1: Oats porridge (60 g) + berries (50 g)",
+      "Option 2: Vegetable upma (80 g)",
+      "Option 3: Vegetable omelette (2 eggs) + 1 toast"
+    ],
+    "Lunch": [
+      "Option 1: Brown rice (150 g) + dal (150 g) + vegetable curry (100 g)",
+      "Option 2: Millet roti (2) + chicken curry (120 g) + salad (50 g)",
+      "Option 3: Chapati (2) + paneer curry (120 g) + salad (50 g)"
+    ],
+    "Dinner": [
+      "Option 1: Light vegetable soup (250 ml) + 1 chapati",
+      "Option 2: Grilled fish (120 g) + steamed veg (100 g)",
+      "Option 3: Mixed vegetable stir-fry (150 g) + millet roti"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For PCOS focus on low GI carbs and balanced protein at each meal.",
+    "Limit refined carbs and sugary fried foods to manage insulin.",
+    "Include regular yoga and stress-reduction practices.",
+    "Prefer small protein-rich snacks to stabilize blood sugar.",
+    "Ensure adequate sleep and hydration."
+  ]
+}

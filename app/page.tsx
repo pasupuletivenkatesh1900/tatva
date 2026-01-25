@@ -1,5 +1,6 @@
 import React from "react";
-import response from "../client/jan2026/saisree.json";
+
+import response from "../client/Jan2026/Naveen_Kumar.json";
 import OverviewCard from "./components/OverviewCard";
 import DynamicMeal from "./components/DynamicMeal";
 import PDFExportButton from "./components/PDFExportButton";
@@ -18,18 +19,15 @@ export default function Page() {
     
     if (key.includes("_")) {
       const parts = key.split("_");
-      const name = parts[0]; // "Meal", "Snack", etc.
-      const second = parts[1]; // Could be number or description
-      
-      // Check if second part is a number
+      const second = parts[1];
+
       if (second && !isNaN(Number(second))) {
-        // Has number: keep name + number as title
-        mealKey = `${name} ${second}`;
-        time = parts.slice(2).join(" "); // Rest as description
+        mealKey = `${parts[0]} ${second}`; // e.g., Meal 1
+        time = parts.length > 2 ? parts.slice(2).join(" ") : "";
       } else {
-        // No number: keep just name as title
-        mealKey = name;
-        time = parts.slice(1).join(" "); // Rest as description
+        // preserve multi-word labels like 'Early Morning (optional)' or 'Evening Snack'
+        mealKey = parts.join(" ");
+        time = parts.length > 2 ? parts.slice(2).join(" ") : "";
       }
     }
     
@@ -52,6 +50,11 @@ export default function Page() {
       </div>
       
       <div id="pdf-content" className="a4-sheet">
+        {overview.Meals_per_Day === 2 && (
+          <div style={{ background: '#fff3cd', padding: '8px 12px', borderRadius: 6, marginBottom: 12, border: '1px solid #ffeeba' }}>
+            <strong>Note:</strong> This client prefers 2 meals per day — breakfast may be skipped or kept light.
+          </div>
+        )}
         <OverviewCard
           name={overview.Name}
           logoUrl="/TATVA_logos.png"
@@ -70,13 +73,44 @@ export default function Page() {
         <div className="meals-wrapper">
           <div className="meals-panel">
             <div className="meals-grid">
-              {Object.entries(convertedDaily).map(([mealKey, mealData]) => (
-                <DynamicMeal 
-                  key={mealKey} 
-                  mealKey={mealKey} 
-                  meal={mealData} 
-                />
-              ))}
+              {(() => {
+                const orderedKeys = Object.keys(convertedDaily);
+                // Determine which keys are primary meals (exclude early/mid/snack labels)
+                const primaryKeys = orderedKeys.filter(k => {
+                  const lk = k.toLowerCase();
+                  return !(lk.includes('early') || lk.includes('snack') || lk.includes('mid') || lk.includes('evening'));
+                });
+
+                // If Meals_per_Day is set, limit primary meals to that count
+                const maxPrimary = typeof overview.Meals_per_Day === 'number' ? overview.Meals_per_Day : primaryKeys.length;
+                // When client prefers fewer meals, prefer later meals (skip breakfast).
+                const allowedPrimary = primaryKeys.length > maxPrimary
+                  ? primaryKeys.slice(primaryKeys.length - maxPrimary)
+                  : primaryKeys.slice(0, maxPrimary);
+
+                return orderedKeys.map((mealKey) => {
+                  const mealData = convertedDaily[mealKey];
+                  let displayKey = mealKey;
+                  const primaryIndex = allowedPrimary.indexOf(mealKey);
+                  if (primaryIndex !== -1) {
+                    displayKey = `Meal ${primaryIndex + 1}`;
+                  } else {
+                    // If this is a primary meal but not allowed (exceeds Meals_per_Day), skip rendering
+                    const isPrimary = primaryKeys.indexOf(mealKey) !== -1;
+                    if (isPrimary && allowedPrimary.indexOf(mealKey) === -1) {
+                      return null;
+                    }
+                  }
+
+                  return (
+                    <DynamicMeal
+                      key={mealKey}
+                      mealKey={displayKey}
+                      meal={mealData}
+                    />
+                  );
+                });
+              })()}
             </div>
 
             <div className="notes-section">
