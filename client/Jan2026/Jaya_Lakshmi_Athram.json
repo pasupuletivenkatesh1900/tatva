@@ -29,30 +29,36 @@
   "Daily_Meal_Plan": {
     "Early_Morning (optional)": [
       "Option 1: Warm water (200 ml)",
-      "Option 2: Soaked flaxseeds (1 tbsp)",
-      "Option 3: Soaked almonds (6 nos)"
+      "Option 2: Jeera water (200 ml) (boiled & cooled)",
+      "Option 3: Green tea (200 ml) (no sugar)"
     ],
-    "Breakfast": [
-      "Option 1: Oats porridge (60 g) + berries (50 g)",
-      "Option 2: Vegetable upma (80 g)",
-      "Option 3: Vegetable omelette (2 eggs) + 1 toast"
+    "Meal_1": [
+      "Option 1: Idli (2) & sambar (no potato, no brinjal) & curd (small cup)",
+      "Option 2: Egg bhurji (2 eggs) (pan-cooked) & small bowl cooked rice",
+      "Option 3: Curd rice (small bowl cooked rice & curd & salt)"
     ],
-    "Lunch": [
-      "Option 1: Brown rice (150 g) + dal (150 g) + vegetable curry (100 g)",
-      "Option 2: Millet roti (2) + chicken curry (120 g) + salad (50 g)",
-      "Option 3: Chapati (2) + paneer curry (120 g) + salad (50 g)"
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (pressure-cooked) & curd (small cup)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & fish curry (simple) & curd (small cup)",
+      "Option 3: Cooked rice (smaller portion) & paneer curry (pan-cooked) & curd (small cup)"
     ],
-    "Dinner": [
-      "Option 1: Light vegetable soup (250 ml) + 1 chapati",
-      "Option 2: Grilled fish (120 g) + steamed veg (100 g)",
-      "Option 3: Mixed vegetable stir-fry (150 g) + millet roti"
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura) chaat (onion & tomato & lemon & salt)",
+      "Option 2: Roasted makhana (hand-roasted in ghee) (salt & chilli powder)",
+      "Option 3: Fruit (1 serving) & buttermilk (unsweetened) (200–250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Paneer bhurji (pan-cooked) & small bowl cooked rice",
+      "Option 2: Clear vegetable soup (no potato) & 1 chapati",
+      "Option 3: Curd (small cup) & buttermilk (unsweetened) (200–250 ml)"
     ]
   },
   "Notes_and_Tips": [
-    "For PCOS focus on low GI carbs and balanced protein at each meal.",
-    "Limit refined carbs and sugary fried foods to manage insulin.",
-    "Include regular yoga and stress-reduction practices.",
-    "Prefer small protein-rich snacks to stabilize blood sugar.",
-    "Ensure adequate sleep and hydration."
+    "PCOS support: keep meals protein-forward (eggs/chicken/fish/paneer) with ~1 cup cooked rice (~150 g) to support stable energy.",
+    "Sweet & fried cravings: use fruit or curd first, and keep makhana as your crunchy option instead of fried snacks.",
+    "Allergy reminder: avoid soy, potatoes and brinjal in curries and side dishes.",
+    "Shift-work tip: keep meal timings consistent even on shifts (set 3 fixed slots).",
+    "Bedtime (optional): warm turmeric milk (small cup, no sugar) or warm water.",
+    "SIMS / nutrition theory note: protein-first meals and steady timing support satiety and better insulin control."
   ]
 }

@@ -40,7 +40,7 @@ const OverviewCard: React.FC<OverviewCardProps> = ({
     <div className="logo-section">
       <img src={logoUrl} alt="Tatva logo" className="header-logo" />
     </div>
-    <h2>Overview</h2>
+    <h2 className="section-heading section-heading--small">Overview</h2>
     <ul>
       <li>
         <span className="overview-label">Age:</span> {age} <span className="overview-separator">|</span> <span className="overview-label">Gender:</span> {gender}

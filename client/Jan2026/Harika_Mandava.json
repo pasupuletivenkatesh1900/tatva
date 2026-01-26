@@ -1,0 +1,65 @@
+{
+  "Overview": {
+    "Name": "Harika Mandava",
+    "Age": 31,
+    "Gender": "Female",
+    "Height": "158.496 cm",
+    "Current_Weight_kg": 73,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["Irregular periods"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Eggetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet, Fried, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Eggetarian (includes eggs; no meat/fish)",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Jeera water (200 ml) (boiled & cooled)",
+      "Option 3: Fruit (1 serving)"
+    ],
+    "Meal_1": [
+      "Option 1: Idli (2) & sambar (1 cup) (simple) & curd (100 g)",
+      "Option 2: Egg omelette/bhurji (2 eggs) (pan-cooked) & curd (100 g)",
+      "Option 3: Poha (1 medium bowl ~1.5 cups cooked) & peanuts (1 tbsp) & curd (100 g)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (simple) & vegetable curry (1 small bowl)",
+      "Option 2: 2 chapati & paneer curry (paneer ~60–80 g) & curd (small cup)",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & egg curry (2 eggs) & curd (small cup)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Buttermilk (unsweetened) (250 ml)",
+      "Option 2: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 3: Puffed rice (murmura) chaat (2 cups) (onion & tomato & lemon & salt)"
+    ],
+    "Meal_3": [
+      "Option 1: Clear vegetable soup (1 large bowl) & 1 chapati",
+      "Option 2: Egg bhurji (2 eggs) (pan-cooked) & salad (cucumber/onion) (1 bowl)",
+      "Option 3: Curd (small cup) & buttermilk (unsweetened) (200–250 ml) (lightest option)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For fat loss: keep rice to ~3/4–1 cup cooked (110–150 g) and make dal/paneer/eggs/curd the main to stay full.",
+    "Because you lose control once you start eating: serve one fixed plate and wait 10 minutes before taking more.",
+    "Stress trigger: drink water first and do 10 slow breaths before meals; avoid starting with fried snacks.",
+    "Sweet cravings: keep fruit/curd/buttermilk first; if you want something sweet, plan it after lunch (small portion) instead of late night.",
+    "Fried & spicy cravings: use roasted makhana as your crunchy option and add spice to main meals (sambar/veg curry) instead of extra snacks.",
+    "Irregular periods support: focus on consistent meal timing and daily protein (dal/paneer/eggs/curd)."
+  ]
+}

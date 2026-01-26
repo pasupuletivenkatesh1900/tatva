@@ -19,12 +19,7 @@ const MealCard: React.FC<MealCardProps> = ({ title, meal }) => {
       <h3 className="meal-title">
         {title}
         {Optional && (
-          <span style={{
-            marginLeft: 8,
-            fontSize: "0.85rem",
-            color: "#6b8a75",
-            fontWeight: 600,
-          }}>(Optional)</span>
+          <span className="meal-optional">(Optional)</span>
         )}
       </h3>
       {Time && <p className="meal-time">{Time}</p>}

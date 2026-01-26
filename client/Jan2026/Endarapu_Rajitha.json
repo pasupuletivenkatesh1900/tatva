@@ -29,30 +29,37 @@
   "Daily_Meal_Plan": {
     "Early_Morning (optional)": [
       "Option 1: Warm water (200 ml)",
-      "Option 2: Soaked almonds (6 nos)",
-      "Option 3: Fruit (100 g)"
+      "Option 2: Jeera water (200 ml) (boiled & cooled)",
+      "Option 3: Fruit (1 serving)"
     ],
-    "Breakfast": [
-      "Option 1: Poha (80 g) + vegetables",
-      "Option 2: Upma (80 g) + chutney",
-      "Option 3: Oats porridge (60 g)"
+    "Meal_1": [
+      "Option 1: Idli (2) & sambar (simple)",
+      "Option 2: Poha (rice poha) (1 medium bowl ~1.5 cups cooked)",
+      "Option 3: Curd rice (small bowl cooked rice & curd & salt)"
     ],
-    "Lunch": [
-      "Option 1: Brown rice (150 g) + dal (150 g) + vegetable curry (100 g)",
-      "Option 2: 2 chapatis + paneer curry (120 g) + salad",
-      "Option 3: Millet khichdi (150 g) + mixed veg"
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (simple) & curd (small cup)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & paneer curry (pan-cooked) & curd (small cup)",
+      "Option 3: Cooked rice (smaller portion) & vegetable curry (simple) & curd (small cup)"
     ],
-    "Dinner": [
-      "Option 1: Light vegetable soup (250 ml) + 1 chapati",
-      "Option 2: Grilled paneer (120 g) + steamed veg",
-      "Option 3: Mixed vegetable stir-fry (150 g)"
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura) (small portion) & buttermilk (unsweetened)",
+      "Option 2: Roasted makhana (hand-roasted in ghee)",
+      "Option 3: Fruit (1 serving)"
+    ],
+    "Meal_3": [
+      "Option 1: Paneer (pan-grilled) & small bowl cooked rice",
+      "Option 2: Clear soup (veg) & 1 chapati",
+      "Option 3: Buttermilk (unsweetened) & curd (small cup)"
     ]
   },
   "Notes_and_Tips": [
-    "When Meals_per_Day=2 prefer later meals and skip breakfast where convenient.",
-    "Use portion control and high-fiber options to manage cravings.",
-    "Include walking daily to support metabolic health.",
-    "Prefer minimally processed foods and whole grains.",
-    "Stay hydrated and prioritize sleep."
+    "Because you lose control once you start eating: serve one fixed portion and wait 10 minutes before taking more.",
+    "Sweet cravings: keep fruit or buttermilk first; avoid sweets late night.",
+    "As Meals are two keep lunch as your strongest meal (dal/paneer & curd), and keep dinner lighter and earlier (soup/1 chapati/buttermilk).",
+    "Stress trigger: before meals, drink a glass of water and do 10 slow breaths; it reduces fast eating and helps portion control.",
+    "Walking daily (20–30 mins) supports energy and appetite control.",
+    "Bedtime (optional): warm turmeric milk (small cup, no sugar) or warm water.",
+    "SIMS / nutrition theory note: protein-first meals and steady timing improve satiety and stable energy."
   ]
 }

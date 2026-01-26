@@ -29,30 +29,36 @@
   "Daily_Meal_Plan": {
     "Early_Morning (optional)": [
       "Option 1: Warm water (200 ml)",
-      "Option 2: Soaked almonds (6 nos)",
-      "Option 3: Fruit (100 g)"
+      "Option 2: Jeera water (200 ml) (boiled & cooled)",
+      "Option 3: Fruit (1 serving)"
     ],
-    "Breakfast": [
-      "Option 1: Idli (2) + sambar",
-      "Option 2: Poha (80 g) + vegetables",
-      "Option 3: Oats porridge (60 g)"
+    "Meal_1": [
+      "Option 1: Idli (2) & sambar (simple)",
+      "Option 2: Poha (rice poha) (1 medium bowl ~1.5 cups cooked)",
+      "Option 3: Curd rice (small bowl cooked rice & curd & salt)"
     ],
-    "Lunch": [
-      "Option 1: Brown rice (150 g) + fish curry (120 g) + salad (50 g)",
-      "Option 2: Chapati (2) + dal + vegetable curry (100 g)",
-      "Option 3: Millet khichdi (150 g) + mixed veg"
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & fish curry (simple) & curd (small cup)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & egg curry (2 eggs)",
+      "Option 3: Cooked rice (smaller portion) & paneer curry (pan-cooked)"
     ],
-    "Dinner": [
-      "Option 1: Grilled fish (120 g) + steamed veg",
-      "Option 2: Vegetable soup (250 ml) + 2 chapatis",
-      "Option 3: Paneer stir-fry (120 g) + salad"
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura) chaat (onion & tomato & lemon & salt)",
+      "Option 2: Roasted makhana (hand-roasted in ghee)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Fish fry (pan-fried) & curd (small cup)",
+      "Option 2: Clear soup (veg) & 1 chapati",
+      "Option 3: Buttermilk (unsweetened) & curd (small cup)"
     ]
   },
   "Notes_and_Tips": [
-    "Include lean proteins and prioritize seafood if preferred.",
-    "Balance meals with fiber and healthy fats to maintain energy.",
-    "Prefer regular meal timings and avoid late-night heavy meals.",
-    "Include daily walking for activity and digestion.",
-    "Stay hydrated and include fresh fruits for micronutrients."
+    "Seafood is a great protein choice: keep it mainly at lunch for best energy.",
+    "Social gatherings: eat your planned meal first, then choose one small item only.",
+    "Keep dinner light and earlier to avoid next-day bloating and cravings.",
+    "Bedtime (optional): warm turmeric milk (small cup, no sugar) or warm water.",
+    "SIMS / nutrition theory note: protein-first meals and steady timing improve satiety and stable energy.",
+    "Keep cooking simple: pressure-cooked curries and pan-fried fish with minimal oil."
   ]
 }

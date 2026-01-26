@@ -1,9 +1,9 @@
 import React from "react";
 
-import response from "../client/Jan2026/Naveen_Kumar.json";
+import response from "../client/Jan2026/Harika_Mandava.json";
 import OverviewCard from "./components/OverviewCard";
 import DynamicMeal from "./components/DynamicMeal";
-import PDFExportButton from "./components/PDFExportButton";
+import PlanActions from "./components/PlanActions";
 
 const overview = response.Overview;
 
@@ -37,15 +37,12 @@ export default function Page() {
     };
   });
 
-  // Debug: log the converted data
-  console.log("Converted Daily:", convertedDaily);
-
   return (
     <div className="center-viewport">
-      <div className="export-controls" style={{ textAlign: 'center', marginBottom: '20px' }}>
-        <PDFExportButton 
-          targetElementId="pdf-content" 
-          filename={`${overview.Name ? overview.Name.replace(/\s+/g, '_') : 'client'}_meal_plan.pdf`} 
+      <div className="export-controls no-print" aria-label="Export and print controls">
+        <PlanActions
+          targetElementId="pdf-content"
+          filename={`${overview.Name ? overview.Name.replace(/\s+/g, "_") : "client"}_meal_plan.pdf`}
         />
       </div>
       
@@ -67,6 +64,7 @@ export default function Page() {
 
         <div className="meals-wrapper">
           <div className="meals-panel">
+            <h2 className="section-heading">Daily Meal Plan</h2>
             <div className="meals-grid">
               {(() => {
                 const orderedKeys = Object.keys(convertedDaily);
@@ -109,9 +107,7 @@ export default function Page() {
             </div>
 
             <div className="notes-section">
-              <h3 style={{ margin: "12px 0 8px 0", color: "var(--primary)", fontSize: "1.02rem" }}>
-                Notes & Tips
-              </h3>
+              <h3 className="section-heading section-heading--small">Notes & Tips</h3>
               <ul>
                 {(response.Notes_and_Tips || []).map((n: string, i: number) => (
                   <li key={i} style={{ margin: "6px 0" }}>

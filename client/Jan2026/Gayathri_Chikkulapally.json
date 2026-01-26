@@ -28,31 +28,37 @@
   },
   "Daily_Meal_Plan": {
     "Early_Morning (optional)": [
-      "Option 1: Warm water (200 ml) + lemon",
-      "Option 2: Soaked almonds (6 nos)",
-      "Option 3: Green tea (200 ml)"
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Green tea (200 ml) (no sugar)",
+      "Option 3: Fruit (1 serving)"
     ],
-    "Breakfast": [
-      "Option 1: Vegetable omelette (2 eggs) + 1 toast",
-      "Option 2: Poha (80 g) + peanuts (10 g)",
-      "Option 3: Oats porridge (60 g) with fruits (50 g)"
+    "Meal_1": [
+      "Option 1: Egg omelette/bhurji (2 eggs) (pan-cooked) & curd (small cup)",
+      "Option 2: Idli (2) & sambar (simple) & curd (small cup)",
+      "Option 3: Curd rice (small bowl cooked rice & curd & salt) & 1 boiled egg"
     ],
-    "Lunch": [
-      "Option 1: Brown rice (150 g) + chicken curry (120 g) + salad (50 g)",
-      "Option 2: Millet khichdi (150 g) + mixed veg (100 g)",
-      "Option 3: Chapati (2) + paneer curry (120 g) + salad (50 g)"
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (pressure-cooked) & curd (small cup)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & fish curry (simple) & curd (small cup)",
+      "Option 3: Cooked rice (smaller portion) & paneer curry (pan-cooked) & curd (small cup)"
     ],
-    "Dinner": [
-      "Option 1: Grilled fish (120 g) + steamed veg (100 g)",
-      "Option 2: Vegetable soup (250 ml) + 2 chapatis",
-      "Option 3: Paneer tikka (100 g) + salad (50 g)"
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura) chaat (onion & tomato & lemon & salt)",
+      "Option 2: Roasted makhana (hand-roasted in ghee) (salt & chilli powder)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Egg bhurji (2 eggs) & small bowl cooked rice",
+      "Option 2: Clear chicken soup (simple) & curd (small cup)",
+      "Option 3: Paneer tikka (pan-grilled) & curd (small cup)"
     ]
   },
   "Notes_and_Tips": [
-    "Include lean proteins and focus on strength training to improve composition.",
-    "Manage stress with short breathing exercises and consistent sleep.",
-    "Avoid late-night heavy meals; prefer light dinners.",
-    "Ensure progressive overload in gym routine with rest days.",
-    "Include fresh fruits and vegetables for micronutrients."
+    "For fat loss, body shape & confidence: keep rice portions around 1 cup cooked (~150 g) per main meal and make protein the main (chicken/eggs/paneer) for better satiety.",
+    "Sleep is your biggest lever: aim for an earlier dinner and a consistent bedtime to reduce stress eating.",
+    "Spicy cravings: add spice to main meals (curry/omelette) instead of adding extra snacks.",
+    "Busy workday: keep murmura or roasted makhana pre-portioned to avoid random snacking.",
+    "Bedtime (optional): warm turmeric milk (small cup, no sugar) or warm water.",
+    "SIMS / nutrition theory note: protein-first meals and steady timing support stable energy and easier fat loss."
   ]
 }

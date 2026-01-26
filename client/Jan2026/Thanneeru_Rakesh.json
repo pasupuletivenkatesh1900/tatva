@@ -1,0 +1,65 @@
+{
+  "Overview": {
+    "Name": "Thanneeru Rakesh",
+    "Age": 36,
+    "Gender": "Male",
+    "Height": "177 cm",
+    "Current_Weight_kg": 81,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Diabetes", "Thyroid", "Hypertension"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Calliflower"],
+    "Likes": ["Veg"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Badminton",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Savory, Fried",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Jeera water (200 ml) (boiled & cooled)",
+      "Option 3: Black coffee/tea (no sugar)"
+    ],
+    "Meal_1": [
+      "Option 1: Egg bhurji (2 eggs) (pan-cooked) & curd (small cup)",
+      "Option 2: Idli (2) & sambar (simple, no cauliflower)",
+      "Option 3: Curd rice (small bowl cooked rice & curd & salt)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (pressure-cooked) & curd (small cup)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & fish curry (simple) & curd (small cup)",
+      "Option 3: Cooked rice (smaller portion) & paneer curry (pan-cooked)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura) (small portion) & buttermilk (unsweetened)",
+      "Option 2: Roasted makhana (hand-roasted in ghee)",
+      "Option 3: Curd (small cup)"
+    ],
+    "Meal_3": [
+      "Option 1: Fish curry (simple) & small bowl cooked rice",
+      "Option 2: Paneer tikka (pan-grilled) & curd (small cup)",
+      "Option 3: Clear soup (veg, no cauliflower) & buttermilk (unsweetened)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For diabetes: keep rice portions consistent (about 1 cup cooked ~150 g) and avoid juices and sugary snacks.",
+    "For hypertension: limit salty fried foods and keep home-cooked simple curries most days.",
+    "For thyroid: if on thyroid tablets, keep milk/curd and calcium/iron supplements 3–4 hours away (as per doctor advice).",
+    "Stress eating: do 5 minutes slow breathing before dinner to reduce cravings.",
+    "Bedtime (optional): warm turmeric milk (small cup, no sugar) or warm water.",
+    "SIMS / nutrition theory note: protein-first meals and steady timing support stable energy and better control."
+  ]
+}

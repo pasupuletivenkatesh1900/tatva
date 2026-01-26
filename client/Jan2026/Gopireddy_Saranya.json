@@ -1,0 +1,65 @@
+{
+  "Overview": {
+    "Name": "Gopireddy Saranya",
+    "Age": 26,
+    "Gender": "Female",
+    "Height": "4.10 ft",
+    "Current_Weight_kg": 50,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Shifts",
+    "Sleep_hrs": "Irregular",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "None",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "",
+    "Meal_Preference": "Variety",
+    "Triggers": [],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Green tea (200 ml) (no sugar)",
+      "Option 3: Fruit (1 serving)"
+    ],
+    "Meal_1": [
+      "Option 1: Idli (2) & sambar (simple)",
+      "Option 2: Egg bhurji (2 eggs) (pan-cooked) & small bowl cooked rice",
+      "Option 3: Curd rice (small bowl cooked rice & curd & salt)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (pressure-cooked) & curd (small cup)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & fish curry (simple)",
+      "Option 3: Cooked rice (smaller portion) & paneer curry (pan-cooked)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura) (small portion)",
+      "Option 2: Roasted makhana (hand-roasted in ghee)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Egg curry (2 eggs) & small bowl cooked rice",
+      "Option 2: Paneer tikka (pan-grilled) & curd (small cup)",
+      "Option 3: Clear soup (veg) & buttermilk (unsweetened)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Shift routine: set 3 fixed meal slots even if sleep is irregular.",
+    "Stress support: keep meals simple and repeatable; avoid skipping meals which worsens mood.",
+    "If cravings appear: start with buttermilk or fruit, wait 10 minutes, then decide.",
+    "Bedtime (optional): warm turmeric milk (small cup, no sugar) or warm water.",
+    "SIMS / nutrition theory note: protein-first meals and steady timing improve satiety and stable energy.",
+    "Keep cooking simple: pressure-cooked curries and pan-cooked eggs with minimal oil."
+  ]
+}

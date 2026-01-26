@@ -2,9 +2,34 @@
 
 import React from 'react';
 
+type Html2PdfOptions = {
+  margin: number;
+  filename: string;
+  image: { type: 'jpeg' | 'png'; quality: number };
+  html2canvas: {
+    scale: number;
+    scrollY: number;
+    height: number;
+    windowHeight: number;
+  };
+  jsPDF: {
+    unit: 'px' | 'mm' | 'pt';
+    format: [number, number];
+    orientation: 'portrait' | 'landscape';
+  };
+};
+
+type Html2PdfInstance = {
+  set: (options: Html2PdfOptions) => Html2PdfInstance;
+  from: (element: HTMLElement) => Html2PdfInstance;
+  save: () => void;
+};
+
+type Html2PdfFn = () => Html2PdfInstance;
+
 declare global {
   interface Window {
-    html2pdf: any;
+    html2pdf?: Html2PdfFn;
   }
 }
 
@@ -19,12 +44,12 @@ const PDFExportButton: React.FC<PDFExportButtonProps> = ({
 }) => {
   const generatePDF = () => {
     if (typeof window !== 'undefined' && window.html2pdf) {
-      const element = document.getElementById(targetElementId) || document.body;
+      const element = (document.getElementById(targetElementId) || document.body) as HTMLElement;
       
       // Get the actual content height
       const contentHeight = element.scrollHeight;
       
-      const options = {
+      const options: Html2PdfOptions = {
         margin: 0,
         filename: filename,
         image: { type: 'jpeg', quality: 0.98 },
@@ -41,7 +66,7 @@ const PDFExportButton: React.FC<PDFExportButtonProps> = ({
         }
       };
 
-      window.html2pdf().set(options).from(element).save();
+      window.html2pdf()?.set(options).from(element).save();
     } else {
       alert('PDF library not loaded. Please refresh the page and try again.');
     }
@@ -50,23 +75,9 @@ const PDFExportButton: React.FC<PDFExportButtonProps> = ({
   return (
     <button
       onClick={generatePDF}
-      className="pdf-export-button"
-      style={{
-        backgroundColor: '#007bff',
-        color: 'white',
-        border: 'none',
-        padding: '10px 20px',
-        borderRadius: '5px',
-        cursor: 'pointer',
-        fontSize: '14px',
-        fontWeight: '500',
-        margin: '10px 0',
-        transition: 'background-color 0.2s'
-      }}
-      onMouseOver={(e) => e.currentTarget.style.backgroundColor = '#0056b3'}
-      onMouseOut={(e) => e.currentTarget.style.backgroundColor = '#007bff'}
+      className="action-button action-button--primary pdf-export-button"
     >
-      📄 Export as PDF
+      Export PDF
     </button>
   );
 };

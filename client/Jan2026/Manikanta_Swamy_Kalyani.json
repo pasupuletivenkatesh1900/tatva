@@ -1,0 +1,65 @@
+{
+  "Overview": {
+    "Name": "Manikanta Swamy Kalyani",
+    "Age": 30,
+    "Gender": "Male",
+    "Height": "",
+    "Current_Weight_kg": 73.5,
+    "Target_Weight_kg": 67,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "12 pm to 10 pm",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Mixed",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Late nights"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Strictly vegetarian",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Jeera water (200 ml) (boiled & cooled)",
+      "Option 3: Green tea (200 ml) (no sugar)"
+    ],
+    "Meal_1": [
+      "Option 1: Curd rice (small bowl cooked rice & curd & salt)",
+      "Option 2: Idli (2) & sambar (simple)",
+      "Option 3: Rice rawa upma (small portion) & curd (small cup)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & paneer curry (pan-cooked) & curd (small cup)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & dal (simple) & curd (small cup)",
+      "Option 3: Cooked rice (smaller portion) & vegetable curry (simple) & curd (small cup)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura) chaat (onion & tomato & lemon & salt)",
+      "Option 2: Roasted makhana (hand-roasted in ghee)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Paneer bhurji (pan-cooked) & small bowl cooked rice",
+      "Option 2: Clear soup (veg) & 1 chapati",
+      "Option 3: Buttermilk (unsweetened) & curd (small cup)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For fat loss and a better look: keep rice around 1 cup cooked (~150 g) per main meal and make paneer/dal the main for satiety.",
+    "Fried cravings: use roasted makhana as your crunchy option instead of fried snacks.",
+    "Late-night trigger: aim to finish Meal 3 earlier and avoid extra snacking after 10 pm.",
+    "Bedtime (optional): warm turmeric milk (small cup, no sugar) or warm water.",
+    "SIMS / nutrition theory note: protein-first meals and steady timing improve satiety and stable energy.",
+    "Keep cooking simple: pressure-cooked dals and pan-cooked paneer with minimal oil."
+  ]
+}

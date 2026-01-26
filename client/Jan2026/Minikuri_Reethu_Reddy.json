@@ -29,30 +29,36 @@
   "Daily_Meal_Plan": {
     "Early_Morning (optional)": [
       "Option 1: Warm water (200 ml)",
-      "Option 2: Soaked almonds (6 nos)",
-      "Option 3: Fruit (100 g)"
+      "Option 2: Jeera water (200 ml) (boiled & cooled)",
+      "Option 3: Fruit (1 serving)"
     ],
-    "Breakfast": [
-      "Option 1: Idli (2) + sambar (150 g)",
-      "Option 2: Poha (80 g) with vegetables",
-      "Option 3: Oats porridge (60 g) with nuts"
+    "Meal_1": [
+      "Option 1: Idli (2) & sambar (simple)",
+      "Option 2: Poha (rice poha) (1 medium bowl ~1.5 cups cooked) & curd (small cup)",
+      "Option 3: Curd rice (small bowl cooked rice & curd & salt)"
     ],
-    "Lunch": [
-      "Option 1: Brown rice (150 g) + dal (150 g) + veg (100 g)",
-      "Option 2: Chapati (2) + chicken curry (120 g) + salad",
-      "Option 3: Millet khichdi (150 g) + mixed veg"
+    "Meal_2": [
+      "Option 1: Cooked rice (slightly higher portion) & chicken curry (pressure-cooked) & curd (small cup)",
+      "Option 2: Cooked rice (slightly higher portion) & fish curry (simple) & curd (small cup)",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer curry (pan-cooked) & curd (small cup)"
     ],
-    "Dinner": [
-      "Option 1: Vegetable stir-fry (150 g) + 2 chapatis",
-      "Option 2: Grilled fish (120 g) + steamed veg",
-      "Option 3: Paneer tikka (100 g) + salad"
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura) (small portion) & buttermilk (unsweetened)",
+      "Option 2: Roasted makhana (hand-roasted in ghee)",
+      "Option 3: Fruit (1 serving)"
+    ],
+    "Meal_3": [
+      "Option 1: Egg curry (2 eggs) & small bowl cooked rice",
+      "Option 2: Paneer tikka (pan-grilled) & curd (small cup)",
+      "Option 3: Clear soup (veg) & buttermilk (unsweetened)"
     ]
   },
   "Notes_and_Tips": [
-    "For PCOS focus on fiber-rich whole grains and regular protein.",
-    "Limit high-sugar and processed foods to manage insulin.",
-    "Include gentle exercise like walking and yoga.",
-    "Prefer structured meal timing to avoid binge eating.",
-    "Stay hydrated and prioritize sleep."
+    "Goal is healthy weight gain to 52 kg: increase portions slightly and prioritise protein (eggs/chicken/fish/paneer) daily.",
+    "PCOS support: avoid sugary snacks and keep rice portion steady (don’t spike & crash).",
+    "Social gatherings: eat your planned meal first, then choose one small item only.",
+    "Irregular routine: keep 3 fixed meal slots, even if timing shifts.",
+    "Bedtime (optional): warm turmeric milk (small cup, no sugar) or warm water.",
+    "SIMS / nutrition theory note: protein-first meals and steady timing support better appetite control and energy."
   ]
 }
