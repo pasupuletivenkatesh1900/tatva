@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Manikanta Swamy Kalyani",
+    "Age": 30,
+    "Gender": "Male",
+    "Height": "",
+    "Current_Weight_kg": 73.5,
+    "Target_Weight_kg": 67,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "12 pm to 10 pm",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Mixed",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Late nights"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Strictly vegetarian",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer bhurji (80 g paneer) & vegetable dosa (1)",
+      "Option 2: Idli (2) & sambar (1 cup)",
+      "Option 3: Vegetable poha (1 medium bowl) with peanuts (1 tbsp)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (1 bowl) & vegetable curry",
+      "Option 2: 2 chapati & paneer curry (80 g paneer) & salad",
+      "Option 3: Vegetable khichdi (1 bowl) & curd (small cup)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Clear vegetable soup (1 large bowl) & paneer cubes (60 g)",
+      "Option 2: Vegetable upma (small bowl) & salad",
+      "Option 3: 1 chapati & dal (light portion)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Because your routine is fixed and late nights are a trigger, keep dinner light and avoid fried snacks after work.",
+    "For better physique focus, make paneer and dal the main portion and keep rice or chapati moderate.",
+    "If fried cravings come, choose pan cooked paneer instead of deep fried foods.",
+    "Try to finish dinner at least 2 hours before sleep to improve recovery and energy.",
+    "Simple home style cooking will help you stay consistent even with long work hours."
+  ]
+}

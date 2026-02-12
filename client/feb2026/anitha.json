@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Anitha",
+    "Age": 40,
+    "Gender": "Female",
+    "Height": "154 cm",
+    "Current_Weight_kg": 56,
+    "Target_Weight_kg": 54,
+    "Medical_Conditions": ["Anxiety"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress", "Social gatherings", "Boredom"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Feeling energetic & confident, Preventing/reversing health issues",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: Vegetable dosa (1) & paneer cubes (60 g)",
+      "Option 2: Idli (2) & sambar (1 cup)",
+      "Option 3: Vegetable upma (small bowl) & buttermilk (unsweetened)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (1 bowl) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & chicken curry (small portion) & spinach curry",
+      "Option 3: 2 chapati & paneer curry (80 g paneer) & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & dal (light) & vegetable curry",
+      "Option 2: Egg omelette (2 eggs) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & paneer stir fry (60 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since anxiety and stress can increase fried cravings, choose pan cooked foods instead of deep fried snacks.",
+    "Keep lunch slightly stronger with protein and vegetables to maintain steady energy through the day.",
+    "Because appearance and health are goals, keep rice moderate and make paneer, dal or eggs the main portion.",
+    "During social gatherings eat protein first so you naturally reduce overeating.",
+    "Simple home style cooking will help you stay consistent without stress."
+  ]
+}

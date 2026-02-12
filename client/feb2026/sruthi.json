@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Sruthi",
+    "Age": 29,
+    "Gender": "Female",
+    "Height": "150 cm",
+    "Current_Weight_kg": 70,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["PCOD"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Egg"],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Shifts",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Fried, Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress", "Boredom"],
+    "Willing_To_Cook": "",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian (no eggs)",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: Paneer cubes (50 g)"
+    ],
+    "Meal_1": [
+      "Option 1: Vegetable dosa (1) & paneer cubes (60 g)",
+      "Option 2: Idli (2) & sambar (1 cup) & paneer bhurji (60 g paneer)",
+      "Option 3: Vegetable upma (medium bowl) & buttermilk (unsweetened)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (1 bowl) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & chicken curry (small portion) & spinach curry",
+      "Option 3: 2 chapati & paneer curry (80 g paneer) & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & dal (light) & vegetable curry",
+      "Option 2: Grilled chicken (small portion) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & paneer cubes (60 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Eggs are excluded as mentioned, so focus more on paneer, dal and occasional chicken for protein.",
+    "Since PCOD is present, keep protein steady in every meal and reduce very oily foods.",
+    "Stress and boredom can increase fried cravings, so keep makhana or paneer ready as a quick option.",
+    "For better appearance results, keep rice moderate and protein portions consistent.",
+    "Simple home style cooking will help you stay consistent even with shift work."
+  ]
+}

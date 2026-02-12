@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "M.Srividya",
+    "Age": 40,
+    "Gender": "Female",
+    "Height": "158 cm",
+    "Current_Weight_kg": 66,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Prawns"],
+    "Likes": ["Chicken"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 3,
+    "Goal": "Preventing/reversing health issues",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 2 boiled eggs"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2 eggs) & vegetable dosa (1)",
+      "Option 2: Idli (2) & sambar (1 cup) & paneer cubes (50 g)",
+      "Option 3: Vegetable upma (small bowl) & boiled egg (1)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (palm size) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & dal (1 bowl) & spinach curry",
+      "Option 3: 2 chapati & grilled chicken (moderate portion) & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & egg curry (2 eggs) & vegetable curry",
+      "Option 2: Chicken stir fry (light portion) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & paneer cubes (60 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since spicy food is a preference, keep spices in home cooked meals instead of choosing fried outside food.",
+    "Avoid prawns as mentioned and focus more on chicken and eggs for protein.",
+    "Keep lunch slightly stronger to maintain steady energy through the day.",
+    "Stress eating can be reduced by eating slowly and keeping snack options simple like makhana.",
+    "Simple home style cooking will help maintain consistency and support long term health."
+  ]
+}

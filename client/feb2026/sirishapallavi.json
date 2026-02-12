@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Sirikonda pallavi",
+    "Age": 40,
+    "Gender": "Female",
+    "Height": "5'3",
+    "Current_Weight_kg": 54,
+    "Target_Weight_kg": "",
+    "Medical_Conditions": [],
+    "Food_Allergies": [],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "",
+    "Sleep_hrs": "More than 8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 2,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: Idli (2) & sambar (1 cup) & paneer cubes (50 g)",
+      "Option 2: Vegetable dosa (1) & egg omelette (2 eggs)",
+      "Option 3: Vegetable upma (small bowl) & buttermilk (unsweetened)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (1 bowl) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & chicken curry (small portion) & spinach curry",
+      "Option 3: 2 chapati & paneer curry (80 g paneer) & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & dal (light) & vegetable curry",
+      "Option 2: Egg omelette (2 eggs) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & paneer stir fry (60 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since you prefer minimal cooking, choose simple meals like idli, dosa, paneer or eggs that take less time.",
+    "Because fried foods are a craving, choose pan cooked eggs or chicken instead of deep fried snacks.",
+    "Keep lunch slightly stronger to maintain steady energy through the day.",
+    "Stress eating can increase hunger, so keep roasted makhana ready as a simple snack.",
+    "Maintain a fixed routine to support stable energy and digestion."
+  ]
+}

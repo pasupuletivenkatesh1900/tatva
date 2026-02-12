@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Kalva Dileep kumar",
+    "Age": 41,
+    "Gender": "Male",
+    "Height": "172 cm",
+    "Current_Weight_kg": 79.9,
+    "Target_Weight_kg": 72,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "Less than 6 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Social gatherings", "Daily lunch"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: Boiled chicken pieces (small bowl)"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2 eggs) & vegetable dosa (1)",
+      "Option 2: Idli (2) & sambar (1 cup) & paneer cubes (60 g)",
+      "Option 3: Vegetable upma (medium bowl) & boiled egg (1)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (palm size) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & dal (1 bowl) & spinach curry",
+      "Option 3: 2 chapati & grilled chicken (moderate portion) & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Boiled peanuts (small bowl)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & egg curry (2 eggs) & vegetable curry",
+      "Option 2: Chicken stir fry (light portion) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & paneer cubes (60 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since fried food is a craving, choose pan cooked chicken or eggs instead of deep fried items.",
+    "Keep lunch slightly stronger with protein to maintain steady energy during work hours.",
+    "Because sleep is less than 6 hours, keep dinner lighter to support recovery and reduce fatigue.",
+    "During social gatherings eat protein foods first to naturally control portion size.",
+    "Simple home style cooking will help you stay consistent long term."
+  ]
+}

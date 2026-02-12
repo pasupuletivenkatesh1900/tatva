@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Srikanth Singh",
+    "Age": 43,
+    "Gender": "Male",
+    "Height": "5.6",
+    "Current_Weight_kg": 75,
+    "Target_Weight_kg": "65-68",
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Egg", "Shrimps"],
+    "Likes": ["Anything other than egg and shrimps"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "I eat whatever it is available during cravings",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: Boiled chicken pieces (small bowl)"
+    ],
+    "Meal_1": [
+      "Option 1: Chicken pieces (small bowl) & vegetable dosa (1)",
+      "Option 2: Idli (2) & sambar (1 cup) & paneer cubes (60 g)",
+      "Option 3: Vegetable upma (medium bowl) & grilled chicken (small portion)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & grilled chicken (palm size) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & fish fry (pan fried) & spinach curry",
+      "Option 3: 2 chapati & chicken curry (moderate portion) & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Boiled peanuts (small bowl)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & chicken curry (light) & vegetable curry",
+      "Option 2: Grilled fish (small portion) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & paneer cubes (60 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Egg and shrimps are excluded as requested, so focus on chicken, fish and paneer for protein.",
+    "For better physique results, keep protein slightly higher and rice portions moderate.",
+    "During social gatherings eat chicken or fish first so overeating naturally reduces.",
+    "Choose pan fried or grilled cooking instead of oily foods to maintain steady energy.",
+    "Simple meals will help you stay consistent without needing extra cooking effort."
+  ]
+}

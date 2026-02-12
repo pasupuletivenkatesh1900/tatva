@@ -1,6 +1,6 @@
 import React from "react";
 
-import response from "../client/Jan2026/Harika_Mandava.json";
+import response from "../client/feb2026/santhosh.json";
 import OverviewCard from "./components/OverviewCard";
 import DynamicMeal from "./components/DynamicMeal";
 import PlanActions from "./components/PlanActions";

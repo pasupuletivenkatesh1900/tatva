@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "M N P V Kishore",
+    "Age": 39,
+    "Gender": "Male",
+    "Height": "165 cm",
+    "Current_Weight_kg": 72.5,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["Diabetes"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Eggetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Field Work",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Results first – include eggs as main protein",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 2 boiled eggs"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (3 eggs) pan fried & vegetable dosa (1)",
+      "Option 2: Idli (2) & sambar (1 cup) & paneer cubes (60 g)",
+      "Option 3: Puffed rice (2 cups) & 2 boiled eggs"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) & egg curry (2 eggs) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & dal (1 bowl) & spinach curry",
+      "Option 3: 2 chapati & paneer curry (80 g paneer) & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & egg curry (2 eggs) & vegetable curry",
+      "Option 2: Egg bhurji (2 eggs) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & paneer cubes (60 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since diabetes is present, keep rice portions smaller and make eggs or paneer the main part of meals.",
+    "Sweet cravings can be managed by eating fruit or buttermilk before choosing desserts during gatherings.",
+    "Because appearance is a strong motivation, keep protein portions consistent to improve body composition.",
+    "Field work requires steady energy, so avoid skipping meals even on busy days.",
+    "Simple pan fried egg dishes will help you stay consistent without complicated cooking."
+  ]
+}

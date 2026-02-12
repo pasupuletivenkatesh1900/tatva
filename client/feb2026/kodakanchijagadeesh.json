@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Kodakanchi Jagadeesh",
+    "Age": 37,
+    "Gender": "Male",
+    "Height": "5.9cm",
+    "Current_Weight_kg": 82,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Ur wish"],
+    "Likes": ["Chicken"],
+    "Occupation": "Field Work",
+    "Work_Hours": "Construction side builder",
+    "Sleep_hrs": "More than 8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 2 boiled eggs"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2 eggs) & vegetable dosa (1)",
+      "Option 2: Idli (2) & sambar (1 cup) & paneer cubes (50 g)",
+      "Option 3: Vegetable upma (medium bowl) & boiled egg (1)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (palm size) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & dal (1 bowl) & spinach curry",
+      "Option 3: 2 chapati & grilled chicken (moderate portion) & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Boiled peanuts (small bowl)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & egg curry (2 eggs) & vegetable curry",
+      "Option 2: Chicken stir fry (light portion) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & paneer cubes (60 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since you do field work, keep meals filling but simple so energy stays steady throughout the day.",
+    "Include chicken mainly at lunch to support strength and recovery.",
+    "Stress can increase hunger, so keep makhana or boiled eggs ready instead of fried snacks.",
+    "Keep dinner lighter to support good digestion and sleep.",
+    "Simple pan fried or grilled cooking will help you stay consistent daily."
+  ]
+}
