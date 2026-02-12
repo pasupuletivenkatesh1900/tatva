@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "VSNV HANSIKA",
+    "Age": 15,
+    "Gender": "Female",
+    "Height": "152 cm",
+    "Current_Weight_kg": 40,
+    "Target_Weight_kg": 35,
+    "Medical_Conditions": ["PCOS"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": ["Cucumber curry"],
+    "Likes": ["All veg currys"],
+    "Occupation": "Student",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "Less than 6 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I usually avoid them",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["No overeating"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 1,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Strictly vegetarian",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Fruit (1 serving)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: Idli (2) & sambar (1 cup)",
+      "Option 2: Vegetable dosa (1) & paneer cubes (60 g)",
+      "Option 3: Vegetable poha (1 medium bowl)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (1 bowl) & vegetable curry",
+      "Option 2: 2 chapati & paneer curry (80 g paneer) & salad",
+      "Option 3: Vegetable khichdi (1 bowl) & curd (small cup)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & vegetable curry & dal (light)",
+      "Option 2: Clear vegetable soup (1 large bowl) & paneer cubes (60 g)",
+      "Option 3: 1 chapati & dal (light portion)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since you are a student with PCOS, focus on regular meals instead of skipping food even if appetite is low.",
+    "Keep spicy flavors in main meals so cravings do not lead to outside snacks.",
+    "Sleep less than 6 hours can increase fatigue, so try to maintain consistent sleep timing.",
+    "Include paneer or dal daily to support hormone balance and steady energy.",
+    "Simple home style food will help you stay consistent with a fixed routine."
+  ]
+}

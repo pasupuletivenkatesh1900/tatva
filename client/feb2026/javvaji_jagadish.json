@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Javvaji Jagadish Reddy",
+    "Age": 38,
+    "Gender": "Male",
+    "Height": "155.4 cm",
+    "Current_Weight_kg": 89,
+    "Target_Weight_kg": 75,
+    "Medical_Conditions": ["Diabetes"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["Briyani"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "Less than 6 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I usually avoid them",
+    "Food_Craving": "Fried, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Late nights"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Preventing/reversing health issues",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 2 boiled eggs"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2 eggs) & vegetable dosa (1)",
+      "Option 2: Idli (2) & sambar (1 cup) & paneer cubes (50 g)",
+      "Option 3: Vegetable upma (small bowl) & boiled egg (1)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) & grilled chicken (palm size) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & dal (1 bowl) & spinach curry",
+      "Option 3: Home style chicken biryani (moderate portion) & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Boiled peanuts (small bowl)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & egg curry (2 eggs) & vegetable curry",
+      "Option 2: Chicken stir fry (light portion) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & paneer cubes (60 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since diabetes is present, keep rice portions smaller and make eggs or chicken the main part of meals.",
+    "Late night eating can increase sugar fluctuations, so keep dinner lighter and earlier when possible.",
+    "Because biryani is a favorite, include it in controlled home style portions instead of avoiding it completely.",
+    "Choose pan fried or grilled foods instead of deep fried snacks to manage cravings.",
+    "Simple cooking and regular meal timing will help improve energy and blood sugar balance."
+  ]
+}

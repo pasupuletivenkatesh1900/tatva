@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Praveena Enukonda",
+    "Age": 38,
+    "Gender": "Female",
+    "Height": "144 cm",
+    "Current_Weight_kg": 67,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["Thyroid", "Migraine"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["Salad"],
+    "Occupation": "Desk Job, Homemaker",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 2 boiled eggs"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2 eggs) & vegetable dosa (1)",
+      "Option 2: Idli (2) & sambar (1 cup) & paneer cubes (60 g)",
+      "Option 3: Vegetable upma (medium bowl) & salad (small bowl)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (1 bowl) & vegetable curry & salad",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & chicken curry (small portion) & spinach curry",
+      "Option 3: 2 chapati & paneer curry (80 g paneer) & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & dal (light) & vegetable curry",
+      "Option 2: Paneer stir fry (60 g) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & grilled chicken (small portion)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since thyroid and migraine are present, keep meal timings regular and avoid long gaps without food.",
+    "Salads can be included daily to improve digestion and keep meals light.",
+    "Sweet cravings during social gatherings can be managed by eating protein first before desserts.",
+    "Keep dinner lighter than lunch to reduce migraine triggers and support better sleep.",
+    "Simple home style cooking will help maintain consistency and steady energy."
+  ]
+}

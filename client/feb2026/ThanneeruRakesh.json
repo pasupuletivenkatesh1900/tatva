@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Thanneeru Rakesh",
+    "Age": 36,
+    "Gender": "Male",
+    "Height": "177 cm",
+    "Current_Weight_kg": 81,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Diabetes", "Thyroid", "Hypertension"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Cauliflower"],
+    "Likes": ["Veg"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Badminton",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Savory, Fried",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: 2 boiled eggs & vegetable dosa (1)",
+      "Option 2: Paneer cubes (80 g) & vegetable upma (small bowl)",
+      "Option 3: Egg omelette (2 eggs) & sautéed spinach"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) & grilled chicken (palm size) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & dal (1 bowl) & bottle gourd curry",
+      "Option 3: 2 chapati & fish fry (pan fried) & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Chicken stir fry with vegetables (light portion)",
+      "Option 2: Paneer stir fry (80 g paneer) & clear vegetable soup",
+      "Option 3: Egg bhurji (2 eggs) & cucumber salad"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Because of diabetes and hypertension, keep rice portions smaller and make protein the main part of the plate.",
+    "Avoid deep fried snacks; choose pan fried chicken, fish or eggs to manage savory cravings.",
+    "Stress eating: drink water and wait 5 minutes before choosing snacks.",
+    "Regular protein intake will help reduce belly fat and improve body shape.",
+    "Keep meal timings consistent to support thyroid balance and stable energy."
+  ]
+}

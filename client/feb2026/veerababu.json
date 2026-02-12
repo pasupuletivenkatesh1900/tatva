@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Veerababu Peruri",
+    "Age": 40,
+    "Gender": "Male",
+    "Height": "5.6",
+    "Current_Weight_kg": 69,
+    "Target_Weight_kg": "",
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Shifts",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "5k–10k",
+    "Exercise": "Gym and Yoga",
+    "Food_Habit": "I usually avoid them",
+    "Food_Craving": "",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 2,
+    "Goal": "Mental wellbeing & stress reduction",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: Idli (2) & sambar (1 cup) & paneer cubes (60 g)",
+      "Option 2: Vegetable dosa (1) & dal (1 small bowl)",
+      "Option 3: Vegetable poha (1 medium bowl) & peanuts (1 tbsp)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (1 bowl) & vegetable curry",
+      "Option 2: 2 chapati & paneer curry (80 g paneer) & salad",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) & sambar & spinach curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & dal (light) & vegetable curry",
+      "Option 2: Paneer stir fry (60 g) & clear vegetable soup",
+      "Option 3: 1 chapati & vegetable curry (light portion)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since your goal is mental wellbeing, keep meals simple and regular even during shift work.",
+    "Because of gym and yoga, include paneer or dal in each main meal to support recovery.",
+    "During social gatherings eat protein foods first so you naturally reduce overeating.",
+    "Keep dinner lighter to improve sleep quality and reduce stress.",
+    "Simple home style food will help you stay consistent long term."
+  ]
+}

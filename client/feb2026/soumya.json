@@ -1,0 +1,69 @@
+{
+  "Overview": {
+    "Name": "Soumya Maladi",
+    "Age": 32,
+    "Gender": "Female",
+    "Height": "5.1",
+    "Current_Weight_kg": 63,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["Thyroid", "PCOS"],
+    "Food_Allergies": ["Unable to digest little old coconut"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": ["Nothing"],
+    "Likes": ["Aloo fry", "Panipuri"],
+    "Occupation": "Desk Job, Homemaker",
+    "Work_Hours": "2 pm to 11 pm or till 1 am",
+    "Sleep_hrs": "Less than 6 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Walking and yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet, Savory, Fried, Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress", "Social gatherings", "Late nights"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 4,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Strictly vegetarian",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer bhurji (80 g paneer) & vegetable dosa (1)",
+      "Option 2: Idli (2) & sambar (1 cup) & paneer cubes (50 g)",
+      "Option 3: Vegetable upma (medium bowl) & buttermilk (unsweetened)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (1 bowl) & vegetable curry",
+      "Option 2: 2 chapati & paneer curry (80 g paneer) & salad",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) & sambar & spinach curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & dal (light) & vegetable curry",
+      "Option 2: Paneer stir fry (60 g) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & 1 chapati"
+    ],
+    "Meal_4": [
+      "Option 1: Paneer cubes (60 g) & small fruit (1 serving)",
+      "Option 2: Boiled peanuts (small bowl) & buttermilk (200 ml)",
+      "Option 3: Roasted makhana (small bowl ~20 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid old coconut and use fresh coconut only if needed for cooking.",
+    "Since work hours are late, keep the last meal light to support digestion and sleep.",
+    "Stress and late nights can increase cravings, so keep makhana or paneer ready instead of outside snacks.",
+    "For better physique improvement, make paneer and dal the main part of meals instead of extra rice.",
+    "Simple home style cooking will help maintain consistency even with irregular schedules."
+  ]
+}

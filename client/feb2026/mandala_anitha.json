@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Mandala anitha",
+    "Age": 44,
+    "Gender": "Female",
+    "Height": "149 cm",
+    "Current_Weight_kg": 79,
+    "Target_Weight_kg": 55,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["Gluten"],
+    "Diet_Type": "Eggetarian",
+    "Dislikes": ["Sea food"],
+    "Likes": ["Vegetables", "Chicken", "Eggs", "Dal"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 2,
+    "Goal": "Preventing/reversing health issues",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian (eggs allowed)",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 2 boiled eggs"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2 eggs) & vegetable dosa (1)",
+      "Option 2: Idli (2) & sambar (1 cup) & paneer cubes (60 g)",
+      "Option 3: Puffed rice (2 cups) & egg bhurji (2 eggs)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (1 bowl) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & egg curry (2 eggs) & spinach curry",
+      "Option 3: Paneer curry (100 g paneer) & vegetable curry & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & dal (light) & vegetable curry",
+      "Option 2: Egg bhurji (2 eggs) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & paneer cubes (60 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid gluten foods completely and focus more on rice, eggs, paneer and vegetables.",
+    "Since thyroid is present, keep meal timings consistent and avoid skipping meals.",
+    "Sweet cravings during social gatherings can be managed by eating eggs or dal first.",
+    "Because overeating happens once you start, serve one fixed portion and eat slowly.",
+    "Simple home style cooking will help you stay consistent without stress."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "G Chandra kala",
+    "Age": 36,
+    "Gender": "Female",
+    "Height": "4 '10",
+    "Current_Weight_kg": 68,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["Thyroid", "PCOS"],
+    "Food_Allergies": [],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": ["No"],
+    "Likes": ["All"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "Less than 6 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Late nights"],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 1,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Balanced preference",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer bhurji (80 g paneer) & vegetable dosa (1)",
+      "Option 2: Idli (2) & sambar (1 cup) & paneer cubes (50 g)",
+      "Option 3: Vegetable upma (small bowl) & buttermilk (unsweetened)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (1 bowl) & vegetable curry",
+      "Option 2: 2 chapati & paneer curry (80 g paneer) & salad",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) & sambar & spinach curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~150 g) & dal (light) & vegetable curry",
+      "Option 2: Paneer stir fry (120 g) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & 2 chapati & Paneer Curry "
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since thyroid and PCOS are present, keep meal timings regular even if appetite is low.",
+    "Late nights can increase fried cravings, so keep makhana ready instead of fried snacks.",
+    "Make paneer or dal the main part of meals to support hormone balance and steady energy.",
+    "Keep dinner lighter to improve digestion and sleep quality.",
+    "Simple home style cooking will help maintain consistency long term."
+  ]
+}

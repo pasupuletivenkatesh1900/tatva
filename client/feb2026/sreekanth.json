@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Sreekanth Maharaju",
+    "Age": 41,
+    "Gender": "Male",
+    "Height": "172 cm",
+    "Current_Weight_kg": 87,
+    "Target_Weight_kg": 78,
+    "Medical_Conditions": ["Disk bulge"],
+    "Food_Allergies": ["Reused oil foods"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["No"],
+    "Likes": ["Chicken"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "10-12 hours",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "5k–10k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet, Savory, Fried, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["No idea"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Lemon water (200 ml)",
+      "Option 3: Boiled chicken pieces (small bowl)"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2 eggs) & vegetable dosa (1)",
+      "Option 2: Idli (2) & sambar (1 cup) & paneer cubes (60 g)",
+      "Option 3: Vegetable upma (medium bowl) & grilled chicken (small portion)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (palm size) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & dal (1 bowl) & spinach curry",
+      "Option 3: 2 chapati & grilled chicken (moderate portion) & salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Boiled peanuts (small bowl)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & chicken curry (light) & vegetable curry",
+      "Option 2: Paneer stir fry (60 g) & cucumber salad",
+      "Option 3: Clear vegetable soup (1 large bowl) & grilled chicken (small portion)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid reused oil foods completely as mentioned and prefer fresh pan cooked meals.",
+    "Since disk bulge is present, keep meals lighter at night to reduce discomfort and support recovery.",
+    "For physique improvement, keep protein portions strong and rice moderate.",
+    "Cravings can be managed by choosing makhana or chicken instead of fried outside food.",
+    "Simple home style cooking will help you stay consistent even with long work hours."
+  ]
+}
