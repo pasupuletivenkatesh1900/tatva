@@ -1,0 +1,65 @@
+{
+  "Overview": {
+    "Name": "Anugu Susmitha",
+    "Age": 32,
+    "Gender": "Female",
+    "Height": "Not Provided",
+    "Current_Weight_kg": 62.5,
+    "Target_Weight_kg": 55,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Emotionally low mood"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: 2 egg omelette (pan fried in ghee)",
+      "Option 2: Paneer bhurji (80 g)",
+      "Option 3: RICE RAWA upma (small) + 1 boiled egg"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + chicken curry (small portion)",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + egg curry (2 eggs)",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + paneer curry (80 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) + egg curry (2 eggs)",
+      "Option 2: Paneer cubes (60–80 g) + vegetable curry",
+      "Option 3: Chicken curry (small portion) + 1/2 cup cooked rice (~75 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Start every meal with egg, chicken or paneer before eating rice.",
+    "Keep rice portions controlled to support visible fat loss.",
+    "For sweet cravings, eat full protein portion first and wait 10 minutes before taking anything extra.",
+    "For spicy cravings, choose pan cooked food instead of fried outside food.",
+    "On emotionally low days, do not skip meals. Structured eating improves mood stability.",
+    "With consistency, expect gradual waist reduction and improved body tone in 8–10 weeks."
+  ]
+}

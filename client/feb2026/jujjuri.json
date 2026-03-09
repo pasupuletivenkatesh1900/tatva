@@ -1,0 +1,60 @@
+{
+  "Overview": {
+    "Name": "Venkatesh Jujjuri",
+    "Age": 33,
+    "Gender": "Male",
+    "Height": "177 cm",
+    "Current_Weight_kg": 63,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Strictly Vegetarian",
+    "Dislikes": ["Non-veg", "Eggs"],
+    "Likes": ["Vegetarian food", "Fruits", "Millets", "Fresh vegetable salads"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Mixed",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Eats in limit",
+    "Meal_Preference": "Variety",
+    "Triggers": [],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 1,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Strictly vegetarian",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer cubes (100 g) + vegetable curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) + paneer curry (100 g) + vegetable curry",
+      "Option 3: RICE RAWA upma (moderate portion) + paneer cubes (80 g)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (3/4 cup cooked ~180 g) + paneer curry (150 g) + vegetable curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) + paneer curry (100 g) + 2 Roti + Bowl of Curd  ",
+      "Option 3: RICE RAWA upma (moderate portion) + paneer cubes (80 g) + Bowl of Curd "
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura) chaat (2 cups)",
+      "Option 2: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "With 1 meals per day, ensure each meal has strong protein like paneer or curd.",
+    "Do not eat only fruits or salads. Always include paneer or curd.",
+    "Keep rice moderate and make protein the main portion.",
+    "Have a protein shake whenever you can",
+    "Low daily steps mean portion control is important.",
+    "Consistent protein intake will improve energy and maintain lean body composition."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "Overview": {
+    "Name": "A. Saisree",
+    "Age": 40,
+    "Gender": "Female",
+    "Height": "153 cm",
+    "Current_Weight_kg": 82,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Mixed",
+    "Steps": "5k–10k",
+    "Exercise": "None",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet, Fried",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress", "Late nights", "Boredom"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: 3 egg omelette (pan fried in ghee)",
+      "Option 2: Paneer bhurji (80 g)",
+      "Option 3: RICE RAWA upma (small) + 2 boiled eggs"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + chicken curry (small portion) + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + egg curry (2 eggs) + vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + paneer curry (80 g) + vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) + chicken curry (small portion)",
+      "Option 2: Egg omelette (2 eggs) + cucumber salad",
+      "Option 3: Paneer cubes (60–80 g) + vegetable curry (lightest option)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "With thyroid and fat loss goal, keep protein high and rice controlled.",
+    "Start every meal with eggs, chicken or paneer before eating rice.",
+    "Avoid fried snacks and sweets, especially during stress or late nights.",
+    "Fix dinner before 8:30–9 pm to improve fat loss and thyroid balance.",
+    "Maintain consistent meal timings even on irregular work days.",
+    "With consistency, expect gradual inch loss around waist and hips in 10–12 weeks."
+  ]
+}

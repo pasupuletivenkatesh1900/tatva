@@ -1,0 +1,65 @@
+{
+  "Overview": {
+    "Name": "R. Sairam Reddy",
+    "Age": 28,
+    "Gender": "Male",
+    "Height": "165 cm",
+    "Current_Weight_kg": 68,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Not specified",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "Not tracked",
+    "Exercise": "Yoga & Gym",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Savory",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress", "Late nights", "Social situations"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance)",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: 4 egg omelette (pan fried in ghee)",
+      "Option 2: Chicken curry (small bowl) + 1/2 cup cooked rice (~75 g)",
+      "Option 3: RICE RAWA upma (small) + 2 boiled eggs"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + chicken curry + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + egg curry (3 eggs) + vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + paneer curry (80 g) + vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Chicken curry (small portion) + 1/2 cup cooked rice (~75 g)",
+      "Option 2: Egg omelette (2 eggs) + cucumber salad",
+      "Option 3: Paneer cubes (60–80 g) + vegetable curry (lightest option)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since gym is included, keep protein strong in both main meals.",
+    "Start every meal with eggs or chicken before rice.",
+    "Keep rice moderate to support fat loss and muscle definition.",
+    "Avoid late-night snacking which increases belly fat.",
+    "For savory cravings, choose eggs or chicken instead of fried snacks.",
+    "With consistency, expect improved muscle definition and waist reduction in 8–12 weeks."
+  ]
+}
