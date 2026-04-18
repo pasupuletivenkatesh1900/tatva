@@ -1,0 +1,63 @@
+{
+  "Overview": {
+    "Name": "Swathi T",
+    "Age": 32,
+    "Gender": "Female",
+    "Height": "168 cm",
+    "Current_Weight_kg": 48,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["Hypertension"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["All vegetables"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Household routine",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain curd (1 small bowl ~100 g)",
+      "Option 3: 1 boiled egg"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2 eggs)",
+      "Option 2: Paneer cubes (100 g)",
+      "Option 3: Rice rawa upma (1 bowl ~150 g)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & fish curry (120 g) & vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) & paneer curry (100 g) & vegetable curry"
+    ],
+    "Evening_Snack (optional)": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat with peanuts and onion (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) & egg curry (2 eggs) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & chicken curry (100 g)",
+      "Option 3: Paneer cubes (80–100 g) & vegetable salad"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Eat meals at consistent times daily to support a calm routine and stress reduction.",
+    "Start meals with eggs, paneer or chicken before eating rice.",
+    "Keep dinner slightly lighter than lunch.",
+    "Yoga days may slightly increase appetite, adding curd or an egg is acceptable."
+  ]
+}

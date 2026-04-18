@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Siva Subrahmanyam Kokkiligadda",
+    "Age": 43,
+    "Gender": "Male",
+    "Height": "169 cm",
+    "Current_Weight_kg": 72,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["Constipation"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["Seafood"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Stress", "Social gatherings", "Boredom"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (300 ml)",
+      "Option 2: Plain buttermilk (250 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: 2–3 egg omelette + any 1 fruit",
+      "Option 2: Paneer cubes (100 g) pan fried + cooked vegetables",
+      "Option 3: Poha (~150 g) + 1 boiled egg"
+    ],
+    "Meal_2 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & fish curry (150 g) & vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & chicken curry (150 g) & vegetable curry + curd",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & egg curry (3 eggs) & vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura) chaat",
+      "Option 2: Roasted makhana",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_3 (Dinner - digestion friendly)": [
+      "Option 1: Curd (200 g) & cucumber salad",
+      "Option 2: Cooked rice (1 cup ~150 g) & egg omelette (2 eggs) + any 1 fruit",
+      "Option 3: Cooked rice (1 cup ~150 g) & vegetable curry & curd (200 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Increase water intake to at least 2.5–3 liters daily for constipation relief.",
+    "Include curd or buttermilk daily to improve gut health.",
+    "Start meals with protein before rice to improve digestion and portion control.",
+    "Avoid very spicy and fried foods as they worsen constipation.",
+    "Daily walking and yoga will help improve bowel movement and overall health."
+  ]
+}

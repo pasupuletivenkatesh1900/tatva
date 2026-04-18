@@ -1,0 +1,65 @@
+{
+  "Overview": {
+    "Name": "Aishwarya",
+    "Age": 24,
+    "Gender": "Female",
+    "Height": "Not Provided",
+    "Current_Weight_kg": 63,
+    "Target_Weight_kg": 55,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["Chicken"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "5k–10k",
+    "Exercise": "Gym",
+    "Food_Habit": "I usually avoid desserts",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (pre-workout)": [
+      "Option 1: Black coffee",
+      "Option 2: Coconut water (200 ml)",
+      "Option 3: Plain buttermilk (200 ml)"
+    ],
+    "Meal_1": [
+      "Option 1: 2 egg omelette + any 1 fruit",
+      "Option 2: Paneer cubes (100 g) pan fried + sauted vegetables",
+      "Option 3: Poha (~150 g) + 1 boiled egg"
+    ],
+    "Meal_2 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & egg curry (2–3 eggs) & vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer curry (100 g) & vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura) chaat",
+      "Option 2: Roasted makhana",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_3 (Dinner - lighter)": [
+      "Option 1: curd (200 g) & cucumber salad ",
+      "Option 2: Cooked rice (1 cup ~150 g) & chicken (120 g) + any 1 fruit",
+      "Option 3: Cooked rice (1 cup ~150 g) & egg omelette (2 eggs) or Paneer cubes + any 1 fruit"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Use gym days to prioritize protein like eggs and chicken in earlier meals.",
+    "Start meals with protein before rice to support fat loss.",
+    "During social gatherings, eat your main meal first to avoid overeating snacks.",
+    "Keep dinner lighter to support fat loss and recovery.",
+    "Consistency in meals and workouts will improve body shape and energy.",
+    "Get sunlight exposure in the morning which will improve your sleep and improving sleep will significantly improve energy and control cravings."
+  ]
+}

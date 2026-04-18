@@ -1,0 +1,65 @@
+{
+  "Overview": {
+    "Name": "Charan Tej Nadendla",
+    "Age": 7,
+    "Gender": "Male",
+    "Height": "Not Provided",
+    "Current_Weight_kg": 20.5,
+    "Target_Weight_kg": 28,
+    "Medical_Conditions": ["Hyperactive"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["Chicken", "Fish", "Beetroot", "Ladies finger"],
+    "Occupation": "Student",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "Not tracked",
+    "Exercise": "None",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet",
+    "Meal_Preference": "Variety",
+    "Triggers": ["No overeating"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (150 ml)",
+      "Option 2: Small cup milk",
+      "Option 3: 2 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: 2 egg omelette + any 1 fruit (banana, apple, orange or papaya)",
+      "Option 2: Paneer cubes (40–50 g) + any 1 fruit (banana, apple, orange or papaya)",
+      "Option 3: RICE RAWA upma (small bowl ~150 g) + paneer cubes (40 g)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry or Fish curry(small portion) + Curd (small bowl) ",
+      "Option 2: Cooked rice (1 cup cooked ~150 g)  & vegetable curry & Panner Cube (80g) ",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) & egg curry (1–2 eggs) & vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (small bowl ~20 g)",
+      "Option 2: Puffed rice (murmura) chaat (small bowl)",
+      "Option 3: Small cup milk"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) & egg omelette (1 egg) + any 1 fruit",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & paneer cubes (40–50 g) + any 1 fruit",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g)  & chicken curry (small portion)  & Curd (small bowl)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid giving too many sweets as it can increase hyperactivity.",
+    "Include eggs, chicken or paneer daily for proper growth and energy.",
+    "Include ladies Finger and Beetroot in Vegetable curries.", 
+    "Keep meals simple and consistent to improve focus and behaviour.",
+    "Ensure proper hydration and regular meal timing.",
+    "Light dinner helps better sleep and balanced energy the next day."
+  ]
+}

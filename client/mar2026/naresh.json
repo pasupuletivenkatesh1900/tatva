@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Bheemani Naresh Mudhiraj",
+    "Age": 38,
+    "Gender": "Male",
+    "Height": "5 ft 6 in",
+    "Current_Weight_kg": 105,
+    "Target_Weight_kg": 80,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Oily foods"],
+    "Likes": ["Non-veg", "Vegetables"],
+    "Occupation": "Business",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "More than 8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "5k–10k",
+    "Exercise": "Gym",
+    "Food_Habit": "I usually avoid desserts",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Doesn't matter",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 4,
+    "Goal": "Looking better (appearance)",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: 2 boiled eggs",
+      "Option 3: Plain curd (1 small bowl ~120 g)"
+    ],
+    "Meal_1": [
+      "Option 1: Whole egg omelette (4 eggs) + any 1 fruit (apple, banana, orange, papaya or berries)",
+      "Option 2: Paneer cubes (200 g) + any 1 fruit (apple, banana, orange, papaya or berries)",
+      "Option 3: Rice rawa upma (1 bowl ~150 g) + paneer cubes (100 g) + any 1 fruit (apple, banana, orange, papaya or berries)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken breast curry or fry (150 g) & rasam",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & paneer curry or fry (150 g) & rasam",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) & mutton curry or fry (150 g) & rasam"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~30 g)",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: 2 boiled eggs"
+    ],
+    "Meal_3": [
+      "Option 1: Curd rice (200 g) & chicken fry (200 g) + any 1 fruit (apple, banana, orange, papaya or berries)",
+      "Option 2: Curd rice (200 g) & paneer fry (150 g) + any 1 fruit (apple, banana, orange, papaya or berries)",
+      "Option 3: Curd rice (200 g) & mutton fry (200 g) + any 1 fruit (apple, banana, orange, papaya or berries)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Use only ghee, butter, or coconut oil in small quantities for cooking. Avoid sunflower oil or any seed oils.",
+    "Aim for 10,000 steps per day.",
+    "If the diet is not followed on one day, skip Meal 2 the next day.",
+    "During social gatherings eat protein foods first before rice or snacks.",
+    "Avoid dal and dal-based foods such as idly, dosa, and vada."
+  ]
+}

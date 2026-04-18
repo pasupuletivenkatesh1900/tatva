@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Nuvvula Laxmi",
+    "Age": 36,
+    "Gender": "Female",
+    "Height": "150 cm",
+    "Current_Weight_kg": 83,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["Fatty liver (Stage 1)"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Tailoring work (depends on orders)",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Walking",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & vegetable curry & curd (200 g)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & chicken curry (100–120 g) & vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & egg curry (2 eggs) & vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & curd (200 g) & cucumber salad + any 1 fruit",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & vegetable curry & paneer cubes (60 g) + any 1 fruit",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & egg omelette (2 eggs) + any 1 fruit"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep meals light and avoid oily or deep fried foods to support liver recovery.",
+    "Prefer curd, vegetables and simple home-cooked meals daily.",
+    "Limit chicken to few times a week, avoid heavy meat curries.",
+    "Walking daily will significantly improve fatty liver condition.",
+    "During social gatherings, eat home food first to avoid overeating outside food."
+  ]
+}

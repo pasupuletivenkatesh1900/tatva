@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Swetha Murala",
+    "Age": 34,
+    "Gender": "Female",
+    "Height": "5.5 ft",
+    "Current_Weight_kg": 83,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["PCOS"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["None"],
+    "Likes": ["No specific preferences"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "None",
+    "Food_Habit": "I usually avoid desserts",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Boredom"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 4,
+    "Goal": "Preventing/reversing health issues",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: 2 egg omelette (pan fried in ghee)",
+      "Option 2: Paneer cubes (80 g) & cucumber slices",
+      "Option 3: RICE RAWA upma (small) & paneer cubes (60 g)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (small portion) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & egg curry (2 eggs) & vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) & paneer curry (80 g) & vegetable curry"
+    ],
+    "Meal_3": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_4": [
+      "Option 1: Egg omelette (2 eggs) & cucumber salad",
+      "Option 2: Paneer cubes (60–80 g) & vegetable curry",
+      "Option 3: Clear vegetable soup (1 large bowl) & paneer cubes (60 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For PCOS, keep rice portions controlled and prioritize eggs, chicken or paneer in meals.",
+    "Fried cravings often appear due to boredom. Eat protein first before deciding on snacks.",
+    "Keep the last meal lighter than lunch to support hormone balance and fat loss.",
+    "Consistent meal timing improves insulin sensitivity and helps manage PCOS symptoms.",
+    "Expect gradual fat loss around waist and lower belly with consistent meals and movement."
+  ]
+}

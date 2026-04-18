@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Peddireddy Indira Priyadarshini",
+    "Age": 36,
+    "Gender": "Female",
+    "Height": "5 ft 6 in",
+    "Current_Weight_kg": 65,
+    "Target_Weight_kg": 58,
+    "Medical_Conditions": ["Migraine", "Back pain"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["All types of food"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 4,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Black coffee"
+    ],
+    "Meal_1": [
+      "Option 1: 2 egg omelette + any 1 fruit",
+      "Option 2: Paneer cubes (100 g) pan fried + cooked vegetables",
+      "Option 3: Poha (~150 g) + 1 boiled egg"
+    ],
+    "Meal_2 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & fish curry (120 g) & vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer curry (100 g) & vegetable curry"
+    ],
+    "Meal_3 (Small Meal)": [
+      "Option 1: Roasted makhana",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_4 (Dinner - light)": [
+      "Option 1: Curd (200 g) & cucumber salad + any 1 fruit",
+      "Option 2: Cooked rice (1 cup ~150 g) & egg omelette (2 eggs)",
+      "Option 3: Cooked rice (1 cup ~150 g) & vegetable curry & curd"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Do not skip meals as it can trigger migraines.",
+    "Keep meals at consistent times daily.",
+    "Avoid fried and very spicy foods as they may trigger headaches.",
+    "Start meals with protein before eating rice to control portions.",
+    "Maintain good posture and light activity to support back pain recovery."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "Overview": {
+    "Name": "Aaina Suresh Namdev",
+    "Age": 22,
+    "Gender": "Female",
+    "Height": "157 cm",
+    "Current_Weight_kg": 46,
+    "Target_Weight_kg": 45,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": ["Green vegetables"],
+    "Likes": ["Paneer"],
+    "Occupation": "Homemaker, Student",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Mixed",
+    "Steps": "<5k",
+    "Exercise": "None",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Boredom"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance)",
+    "Preference_Notes": "Vegetarian, simple foods preferred",
+    "Preferred_Meal_To_Focus": "Dinner"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Black coffee"
+    ],
+    "Meal_1 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & paneer curry (100 g) & potato or carrot curry + curd",
+      "Option 2: Curd rice (150 g rice + curd) & paneer cubes (80 g)",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & vegetable curry & paneer bhurji (100 g)"
+    ],
+    "Evening_Snack (Light)": [
+      "Option 1: Puffed rice (murmura) chaat",
+      "Option 2: Roasted makhana",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_2 (Dinner - lighter)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & curd (200 g) & cucumber salad + any 1 fruit",
+      "Option 2: RICE RAWA upma (~150 g) + paneer cubes (80 g)",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer cubes (80 g) + any 1 fruit"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid green vegetables as per your preference but include other vegetables like carrot and potato.",
+    "Start meals with paneer or curd before eating rice to control portions.",
+    "For boredom eating, drink buttermilk or water and wait 10 minutes before eating more.",
+    "Keep dinner lighter to support fat loss and better digestion.",
+    "Simple and consistent meals will improve body shape and energy levels.",
+    "Get sunlight exposure in the morning which will improve your sleep and improving sleep will significantly improve energy and control cravings."
+  ]
+}

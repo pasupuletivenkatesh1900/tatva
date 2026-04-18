@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Sandhya Balusu",
+    "Age": 37,
+    "Gender": "Female",
+    "Height": "160 cm",
+    "Current_Weight_kg": 73,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["Diabetes", "Thyroid", "PCOS", "Hypertension"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["Non-veg"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Household routine",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Mixed",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Based on mood",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 2,
+    "Goal": "Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain curd (1 small bowl ~100 g)",
+      "Option 3: 1 boiled egg"
+    ],
+    "Meal_1": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) & fish curry (120 g) & vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & egg curry (2 eggs) & vegetable curry",
+      "Option 3: Paneer cubes (120 g) & vegetable salad"
+    ],
+    "Evening_Snack (optional)": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1/2 cup cooked ~90 g) & chicken curry (120 g) & vegetable curry",
+      "Option 2: Cooked rice (1/2 cup cooked ~90 g) & paneer curry (100 g) & vegetable curry",
+      "Option 3: Egg omelette (2 eggs) & vegetable salad"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Start meals with eggs, paneer, chicken or fish before eating rice to naturally reduce rice portions.",
+    "Keep rice portions moderate to support blood sugar balance.",
+    "Maintain consistent meal timing to support thyroid and hormonal balance.",
+    "If cravings appear due to stress or mood changes, drink buttermilk or eat a boiled egg before taking more food.",
+    "Avoid dal and dal-based foods such as idly, dosa and vada."
+  ]
+}

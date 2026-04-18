@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Thakkelapalli Swapna",
+    "Age": 32,
+    "Gender": "Female",
+    "Height": "Not Provided",
+    "Current_Weight_kg": 57,
+    "Target_Weight_kg": "Not Provided",
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": ["Cabbage", "Cauliflower", "Broccoli"],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "Not tracked",
+    "Exercise": "None",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet, Fried, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": [],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Improve overall health",
+    "Preference_Notes": "Strictly vegetarian",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Jeera water (200 ml)"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer cubes (100 g) pan fried + any 1 fruit",
+      "Option 2: Thick curd bowl + 1 fruit",
+      "Option 3: RICE RAWA upma (~150 g) + curd"
+    ],
+    "Meal_2 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & paneer curry (100 g) & vegetable curry (no cabbage, cauliflower, broccoli) + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & vegetable curry & curd + paneer cubes (60 g)",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & curd (200 g) & carrot or beans curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_3 (Dinner - lighter)": [
+      "Option 1: Curd (200 g) & cucumber salad",
+      "Option 2: Cooked rice (1 cup ~150 g) & paneer cubes (80 g) + any 1 fruit",
+      "Option 3: Cooked rice (1 cup ~150 g) & vegetable curry & buttermilk"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid cabbage, cauliflower and broccoli completely.",
+    "Start meals with paneer or curd before eating rice to control portions.",
+    "For cravings, eat your regular meal first and wait 10 minutes before taking anything extra.",
+    "Avoid fried foods and outside snacks as much as possible.",
+    "Consistency in meals will help improve thyroid health and overall energy."
+  ]
+}

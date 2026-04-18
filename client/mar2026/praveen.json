@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Praveen Reddy",
+    "Age": 38,
+    "Gender": "Male",
+    "Height": "172 cm",
+    "Current_Weight_kg": 69,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["Hypertension"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "Not tracked",
+    "Exercise": "Badminton",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: 2 boiled eggs",
+      "Option 3: Plain curd (small bowl ~120 g)"
+    ],
+    "Meal_1": [
+      "Option 1: 2 egg omelette + any 1 fruit (apple, banana, orange or papaya)",
+      "Option 2: Paneer cubes (80–100 g) + any 1 fruit",
+      "Option 3: RICE RAWA upma (1 bowl ~150 g) + paneer cubes (60 g)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120–150 g) & vegetable curry + curd (small bowl)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & fish curry (120–150 g) & vegetable curry + curd (small bowl)",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer curry (80 g) & vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~30 g)",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & egg omelette (2 eggs) + any 1 fruit",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & paneer cubes (80 g) & vegetable curry + any 1 fruit",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & curd (200 g) & cucumber salad + any 1 fruit"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep salt intake controlled to manage blood pressure.",
+    "Avoid very spicy and packaged foods.",
+    "Start meals with protein (eggs, chicken, paneer) before rice.",
+    "During social gatherings, eat protein first to avoid overeating.",
+    "Regular badminton will support fat loss and heart health."
+  ]
+}
