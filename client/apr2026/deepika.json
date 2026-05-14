@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Alukanti Deepika",
+    "Age": 39,
+    "Gender": "Female",
+    "Height": "5 ft 4 in",
+    "Current_Weight_kg": 78,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["Eggs"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "Walking",
+    "Food_Habit": "I usually avoid desserts",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Results first – include non-veg as needed, avoids non-veg on Monday and Saturday",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Black coffee",
+      "Option 3: Plain buttermilk (200 ml)"
+    ],
+    "Meal_1 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & egg curry (2–3 eggs) & vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & vegetable curry"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Puffed rice (murmura)",
+      "Option 2: Roasted makhana",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_2 (Dinner - light)": [
+      "Option 1: Egg omelette (2–3 eggs) + cucumber salad",
+      "Option 2: Curd (200 g) & cucumber salad",
+      "Option 3: Cooked rice (1 cup ~150 g) & paneer cubes (120 g) + vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid non-veg on Monday and Saturday and follow vegetarian options.",
+    "Start meals with eggs or paneer before eating rice.",
+    "Maintain consistent meal timing to support thyroid health.",
+    "Keep dinner light to improve fat loss and energy.",
+    "During social gatherings, eat your regular meal first to avoid overeating."
+  ]
+}

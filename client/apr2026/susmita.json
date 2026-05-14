@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Susmita Dora",
+    "Age": 29,
+    "Gender": "Female",
+    "Height": "152 cm",
+    "Current_Weight_kg": 56,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Soya bean", "Tofu"],
+    "Likes": ["Chicken", "Fish"],
+    "Occupation": "Desk Job, Field Work",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I usually avoid desserts",
+    "Food_Craving": "Sweet",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Stress", "Social gatherings", "Late nights"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Black coffee",
+      "Option 3: Plain buttermilk (200 ml)"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2–3 eggs) + cucumber slices",
+      "Option 2: Chicken pan fried (120 g) + small fruit",
+      "Option 3: RICE RAWA upma (~150 g) + curd"
+    ],
+    "Meal_2 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & fish curry (120 g) & vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & vegetable curry"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Puffed rice (murmura)",
+      "Option 2: Roasted makhana",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_3 (Dinner - light)": [
+      "Option 1: Egg omelette (2–3 eggs) + cucumber salad",
+      "Option 2: Curd (200 g) & cucumber salad",
+      "Option 3: Chicken pan fried (120 g) + cooked vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid soya bean and tofu completely as requested.",
+    "Start meals with chicken, eggs or paneer before eating rice.",
+    "For stress or late-night cravings, drink water or eat curd first and wait 10 minutes.",
+    "During social gatherings, eat your regular meal before outside food.",
+    "Keep dinner lighter to improve digestion, recovery and body composition."
+  ]
+}

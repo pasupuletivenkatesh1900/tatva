@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "G. Pooja",
+    "Age": 22,
+    "Gender": "Female",
+    "Height": "5 ft",
+    "Current_Weight_kg": 70,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Strictly vegetarian",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Jeera water (200 ml)"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer cubes (120 g) pan fried + cucumber slices",
+      "Option 2: Thick curd bowl + small fruit",
+      "Option 3: RICE RAWA upma (~150 g) + curd"
+    ],
+    "Meal_2 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & vegetable curry & curd (200 g) + paneer cubes (60 g)",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & curd (200 g) & vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana",
+      "Option 2: Puffed rice (murmura)",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_3 (Dinner - controlled)": [
+      "Option 1: Curd (200 g) & cucumber salad",
+      "Option 2: Cooked rice (1 cup ~150 g) & paneer cubes (120 g) + vegetable curry",
+      "Option 3: Vegetable soup + paneer cubes (80 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For fried cravings, eat your regular meal first and wait 10 minutes before eating anything extra.",
+    "Start meals with paneer or curd to control overeating.",
+    "Avoid outside fried foods completely as they trigger loss of control.",
+    "Keep meals simple and follow a routine daily.",
+    "Managing stress will directly help reduce overeating and improve results."
+  ]
+}

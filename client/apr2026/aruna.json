@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "A Aruna",
+    "Age": 48,
+    "Gender": "Female",
+    "Height": "142 cm",
+    "Current_Weight_kg": 58,
+    "Target_Weight_kg": 54,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["Dairy", "Gluten", "Soy", "Seafood", "Sour foods", "Lemon"],
+    "Diet_Type": "Eggetarian",
+    "Dislikes": ["Rajma", "Paneer", "Cheese", "Milk products", "Ghee"],
+    "Likes": ["Leafy vegetables", "Salads", "Egg", "Dal", "Vegetables"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "Irregular",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Light food, boiled or less oil cooked with low spice",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Stress", "Irregular eating pattern"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Mental wellbeing & stress reduction, stay fit with healthy aging",
+    "Preference_Notes": "Strictly vegetarian with eggs, lunch-focused meals",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm jeera water (250 ml)",
+      "Option 2: Plain warm water",
+      "Option 3: Herbal tea without milk"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2 eggs) + lightly cooked vegetables",
+      "Option 2: Moong dal chilla (2 small) + vegetable filling",
+      "Option 3: RICE RAWA upma (~150 g) + cooked vegetables"
+    ],
+    "Meal_2 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & egg curry (2 eggs) & vegetable curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & dal & leafy vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & mixed vegetable curry & cucumber salad"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Puffed rice (murmura)",
+      "Option 2: Roasted makhana",
+      "Option 3: Small fruit bowl"
+    ],
+    "Meal_3 (Dinner - light)": [
+      "Option 1: Vegetable soup + egg bhurji (2 eggs)",
+      "Option 2: Cooked vegetables + cucumber salad",
+      "Option 3: Cooked rice (~150 g) & dal + lightly cooked vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid all dairy products, gluten foods, soy products and sour foods as requested.",
+    "Keep meals simple, warm and lightly cooked to support digestion and reduce stress on the body.",
+    "Do not skip meals even on busy days as irregular eating can worsen energy and cravings.",
+    "Use minimal oil and low spice cooking for better comfort and consistency.",
+    "Regular yoga, hydration and meal timing will help improve long-term energy and healthy aging."
+  ]
+}

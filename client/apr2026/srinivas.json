@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Srinivas Gandla",
+    "Age": 42,
+    "Gender": "Male",
+    "Height": "5 ft 6 in",
+    "Current_Weight_kg": 69,
+    "Target_Weight_kg": 72,
+    "Medical_Conditions": ["Diabetes", "Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["Fish"],
+    "Occupation": "Business",
+    "Work_Hours": "11 AM – 10 PM",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "None",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Late nights"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Preventing/reversing health issues",
+    "Preference_Notes": "Results first – include non-veg as needed, avoids non-veg on Monday, Saturday, Sunday",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Black coffee"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2–3 eggs ) + small bowl curd",
+      "Option 2: Paneer cubes (120 g) pan fried + cucumber slices",
+      "Option 3: RICE RAWA upma (~150 g) + curd"
+    ],
+    "Meal_2 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & fish curry (120 g) & vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura)",
+      "Option 2: Roasted makhana",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_3 (Dinner - controlled)": [
+      "Option 1: Curd (200 g) & cucumber salad",
+      "Option 2: Cooked rice (1 cup ~150 g) & egg omelette (2–3 eggs)",
+      "Option 3: Cooked rice (1 cup ~150 g) & paneer cubes (120 g) + vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Start meals with protein before eating rice to improve sugar control.",
+    "Avoid sweets and late-night eating as it worsens diabetes and thyroid balance.",
+    "Follow vegetarian options on Monday, Saturday and Sunday.",
+    "Maintain fixed meal timing daily for better metabolic control.",
+    "For cravings, drink buttermilk and wait 10 minutes before eating anything extra."
+  ]
+}

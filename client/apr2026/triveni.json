@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Triveni",
+    "Age": 29,
+    "Gender": "Female",
+    "Height": "5 ft",
+    "Current_Weight_kg": 70,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Field Work",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 2,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Mostly vegetarian, avoids non-veg on Monday and Thursday",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Jeera water (200 ml)",
+      "Option 3: Plain buttermilk (200 ml)"
+    ],
+    "Meal_1 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & vegetable curry",
+      "Option 2: RICE RAWA upma (~150 g) + curd",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & egg curry (2 eggs) & vegetable fry"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Puffed rice (murmura)",
+      "Option 2: Roasted makhana",
+      "Option 3: Small bowl curd"
+    ],
+    "Meal_2 (Dinner - light)": [
+      "Option 1: Curd (200 g) & cucumber salad",
+      "Option 2: Paneer pan fried (120 g) + cooked vegetables",
+      "Option 3: Vegetable soup + egg bhurji (2 eggs)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid fried outside foods during stress eating moments.",
+    "Follow vegetarian meals on Monday and Thursday.",
+    "Start meals with paneer, curd or eggs before eating rice.",
+    "Field work needs stable energy, so avoid skipping meals.",
+    "Simple meals followed consistently will improve energy and body composition."
+  ]
+}

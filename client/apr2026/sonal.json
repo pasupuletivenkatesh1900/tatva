@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Sonal Singhal",
+    "Age": 32,
+    "Gender": "Female",
+    "Height": "170 cm",
+    "Current_Weight_kg": 74,
+    "Target_Weight_kg": 63,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "More than 8 hrs",
+    "Who_Cooks": "Cook",
+    "Steps": "<5k",
+    "Exercise": "Gym",
+    "Food_Habit": "Not specified",
+    "Food_Craving": "Sweet",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": [],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 4,
+    "Goal": "Feeling energetic & confident, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Include non-veg mainly at dinner, avoid non-veg on Tuesday and Thursday",
+    "Preferred_Meal_To_Focus": "Dinner"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (pre-workout)": [
+      "Option 1: Black coffee",
+      "Option 2: Coconut water (200 ml)",
+      "Option 3: Plain buttermilk (200 ml)"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer cubes (100 g) pan fried + any 1 fruit",
+      "Option 2: 2 egg omelette + any 1 fruit",
+      "Option 3: Poha (~150 g) + curd"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & paneer curry (100 g) & vegetable curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & vegetable curry & curd (200 g)",
+      "Option 3: Plain oats (1 cup cooked) + curd"
+    ],
+    "Meal_3 (Small Meal)": [
+      "Option 1: Roasted makhana",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: Fruit bowl"
+    ],
+    "Meal_4 (Dinner - main focus)": [
+      "Option 1: Cooked rice (1 cup ~150 g) & chicken curry (120 g)",
+      "Option 2: Cooked rice (1 cup ~150 g) & egg omelette (2–3 eggs)",
+      "Option 3: Cooked rice (1 cup ~150 g) & paneer cubes (100 g) + vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid non-veg on Tuesday and Thursday and follow vegetarian options on those days.",
+    "Start meals with paneer, eggs or chicken before eating rice.",
+    "For sweet cravings, eat fruit first and wait before taking anything extra.",
+    "Support gym training by not skipping meals and keeping protein intake consistent.",
+    "Maintain consistent routine to support thyroid balance and energy levels."
+  ]
+}
