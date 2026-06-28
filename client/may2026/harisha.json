@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Chaganti Harisha",
+    "Age": 35,
+    "Gender": "Female",
+    "Height": "5 ft 4 in",
+    "Current_Weight_kg": 70,
+    "Target_Weight_kg": 55,
+    "Medical_Conditions": ["PCOS"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Prawns"],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "5k–10k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": [],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 2,
+    "Goal": "Preventing/reversing health issues",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal, avoids non-veg on Monday and Saturday",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm jeera water (250 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Black coffee"
+    ],
+    "Meal_1 (Main Lunch Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & egg curry (2–3 eggs) & sautéed vegetables",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & cooked vegetables"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Roasted makhana",
+      "Option 2: Small bowl curd",
+      "Option 3: Puffed rice (murmura)"
+    ],
+    "Meal_2 (Dinner - lighter)": [
+      "Option 1: Chicken soup + cooked vegetables",
+      "Option 2: Paneer pan fried (120 g) + cucumber salad",
+      "Option 3: Curd rice (~150 g) + vegetable fry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid prawns completely as requested.",
+    "Follow vegetarian meals on Monday and Saturday.",
+    "Fixed meal timing will help improve PCOS symptoms and cravings.",
+    "Start meals with eggs, chicken or paneer before eating rice.",
+    "Morning sunlight exposure and consistent yoga will support hormone balance and fat loss."
+  ]
+}

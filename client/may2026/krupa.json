@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "IMMADI Krupa",
+    "Age": 26,
+    "Gender": "Female",
+    "Height": "5 ft 4 in",
+    "Current_Weight_kg": 69,
+    "Target_Weight_kg": 55,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Shifts",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance)",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Dinner"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm jeera water (250 ml)",
+      "Option 2: Black coffee",
+      "Option 3: Plain buttermilk (200 ml)"
+    ],
+    "Meal_1 (Light Meal)": [
+      "Option 1: Paneer pan fried (120 g) + cucumber slices",
+      "Option 2: Egg omelette (2–3 eggs) + cooked vegetables",
+      "Option 3: RICE RAWA upma (~150 g) + curd"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Roasted makhana",
+      "Option 2: Puffed rice (murmura)",
+      "Option 3: Small bowl curd"
+    ],
+    "Meal_2 (Main Dinner Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & egg curry (2–3 eggs) & cooked vegetables",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & vegetable fry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep dinner structured and consistent as it is your main meal.",
+    "Start meals with eggs, chicken or paneer before eating rice.",
+    "Avoid skipping meals during stressful work shifts.",
+    "Get regular morning sunlight exposure to support thyroid balance, sleep and energy.",
+    "Simple meals with consistent timing will improve body composition and reduce cravings."
+  ]
+}

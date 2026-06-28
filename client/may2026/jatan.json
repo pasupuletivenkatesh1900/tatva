@@ -1,0 +1,60 @@
+{
+  "Overview": {
+    "Name": "Ms. Jatan Nagda",
+    "Age": 50,
+    "Gender": "Female",
+    "Height": "5 ft 3 in",
+    "Current_Weight_kg": 92,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Diabetes"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": [],
+    "Likes": ["South Indian foods"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "09:30 AM to 06:30 PM",
+    "Sleep_hrs": "Less than 6 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Savory, Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress", "Boredom"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Managing diabetes, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Strictly vegetarian",
+    "Preferred_Meal_To_Focus": "Single Main Meal"
+  },
+  "Daily_Meal_Plan": {
+ "Early_Morning": [
+      "Option 1: Warm methi water (250 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Black coffee without sugar"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer bhurji (120 g) + vegetable curry",
+      "Option 2: Vegetable upma (~200 g) + curd",
+      "Option 3: RICE RAWA upma (~150 g) + paneer cubes (80 g)"
+    ],
+    "Optional_Snack": [
+      "Option 1: Roasted makhana",
+      "Option 2: Buttermilk (250 ml)",
+      "Option 3: Cucumber slices"
+    ],
+     "Meal_2 (Main Meal)": [
+      "Option 1: Cooked rice (150 g) & paneer curry (120 g) & vegetable curry + curd",
+      "Option 2: Chapati (2) & paneer bhurji (120 g) & vegetable curry",
+      "Option 3: Cooked rice (150 g) & mixed vegetable curry + paneer cubes (120 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid sweets, sugar-sweetened beverages and fruit juices.",
+    "Do not stay hungry for long periods as it can worsen cravings and blood sugar control.",
+    "Get 20–30 minutes of morning sunlight exposure daily.",
+    "Aim for a short walk after the main meal to improve blood sugar management.",
+    "Improving sleep duration will significantly help diabetes management and fat loss.",
+    "Manage stress eating with hydration, walking and yoga before reaching for snacks."
+  ]
+}

@@ -10,9 +10,9 @@
     "Food_Allergies": ["None"],
     "Diet_Type": "Non-Vegetarian",
     "Dislikes": [],
-    "Likes": ["Non-veg"],
+    "Likes": ["Non-Vegetarian foods"],
     "Occupation": "Homemaker",
-    "Work_Hours": "Household routine",
+    "Work_Hours": "NA",
     "Sleep_hrs": "6–8 hrs",
     "Who_Cooks": "Mixed",
     "Steps": "<5k",
@@ -23,37 +23,39 @@
     "Triggers": ["Stress"],
     "Willing_To_Cook": "No",
     "Meals_per_Day": 2,
-    "Goal": "Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Goal": "Managing diabetes, thyroid, PCOS and hypertension, Preventing/reversing health issues, Mental wellbeing & stress reduction, Improving energy levels and body composition",
     "Preference_Notes": "Balanced – include non-veg but not in every meal",
     "Preferred_Meal_To_Focus": "Either is fine"
   },
   "Daily_Meal_Plan": {
-    "Early_Morning (optional)": [
-      "Option 1: Warm water (200 ml)",
-      "Option 2: Plain curd (1 small bowl ~100 g)",
-      "Option 3: 1 boiled egg"
+    "Early_Morning": [
+      "Option 1: Warm methi water (250 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Warm water"
     ],
-    "Meal_1": [
-      "Option 1: Cooked rice (3/4 cup cooked ~110 g) & fish curry (120 g) & vegetable curry",
-      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & egg curry (2 eggs) & vegetable curry",
-      "Option 3: Paneer cubes (120 g) & vegetable salad"
+    "Meal_1 (Main Meal)": [
+      "Option 1: Cooked rice (150 g) & chicken curry (120 g) & vegetable curry",
+      "Option 2: Cooked rice (150 g) & fish curry (120 g) & vegetable curry",
+      "Option 3: Cooked rice (150 g) & paneer curry (120 g) & vegetable curry"
     ],
-    "Evening_Snack (optional)": [
-      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
-      "Option 2: Puffed rice (murmura) chaat",
-      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    "Evening_Snack": [
+      "Option 1: Roasted makhana",
+      "Option 2: Puffed rice (murmura)",
+      "Option 3: Coconut water"
     ],
     "Meal_2": [
-      "Option 1: Cooked rice (1/2 cup cooked ~90 g) & chicken curry (120 g) & vegetable curry",
-      "Option 2: Cooked rice (1/2 cup cooked ~90 g) & paneer curry (100 g) & vegetable curry",
-      "Option 3: Egg omelette (2 eggs) & vegetable salad"
+      "Option 1: Curd (200 g) + cucumber salad + paneer cubes (120 g)",
+      "Option 2: Egg omelette (2–3 eggs) + cooked vegetables",
+      "Option 3: Cooked rice (150 g) & fish curry (120 g) & vegetable curry"
     ]
   },
   "Notes_and_Tips": [
-    "Start meals with eggs, paneer, chicken or fish before eating rice to naturally reduce rice portions.",
-    "Keep rice portions moderate to support blood sugar balance.",
-    "Maintain consistent meal timing to support thyroid and hormonal balance.",
-    "If cravings appear due to stress or mood changes, drink buttermilk or eat a boiled egg before taking more food.",
-    "Avoid dal and dal-based foods such as idly, dosa and vada."
+    "Maintain fixed meal timings daily to support diabetes, thyroid and PCOS management.",
+    "Reduce sweets, bakery foods, sugary drinks and processed snacks.",
+    "Limit excess salt, pickles and packaged foods to support blood pressure control.",
+    "Start meals with protein (chicken, fish, eggs or paneer) before eating rice.",
+    "Get 20–30 minutes of morning sunlight exposure daily.",
+    "Regular yoga and a short walk after meals can improve blood sugar control and overall health.",
+    "Manage stress-related cravings with hydration, walking or relaxation techniques before eating."
   ]
 }

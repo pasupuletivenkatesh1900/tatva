@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Sreshta V",
+    "Age": 36,
+    "Gender": "Female",
+    "Height": "166 cm",
+    "Current_Weight_kg": 53,
+    "Target_Weight_kg": 55,
+    "Medical_Conditions": ["Thyroid", "Migraine"],
+    "Food_Allergies": ["Dal recipes"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Dal", "Palak"],
+    "Likes": ["All vegetables", "Sea food"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "More than 8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "5k–10k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Preventing/reversing health issues",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian, avoids non-veg on Friday and Saturday",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm jeera water (250 ml)",
+      "Option 2: Herbal tea",
+      "Option 3: Plain buttermilk (200 ml)"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2 eggs) + cooked vegetables",
+      "Option 2: Paneer pan fried (120 g) + cucumber slices",
+      "Option 3: Poha (~150 g) + curd"
+    ],
+    "Meal_2 (Main Lunch Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & fish curry (120 g) & vegetable curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & sautéed vegetables",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & egg curry (2 eggs) & curd"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Roasted makhana",
+      "Option 2: Small fruit bowl",
+      "Option 3: Puffed rice (murmura)"
+    ],
+    "Meal_3 (Dinner - light)": [
+      "Option 1: Vegetable soup + paneer cubes (80 g)",
+      "Option 2: Curd (200 g) & cucumber salad",
+      "Option 3: Egg bhurji (2 eggs) + cooked vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid dal-based foods and palak completely as requested.",
+    "Follow vegetarian meals on Friday and Saturday.",
+    "Keep hydration high and avoid long gaps between meals to reduce migraine triggers.",
+    "Morning sunlight exposure can support thyroid balance, mood and sleep quality.",
+    "Simple meals with regular timing and yoga will improve energy and recovery."
+  ]
+}

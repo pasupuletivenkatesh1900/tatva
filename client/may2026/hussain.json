@@ -1,0 +1,66 @@
+{
+  "Overview": {
+    "Name": "Hussain Aruva",
+    "Age": 31,
+    "Gender": "Male",
+    "Height": "167 cm",
+    "Current_Weight_kg": 56,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": [],
+    "Food_Allergies": ["Dairy"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Dairy products"],
+    "Likes": ["Vegetarian and Non-Vegetarian foods"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "12:30 PM to 9:30 PM",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Mixed",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I usually avoid desserts",
+    "Food_Craving": "Mild foods, not much spicy or fried",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction, Healthy weight gain and strength improvement",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal, avoids non-veg on Saturday",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Coconut water",
+      "Option 3: Black coffee"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2–3 eggs)",
+      "Option 2: Chicken pan fried (120 g)",
+      "Option 3: RICE RAWA upma (~150 g)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (150 g) & chicken curry (120 g)",
+      "Option 2: Cooked rice (150 g) & fish curry (120 g)",
+      "Option 3: Cooked rice (150 g) & egg curry (2–3 eggs)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura)",
+      "Option 2: Roasted makhana",
+      "Option 3: Any 1 fruit"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (150 g) & chicken soup",
+      "Option 2: Cooked rice (150 g) & egg bhurji (2–3 eggs)",
+      "Option 3: Cooked rice (150 g) & vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid all dairy products including milk, curd, paneer, butter and cheese.",
+    "Follow vegetarian options on Saturday.",
+    "Since the goal is healthy weight gain, avoid skipping meals.",
+    "Choose simple home-cooked meals instead of fried outside foods.",
+    "Get 20–30 minutes of morning sunlight exposure daily.",
+    "Maintain consistent meal timing despite afternoon work shifts.",
+    "Regular yoga and proper sleep will support healthy weight gain and recovery."
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Sirikonda Pallavi",
+    "Age": 40,
+    "Gender": "Female",
+    "Height": "5 ft 3 in",
+    "Current_Weight_kg": 54,
+    "Target_Weight_kg": "Not Provided",
+    "Medical_Conditions": [],
+    "Food_Allergies": [],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "More than 8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 2,
+    "Goal": "Feeling energetic & confident, Maintaining a healthy routine and improving overall energy",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm jeera water (250 ml)",
+      "Option 2: Plain warm water",
+      "Option 3: Buttermilk (200 ml)"
+    ],
+    "Meal_1 (Main Lunch Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) + vegetable curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g)",
+      "Option 3: Chapati (2) & egg curry (2 eggs)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana",
+      "Option 2: Puffed rice (murmura)",
+      "Option 3: Small bowl curd"
+    ],
+    "Meal_2 (Dinner)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & curd + cucumber salad",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & paneer cubes (80 g) + vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & egg bhurji (2 eggs)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep meals simple and follow similar timings daily since fixed routine works better for you.",
+    "Reduce fried outside foods and replace them with roasted or home-cooked options.",
+    "Morning sunlight exposure and regular yoga will help improve energy and recovery.",
+    "Avoid stress eating by drinking water or buttermilk before taking extra snacks.",
+    "Keep dinner balanced and home-cooked for better digestion and energy."
+  ]
+}

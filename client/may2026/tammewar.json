@@ -1,0 +1,70 @@
+{
+  "Overview": {
+    "Name": "Tammewar Nitin",
+    "Age": 47,
+    "Gender": "Male",
+    "Height": "180 cm",
+    "Current_Weight_kg": 88,
+    "Target_Weight_kg": 75,
+    "Medical_Conditions": ["Thyroid", "Pre-Diabetic"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Eggetarian",
+    "Dislikes": ["Leafy vegetables"],
+    "Likes": ["Paneer", "Egg", "Tomato curry"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "Less than 6 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet, Fried, Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Social gatherings", "Late nights", "Boredom"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Reducing thyroid and pre-diabetic issues, Reducing belly fat, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Mostly vegetarian with eggs, avoids eggs on Thursday",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm methi water (250 ml)",
+      "Option 2: Jeera water (250 ml)",
+      "Option 3: Plain buttermilk (200 ml)"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2 eggs) + cucumber slices",
+      "Option 2: Paneer pan fried (120 g)",
+      "Option 3: RICE RAWA upma (~150 g) + curd"
+    ],
+    "Mid_Morning (Optional)": [
+      "Option 1: Roasted makhana",
+      "Option 2: Small fruit bowl",
+      "Option 3: Buttermilk (200 ml)"
+    ],
+    "Meal_2 (Main Lunch Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & egg curry (2 eggs) + tomato curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & vegetable curry",
+      "Option 3: Chapati (2) & paneer bhurji (120 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura)",
+      "Option 2: Roasted peanuts (small handful)",
+      "Option 3: Small bowl curd"
+    ],
+    "Meal_3 (Dinner - light)": [
+      "Option 1: Curd (200 g) & cucumber salad",
+      "Option 2: Vegetable soup + paneer cubes (80 g)",
+      "Option 3: Egg bhurji (2 eggs)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Follow vegetarian meals on Thursday.",
+    "Reduce sweets, fried foods and late-night eating to support blood sugar control and belly fat reduction.",
+    "Keep meals simple and avoid overeating during social gatherings.",
+    "Morning sunlight exposure can improve thyroid balance, sleep quality and energy levels.",
+    "Short walks after meals and regular yoga will help improve digestion and glucose control.",
+    "Since leafy vegetables are disliked, include other simple cooked vegetables regularly."
+  ]
+}

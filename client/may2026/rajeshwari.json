@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Rajeshwari Yellati",
+    "Age": 34,
+    "Gender": "Female",
+    "Height": "5 ft 4 in",
+    "Current_Weight_kg": 74,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["Arthritis"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": [],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Results first – include non-veg as needed for best results, avoids non-veg on Thursday, Friday and Saturday",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm turmeric water (250 ml)",
+      "Option 2: Jeera water (200 ml)",
+      "Option 3: Plain buttermilk (200 ml)"
+    ],
+    "Meal_1 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & egg curry (2–3 eggs) & cooked vegetables",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & vegetable fry"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Roasted makhana",
+      "Option 2: Warm soup (small bowl)",
+      "Option 3: Small bowl curd"
+    ],
+    "Meal_2 (Dinner - lighter)": [
+      "Option 1: Chicken soup + cooked vegetables",
+      "Option 2: Curd (200 g) & cucumber salad",
+      "Option 3: Paneer pan fried (120 g) + cooked vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid non-veg on Thursday, Friday and Saturday and follow vegetarian options.",
+    "Reduce fried and highly processed foods to help lower joint inflammation.",
+    "Start meals with eggs, chicken or paneer before eating rice.",
+    "Get regular sunlight exposure in the morning to support joint health, mood and recovery.",
+    "Consistent yoga, hydration and lighter dinners will improve energy and mobility over time."
+  ]
+}
