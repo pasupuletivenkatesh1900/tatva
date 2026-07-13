@@ -1,0 +1,66 @@
+{
+  "Overview": {
+    "Name": "Gandla Anusha",
+    "Age": 34,
+    "Gender": "Female",
+    "Height": "159 cm",
+    "Current_Weight_kg": 66,
+    "Target_Weight_kg": 58,
+    "Medical_Conditions": ["Autoimmune Vasculitis"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian ",
+    "Dislikes": [],
+    "Likes": ["Chicken", "Fish", "Mutton", "Eggs", "Bone Broth"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "None",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Stress", "Boredom"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 4,
+    "Goal": "Reducing autoimmune vasculitis-related inflammation, Preventing/reversing health issues, Improving recovery, Reducing headaches, Feeling energetic and confident",
+    "Preference_Notes": "Vegetarian on Saturday, Sunday and Monday. Non-vegetarian on Tuesday, Wednesday, Thursday and Friday.",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Meal_1": [
+      "Option 1: Slow cooked bone broth (250 ml) + 1 boiled egg",
+      "Option 2: Cooked white rice (150 g) + curd (200 g)",
+      "Option 3: Grilled chicken (100 g) + any 1 fruit"
+    ],
+    "Meal_2": [
+      "Option 1: Grilled meat (150 g chicken, fish or mutton)",
+      "Option 2: Paneer (100 g) + cooked rice (150 g)",
+      "Option 3: 2–3 eggs (any style)"
+    ],
+    "Snack ": [
+      "Option 1: Coconut water (250 ml)",
+      "Option 2: Curd (200 g)",
+      "Option 3: Any 1 fruit"
+    ],
+    "Meal_3": [
+      "Option 1: Grilled chicken (150 g) or fish (150 g)",
+      "Option 2: Paneer (120 g) + cooked vegetables",
+      "Option 3: Egg omelette (2–3 eggs)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Use only homemade ghee, butter or coconut oil for cooking.",
+    "Avoid all seed oils including sunflower oil, rice bran oil, soybean oil, cottonseed oil, mustard oil and blended vegetable oils.",
+    "Avoid sugar completely. If cravings occur, have fruit instead.",
+    "Avoid pulses, dals, legumes and nuts.",
+    "Drink coconut water daily to support hydration and help reduce headaches.",
+    "Get at least 30 minutes of morning sunlight exposure daily.",
+    "Aim to sleep around 9 PM and wake naturally whenever possible.",
+    "Avoid screens for 1 hour before bedtime and use that time for reading or relaxation.",
+    "Maintain at least a 3-hour gap between your last meal and sleep.",
+    "Keep cooking simple with minimal spices and masala.",
+    "Follow vegetarian options on Saturday, Sunday and Monday.",
+    "Bone broth, eggs, fish and quality protein sources can support recovery and overall health."
+  ]
+}

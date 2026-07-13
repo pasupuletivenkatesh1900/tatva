@@ -1,0 +1,75 @@
+{
+  "Overview": {
+    "Name": "K. Aishwarya",
+    "Age": 27,
+    "Gender": "Female",
+    "Height": "5 ft 2 in",
+    "Current_Weight_kg": 78,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": [
+      "Asthma (2–3 episodes per year)"
+    ],
+    "Food_Allergies": [
+      "Bottle gourd"
+    ],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [
+      "Bottle gourd"
+    ],
+    "Likes": [],
+    "Occupation": "Kuchipudi Dancer / Teacher",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "Irregular",
+    "Who_Cooks": "Mixed",
+    "Steps": "Not tracked",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": [
+      "Stress",
+      "Late nights"
+    ],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Mental wellbeing & stress reduction, Support overall health and manage recurring asthma symptoms.",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (1 small glass)",
+      "Option 3: Any 1 fruit (apple, orange, guava or papaya)"
+    ],
+    "Meal_1": [
+      "Option 1: 3 egg omelette + any 1 fruit",
+      "Option 2: Paneer cubes (100 g) + any 1 fruit",
+      "Option 3: RICE RAWA upma (small bowl ~150 g) + 2 boiled eggs"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + chicken curry (120 g) + vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) + fish curry (120 g) + vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) + paneer curry (120 g) + vegetable curry + curd"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (20 g)",
+      "Option 2: Puffed rice (murmura) (small bowl)",
+      "Option 3: Plain buttermilk (1 glass)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) + egg omelette (2 eggs) + cucumber salad",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + paneer cubes (80 g) + vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + chicken curry (100 g) + vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid bottle gourd completely due to your allergy.",
+    "Maintain regular meal timings as much as possible despite your irregular schedule.",
+    "When sweet cravings occur, have a fruit first and wait 10 minutes before eating anything else.",
+    "Aim for 15–20 minutes of morning sunlight daily. Regular morning sunlight can help support your sleep cycle, energy levels and overall wellbeing.",
+    "Stay well hydrated, especially on days with dance practice.",
+    "Continue yoga regularly and use your dance sessions as part of your daily physical activity.",
+    "Aim for consistent sleep timings whenever possible to support recovery, energy levels and fat loss."
+  ]
+}

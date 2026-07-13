@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Priyanka Tribhuwan",
+    "Age": 28,
+    "Gender": "Female",
+    "Height": "5 ft 2 in",
+    "Current_Weight_kg": 47.7,
+    "Target_Weight_kg": 45,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Eggetarian (mostly vegetarian)",
+    "Dislikes": ["Non-veg (chicken, fish)"],
+    "Likes": ["Paneer", "Chocolate"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "Less than 6 hrs",
+    "Who_Cooks": "Cook",
+    "Steps": "Not tracked",
+    "Exercise": "Gym",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet, Fried, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Boredom"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 4,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Strictly vegetarian with optional eggs",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (pre-workout)": [
+      "Option 1: Coconut water (200 ml)", 
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Black Coffee"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer cubes (100 g) sauted with veggies",
+      "Option 2: Two - Three whole egg omelette + any 1 fruit",
+      "Option 3: Poha ( ~ 150g )"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & paneer curry (100 g) & vegetable curry + curd (small bowl)",
+      "Option 2: Plain oats (1 cup ~150 g) & Protein Shake (1 scoop)",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & egg curry (2 eggs) & vegetable curry"
+    ],
+    "Meal_3 (Small Meal) ": [
+      "Option 1: Roasted makhana (1 bowl)",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: Small fruit bowl"
+    ],
+    "Meal_4": [
+      "Option 1: curd (200 g) & cucumber salad",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & 2 eggs (Fried Rice) ",
+      "Option 3: RICE RAWA upma (1 bowl ~150 g) + paneer cubes (100 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Start meals with paneer or eggs before eating rice to control portions.",
+    "For boredom cravings, drink water or have a small dark chocolate first and wait 10 minutes.",
+    "Keep meals simple and consistent to support gym recovery.",
+    "Get sunlight exposure in the morning which will improve your sleep and improving sleep will significantly improve energy and control cravings.",
+    "Track and maintain 10k steps everyday"
+  ]
+}

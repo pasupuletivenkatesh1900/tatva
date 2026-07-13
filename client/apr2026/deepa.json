@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "T. Deepa",
+    "Age": 38,
+    "Gender": "Female",
+    "Height": "160 cm",
+    "Current_Weight_kg": 75,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["Seafood"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": ["Banana"],
+    "Likes": ["Regular home food"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "More than 8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Regular",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Preventing/reversing health issues",
+    "Preference_Notes": "Strictly vegetarian",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Jeera water (200 ml)",
+      "Option 3: Plain buttermilk (200 ml)"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer cubes (100 g) pan fried + any 1 fruit (apple, orange or papaya)",
+      "Option 2: Thick curd bowl + 1 fruit (apple or orange)",
+      "Option 3: RICE RAWA upma (~150 g) + curd"
+    ],
+    "Meal_2 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & paneer curry (100 g) & vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & vegetable curry & curd (200 g)",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & curd (200 g) & carrot or beans curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_3 (Dinner - lighter)": [
+      "Option 1: Curd (200 g) & cucumber salad",
+      "Option 2: Cooked rice (1 cup ~150 g) & paneer cubes (80 g) + vegetable curry",
+      "Option 3: Cooked rice (1 cup ~150 g) & vegetable curry & buttermilk"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid banana as per your preference.",
+    "Maintain consistent meal timing to support thyroid balance.",
+    "Start meals with paneer or curd before eating rice.",
+    "Keep meals simple and avoid overeating during social gatherings.",
+    "Consistency will help improve metabolism and overall health."
+  ]
+}

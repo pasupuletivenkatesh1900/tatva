@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Susmitha Veerni",
+    "Age": 27,
+    "Gender": "Female",
+    "Height": "162 cm",
+    "Current_Weight_kg": 110,
+    "Target_Weight_kg": 85,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "Shift work",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Mixed",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I usually avoid desserts",
+    "Food_Craving": "Fried, Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress", "Social gatherings", "Late nights", "Boredom"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & egg curry (2–3 eggs) & vegetable curry",
+      "Option 3: Paneer cubes (100 g) & vegetable salad"
+    ],
+     "Evening_Snack (optional)": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ], 
+    "Meal_2": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) & chicken curry (120 g)",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & egg omelette (2 eggs)",
+      "Option 3: paneer cubes (80 g) & vegetable salad"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Start every meal with chicken, eggs or paneer before eating rice to naturally reduce portions.",
+    "Avoid fried outside food during stress or late nights.",
+    "Because shifts can disturb hunger signals, try to keep your 2 meals at consistent times daily.",
+    "Keep dinner lighter than lunch to support fat loss.",
+    "With consistency expect steady fat loss and improved body shape over the next 10–12 weeks."
+  ]
+}

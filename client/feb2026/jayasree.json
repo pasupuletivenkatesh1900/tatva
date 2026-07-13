@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Jayasree",
+    "Age": 46,
+    "Gender": "Female",
+    "Height": "160 cm",
+    "Current_Weight_kg": 81,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Diabetes", "Joint pains", "High BP"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Eggetarian (minimal non-veg)",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: 2 egg omelette (pan fried in ghee)",
+      "Option 2: Paneer cubes (80 g)",
+      "Option 3: RICE RAWA upma (small) + 1 boiled egg"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + egg curry (2 eggs) + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + paneer curry (80 g) + vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + curd + paneer curry ( ~ 120 g) "
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups, low salt)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) + egg curry (1–2 eggs)",
+      "Option 2: Paneer cubes (60–80 g) + vegetable curry",
+      "Option 3: Thick curd bowl + boiled vegetables (lightest option)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep rice controlled and always eat egg or paneer first for better sugar control.",
+    "Avoid very spicy and high salt food to manage BP.",
+    "Limit outside food during social gatherings. Eat protein first.",
+    "Keep dinner lighter than lunch for better sugar and joint management.",
+    "Gradual weight loss will reduce joint stress and improve energy in 8–12 weeks."
+  ]
+}

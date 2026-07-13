@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Bhagyasree G",
+    "Age": 34,
+    "Gender": "Female",
+    "Height": "165 cm",
+    "Current_Weight_kg": 70,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal, avoids non-veg on Monday, Tuesday, Thursday, Friday and Saturday",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Jeera water (200 ml)",
+      "Option 3: Black coffee"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2–3 eggs) + sautéed vegetables",
+      "Option 2: RICE RAWA upma (~150 g) + curd",
+      "Option 3: Paneer cubes (120 g) + cucumber slices"
+    ],
+    "Meal_2 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & vegetable fry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & egg curry (2 eggs) & curd"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Roasted peanuts (small handful)",
+      "Option 2: Puffed rice (murmura)",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_3 (Dinner - balanced)": [
+      "Option 1: Curd (200 g) & cucumber salad",
+      "Option 2: Vegetable soup + paneer cubes (80 g)",
+      "Option 3: Egg bhurji (2 eggs) + cooked vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Follow vegetarian meals on Monday, Tuesday, Thursday, Friday and Saturday.",
+    "Stress eating can increase cravings, so avoid long gaps between meals.",
+    "Start meals with eggs, paneer or curd before eating rice.",
+    "Morning sunlight exposure can improve energy, recovery and sleep quality.",
+    "Consistent yoga and simple home-cooked meals will help maintain steady energy levels."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Gubbala Vara Prasad",
+    "Age": 33,
+    "Gender": "Male",
+    "Height": "165 cm",
+    "Current_Weight_kg": 81,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (minimal non-veg, mostly vegetarian)",
+    "Dislikes": [],
+    "Likes": ["Sprouts", "Fruits", "Dry fruits"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5 with extensions",
+    "Sleep_hrs": "Less than 6 hrs",
+    "Who_Cooks": "Mixed",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet, Fried, Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress", "Social gatherings", "Late nights", "Boredom"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain curd (small bowl ~120 g)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer cubes (100 g) + any 1 fruit (apple, banana, orange or papaya)",
+      "Option 2: 2 egg omelette + any 1 fruit",
+      "Option 3: RICE RAWA upma (1 bowl ~150 g) + paneer cubes (60 g)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & paneer curry (100 g) & vegetable curry + curd (small bowl)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry + curd (small bowl)",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & vegetable curry & curd + sprouts (small bowl)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~30 g)",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: Small bowl sprouts or fruit"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & paneer cubes (80 g) & vegetable curry + any 1 fruit",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & egg omelette (2 eggs) + any 1 fruit",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & curd (200 g) & cucumber salad + any 1 fruit"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep non-veg limited to 1 meal per day as per your preference.",
+    "Start meals with paneer, eggs or chicken before rice to control overeating.",
+    "For cravings, eat a full meal first and wait 10 minutes before taking extra food.",
+    "Avoid fried and packaged foods, especially during stress or late nights.",
+    "Improve sleep to support thyroid health and fat loss."
+  ]
+}

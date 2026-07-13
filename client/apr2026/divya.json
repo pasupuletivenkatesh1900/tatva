@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Divya Gayathri Akella",
+    "Age": 30,
+    "Gender": "Female",
+    "Height": "165 cm",
+    "Current_Weight_kg": 80,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": ["Boiled vegetables", "Boiled paneer", "Foods that affect thyroid balance"],
+    "Likes": ["Vegetarian foods"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Mixed",
+    "Steps": "5k–10k",
+    "Exercise": "None",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Chat items, Pani puri",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 2,
+    "Goal": "Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Strictly vegetarian",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Jeera water (200 ml)",
+      "Option 3: Plain buttermilk (200 ml)"
+    ],
+    "Meal_1 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & vegetable curry",
+      "Option 2: RICE RAWA upma (~150 g) + curd",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & soya chunks curry & vegetable fry"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Roasted makhana",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_2 (Dinner - lighter)": [
+      "Option 1: Curd (200 g) & cucumber salad",
+      "Option 2: Paneer pan fried (120 g) + cooked vegetables",
+      "Option 3: Cooked rice (1 cup ~150 g) & vegetable curry + curd"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid outside chat and pani puri regularly as they can worsen thyroid-related inflammation and cravings.",
+    "Start meals with paneer, curd or soya chunks before eating rice.",
+    "Keep meals simple and home-style instead of skipping meals and overeating later.",
+    "Maintain regular meal timings to improve energy and hormone balance.",
+    "During social gatherings, eat your regular meal first before outside snacks."
+  ]
+}

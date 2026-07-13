@@ -8,14 +8,14 @@
     "Target_Weight_kg": 85,
     "Medical_Conditions": ["None"],
     "Food_Allergies": ["None"],
-    "Diet_Type": "Non-Vegetarian",
-    "Dislikes": ["Any food with too much oil"],
-    "Likes": ["Boiled food"],
+    "Diet_Type": "Non-Vegetarian (minimal non-veg, mostly vegetarian)",
+    "Dislikes": ["Oily foods"],
+    "Likes": ["Boiled food", "Simple meals"],
     "Occupation": "Desk Job",
     "Work_Hours": "9–5",
     "Sleep_hrs": "6–8 hrs",
     "Who_Cooks": "Family member",
-    "Steps": "Don’t track",
+    "Steps": "Not tracked",
     "Exercise": "Yoga",
     "Food_Habit": "I lose control if I start eating",
     "Food_Craving": "Spicy",
@@ -30,35 +30,35 @@
   "Daily_Meal_Plan": {
     "Early_Morning (optional)": [
       "Option 1: Warm water (200 ml)",
-      "Option 2: Lemon water (200 ml)",
-      "Option 3: Boiled chicken pieces (small bowl)"
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: 5 soaked almonds"
     ],
     "Meal_1": [
-      "Option 1: Vegetable dosa (1) & paneer cubes (60 g)",
-      "Option 2: Idli (2) & sambar (1 cup) & boiled egg (1)",
-      "Option 3: Vegetable upma (medium bowl) & buttermilk (unsweetened)"
+      "Option 1: 2 boiled eggs + any 1 fruit (apple, banana, orange or papaya)",
+      "Option 2: Paneer cubes (100 g, lightly pan cooked) + any 1 fruit",
+      "Option 3: RICE RAWA upma (1 bowl ~150 g) + curd (small bowl)"
     ],
     "Meal_2": [
-      "Option 1: Cooked rice (1 cup cooked ~150 g) & dal (1 bowl) & vegetable curry",
-      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & grilled chicken (small portion) & spinach curry",
-      "Option 3: 2 chapati & paneer curry (80 g paneer) & salad"
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & vegetable curry & curd (200 g)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & paneer curry (100 g, low oil) & vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & chicken curry (100 g, boiled/light) & vegetable curry"
     ],
     "Evening_Snack": [
       "Option 1: Roasted makhana (1 bowl ~25–30 g)",
-      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 2: Puffed rice (murmura) chaat",
       "Option 3: Buttermilk (unsweetened) (250 ml)"
     ],
     "Meal_3": [
-      "Option 1: Cooked rice (1/2 cup cooked ~75 g) & dal (light) & vegetable curry",
-      "Option 2: Grilled chicken (small portion) & cucumber salad",
-      "Option 3: Clear vegetable soup (1 large bowl) & paneer cubes (60 g)"
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & curd (200 g) & cucumber salad + any 1 fruit",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & paneer cubes (80 g, low oil) & vegetable curry + any 1 fruit",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & egg omelette (2 eggs) + any 1 fruit"
     ]
   },
   "Notes_and_Tips": [
-    "Since oily foods are disliked, keep cooking methods boiled, grilled or lightly pan cooked.",
-    "Because overeating happens once you start, serve one fixed plate and avoid eating directly from large vessels.",
-    "For better physique improvement, keep protein portions steady and rice moderate.",
-    "Stress can increase spicy cravings, so include spice in home cooked meals instead of outside food.",
-    "Simple clean meals will help maintain steady energy and long term consistency."
+    "Keep cooking low oil or boiled as much as possible.",
+    "Start meals with paneer, eggs or curd before eating rice to control overeating.",
+    "For stress eating, pause 10 minutes after starting a meal before taking more food.",
+    "Avoid deep fried and outside spicy foods.",
+    "Simple consistent meals will support steady fat loss and better energy."
   ]
 }

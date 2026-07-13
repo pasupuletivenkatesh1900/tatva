@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Rashmini Donthu",
+    "Age": 29,
+    "Gender": "Female",
+    "Height": "158 cm",
+    "Current_Weight_kg": 51,
+    "Target_Weight_kg": 45,
+    "Medical_Conditions": ["PCOS"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian (minimal non-veg, mostly vegetarian)",
+    "Dislikes": ["Paneer", "Mushrooms", "Papaya"],
+    "Likes": ["Chicken", "Eggs", "Leafy vegetables", "Fruits"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "More than 8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Walking",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet, Fried",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Boredom"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain curd (small bowl ~120 g)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: 2 egg omelette + any 1 fruit (apple, banana, orange or berries)",
+      "Option 2: Boiled eggs (2) + any 1 fruit",
+      "Option 3: RICE RAWA upma (1 bowl ~150 g) + 1 boiled egg"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & leafy vegetable curry + curd (small bowl)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & egg curry (2 eggs) & vegetable curry + curd",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & vegetable curry & curd + leafy vegetables"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~30 g)",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: Fruit bowl (apple or orange)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & egg omelette (2 eggs) & vegetable curry + any 1 fruit",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & chicken curry (100–120 g) + any 1 fruit",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & curd (200 g) & cucumber salad + any 1 fruit"
+    ]
+  },
+  "Notes_and_Tips": [
+    "For PCOS, always start meals with eggs or chicken before eating rice.",
+    "When cravings hit, eat a proper meal first and wait 10 minutes before taking anything extra.",
+    "Avoid fried and bakery foods as they worsen hormonal imbalance.",
+    "Keep dinner lighter than lunch to support fat loss and hormone balance.",
+    "Daily walking will help improve PCOS symptoms and overall energy."
+  ]
+}

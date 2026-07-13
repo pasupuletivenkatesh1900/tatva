@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Nuvvula Laxmi",
+    "Age": 36,
+    "Gender": "Female",
+    "Height": "150 cm",
+    "Current_Weight_kg": 83,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["Fatty liver (stage 1)"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Tailoring work (depends on orders)",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Walking",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Social gatherings"],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Jeera water (200 ml)"
+    ],
+    "Meal_1 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g) & vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & fish curry (120 g) & vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & vegetable curry"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Puffed rice (murmura)",
+      "Option 2: Roasted makhana",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_2 (Dinner - lighter)": [
+      "Option 1: Curd (200 g) & cucumber salad",
+      "Option 2: Cooked rice (1 cup ~150 g) & egg omelette (2–3 eggs ~120 g total)",
+      "Option 3: Cooked rice (1 cup ~150 g) & paneer cubes (120 g) + vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid fried and oily foods to support fatty liver recovery.",
+    "Start meals with protein before eating rice to improve metabolism.",
+    "Keep meals simple and home-cooked for better consistency.",
+    "Walking daily will help improve liver health and fat loss.",
+    "During social gatherings, eat your regular meal first before outside food."
+  ]
+}

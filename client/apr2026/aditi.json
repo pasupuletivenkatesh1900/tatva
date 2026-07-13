@@ -1,0 +1,64 @@
+{
+  "Overview": {
+    "Name": "Aditi Shet",
+    "Age": 45,
+    "Gender": "Female",
+    "Height": "5 ft 1 in",
+    "Current_Weight_kg": 87,
+    "Target_Weight_kg": 75,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["Butter"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Homemaker",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Dinner"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Black coffee"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer cubes (100 g) pan fried in small butter + any 1 fruit",
+      "Option 2: 2 egg omelette (light butter) + any 1 fruit",
+      "Option 3: RICE RAWA upma (~150 g) + curd"
+    ],
+    "Meal_2 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry & curd (200 g)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & paneer curry (100 g) & vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & egg curry (2 eggs) & vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_3 (Dinner - focus)": [
+      "Option 1: Cooked rice (1 cup ~150 g) & chicken curry (120 g, low oil)",
+      "Option 2: Cooked rice (1 cup ~150 g) & egg omelette (2 eggs) + cucumber salad",
+      "Option 3: Cooked rice (1 cup ~150 g) & paneer cubes (80 g) + vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Use butter in small quantities and avoid excess oil.",
+    "Maintain consistent meal timing to support thyroid health.",
+    "Start meals with protein before eating rice.",
+    "Avoid fried foods especially during stress.",
+    "Keep dinner balanced and controlled for better fat loss and energy."
+  ]
+}

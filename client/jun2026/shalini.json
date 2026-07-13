@@ -1,0 +1,67 @@
+{
+  "Overview": {
+    "Name": "Shalini",
+    "Age": 34,
+    "Gender": "Female",
+    "Height": "161.27 cm",
+    "Current_Weight_kg": 70.2,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Soya"],
+    "Likes": [],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Not Provided",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Fried, Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": [
+      "Stress"
+    ],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (1 small glass)",
+      "Option 3: Any 1 fruit (apple, orange, guava or papaya)"
+    ],
+    "Meal_1": [
+      "Option 1: 2 egg omelette + any 1 fruit",
+      "Option 2: Paneer cubes (80 g) + cucumber slices",
+      "Option 3: RICE RAWA upma (small bowl ~150 g) + curd (small bowl)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + chicken curry (100–120 g) + vegetable curry + curd",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + fish curry (100–120 g) + vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + egg curry (2 eggs) + vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (20 g)",
+      "Option 2: Puffed rice (murmura) chaat (small bowl)",
+      "Option 3: Plain buttermilk (1 glass)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) + chicken curry (100 g) + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + paneer cubes (80 g) + cucumber salad",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + egg omelette (2 eggs) + curd (small bowl)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Choose homemade meals most of the time and avoid deep-fried foods.",
+    "Since stress is a trigger, eat your meals slowly and avoid skipping meals.",
+    "Aim for 15–20 minutes of morning sunlight daily. Regular morning sunlight can help support your sleep cycle, energy levels and overall wellbeing.",
+    "Practice yoga consistently and try to include a 20–30 minute walk on most days.",
+    "Drink at least 2.5–3 litres of water daily.",
+    "Focus on consistency rather than perfection to achieve steady fat loss and improved body composition."
+  ]
+}

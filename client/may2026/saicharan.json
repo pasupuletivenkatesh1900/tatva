@@ -1,0 +1,66 @@
+{
+  "Overview": {
+    "Name": "Saicharan",
+    "Age": 30,
+    "Gender": "Male",
+    "Height": "177 cm",
+    "Current_Weight_kg": 87,
+    "Target_Weight_kg": 75,
+    "Medical_Conditions": [],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Capsicum"],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9 AM to 6:30 PM",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "5k–10k",
+    "Exercise": "None",
+    "Food_Habit": "I usually avoid desserts",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Social gatherings", "Late nights"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction, Reducing body fat and improving physique",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian, avoids non-veg on Tuesday",
+    "Preferred_Meal_To_Focus": "Dinner"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm jeera water (250 ml)",
+      "Option 2: Black coffee",
+      "Option 3: Plain buttermilk (200 ml)"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer pan fried (120 g) + cucumber slices",
+      "Option 2: Egg omelette (2 eggs) + cooked vegetables",
+      "Option 3: RICE RAWA upma (~150 g) + curd"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (150 g) & paneer curry (120 g)",
+      "Option 2: Cooked rice (150 g) & egg curry (2 eggs)",
+      "Option 3: Chapati (2) & mixed vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura)",
+      "Option 2: Roasted makhana",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_3 (Main Dinner Meal)": [
+      "Option 1: Cooked rice (150 g) & chicken curry (120 g) + vegetable curry",
+      "Option 2: Cooked rice (150 g) & fish curry (120 g)",
+      "Option 3: Cooked rice (150 g) & paneer curry (120 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid capsicum completely.",
+    "Follow vegetarian options on Tuesday.",
+    "Reduce fried foods and late-night snacking to improve fat loss.",
+    "Start meals with paneer, eggs or chicken before eating rice.",
+    "Get 20–30 minutes of morning sunlight exposure daily.",
+    "Aim for a short walk after dinner to improve recovery and digestion.",
+    "Consistent meal timing and sleep will improve body composition and energy."
+  ]
+}

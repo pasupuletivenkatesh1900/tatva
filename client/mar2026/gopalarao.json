@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Venkata Gopalarao Mandada",
+    "Age": 36,
+    "Gender": "Male",
+    "Height": "5.11 ft",
+    "Current_Weight_kg": 84,
+    "Target_Weight_kg": 76,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["Soy"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Soy products"],
+    "Likes": [],
+    "Occupation": "Software Engineer",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Cook",
+    "Steps": "Not tracked",
+    "Exercise": "Walking",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Mental wellbeing & stress reduction",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: 2 boiled eggs",
+      "Option 3: Plain curd (small bowl ~120 g)"
+    ],
+    "Meal_1": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (150 g) & vegetable curry + curd (small bowl)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & fish curry (150 g) & vegetable curry + curd (small bowl)",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) & egg curry (2–3 eggs) & vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~30 g)",
+      "Option 2: Puffed rice (murmura) chaat",
+      "Option 3: 2 boiled eggs"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) & chicken curry (120 g) + any 1 fruit (apple, banana, orange or papaya)",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) & egg omelette (2 eggs) + vegetable curry + any 1 fruit",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) & paneer cubes (80 g) & vegetable curry + any 1 fruit"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid all soy-based foods completely.",
+    "Start meals with chicken, eggs or paneer before eating rice to improve portion control.",
+    "Keep meals simple to reduce stress and improve consistency.",
+    "Walking daily will support both mental wellbeing and fat loss.",
+    "Maintain consistent meal timing for better energy and mood balance."
+  ]
+}

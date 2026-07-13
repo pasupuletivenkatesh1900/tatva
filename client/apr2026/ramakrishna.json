@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Rama Krishna",
+    "Age": 26,
+    "Gender": "Male",
+    "Height": "5 ft 5 in",
+    "Current_Weight_kg": 86,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["Thyroid"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Field Work",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Sweet",
+    "Meal_Preference": "Variety",
+    "Triggers": [],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Feeling energetic & confident",
+    "Preference_Notes": "Strictly vegetarian",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (300 ml)",
+      "Option 2: Plain buttermilk (250 ml)",
+      "Option 3: Black coffee"
+    ],
+    "Meal_1 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g) & vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & vegetable curry & curd (200 g) + paneer cubes (60 g)",
+      "Option 3: RICE RAWA upma (~150 g) + paneer cubes (120 g)"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Puffed rice (murmura)",
+      "Option 2: Roasted makhana",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_2 (Dinner - balanced)": [
+      "Option 1: Cooked rice (1 cup ~150 g) & paneer cubes (120 g) + vegetable curry",
+      "Option 2: Curd (200 g) & cucumber salad + small fruit",
+      "Option 3: Cooked rice (1 cup ~150 g) & vegetable curry & curd"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Start meals with paneer or curd before eating rice.",
+    "Avoid sweets as they affect thyroid balance and fat loss.",
+    "Keep meals simple and consistent to support daily energy.",
+    "Field work needs steady energy, so do not skip meals.",
+    "Consistency will improve stamina, body shape and overall energy."
+  ]
+}

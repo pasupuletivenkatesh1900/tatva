@@ -1,0 +1,65 @@
+{
+  "Overview": {
+    "Name": "Santosh Jami",
+    "Age": 31,
+    "Gender": "Male",
+    "Height": "176 cm",
+    "Current_Weight_kg": 91,
+    "Target_Weight_kg": 75,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Brinjal", "Paneer", "Mutton"],
+    "Likes": ["Chicken"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "12-9",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Savory, Fried",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Late nights", "Boredom"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain water (200 ml)",
+      "Option 3: 5 soaked almonds"
+    ],
+    "Meal_1": [
+      "Option 1: 3 egg omelette (pan fried in ghee)",
+      "Option 2: Chicken curry (small bowl) + 1/2 cup cooked rice (~75 g)",
+      "Option 3: RICE RAWA upma (small) + 2 boiled eggs"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + chicken curry + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + egg curry (2 eggs) + vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + curd + vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (1 bowl ~25–30 g)",
+      "Option 2: Puffed rice (murmura) chaat (2 cups)",
+      "Option 3: Buttermilk (unsweetened) (250 ml)"
+    ],
+    "Meal_3": [
+      "Option 1: Chicken curry (small portion) + 1/2 cup cooked rice (~75 g)",
+      "Option 2: Egg omelette (2 eggs) + cucumber salad",
+      "Option 3: Curd bowl (thick) + vegetable curry (lightest option)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since appearance is a major goal, keep rice controlled and make chicken or eggs the main portion.",
+    "Avoid fried snacks, especially during late-night boredom.",
+    "Fix dinner before 9 pm to reduce fat storage.",
+    "Start every meal with protein first before rice.",
+    "Low daily movement means portion control is important for visible fat loss.",
+    "Expect steady waist reduction in 10–12 weeks with consistency."
+  ]
+}

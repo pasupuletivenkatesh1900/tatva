@@ -1,0 +1,72 @@
+{
+  "Overview": {
+    "Name": "Mahesh Varma",
+    "Age": 30,
+    "Gender": "Male",
+    "Height": "177 cm",
+    "Current_Weight_kg": 104,
+    "Target_Weight_kg": 75,
+    "Medical_Conditions": [
+      "Thyroid"
+    ],
+    "Food_Allergies": [
+      "None"
+    ],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9:00 AM – 5:00 PM",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Fried",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": [
+      "Stress",
+      "Late nights"
+    ],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction, Support thyroid health.",
+    "Preference_Notes": "Strictly Vegetarian",
+    "Preferred_Meal_To_Focus": "No preference"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (1 small glass)",
+      "Option 3: Any 1 fruit (apple, orange, guava or papaya)"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer cubes (100 g) + any 1 fruit",
+      "Option 2: Thick curd (200 g) + any 1 fruit",
+      "Option 3: RICE RAWA upma (small bowl ~150 g) + paneer cubes (80 g)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + paneer curry (120 g) + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + soya chunks curry (80 g) + vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + paneer cubes (100 g) + curd (small bowl)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (20 g)",
+      "Option 2: Puffed rice (murmura) (small bowl)",
+      "Option 3: Plain buttermilk (1 glass)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) + paneer cubes (100 g) + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + soya chunks curry (80 g) + cucumber salad",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + curd (200 g) + vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Take your thyroid medication on an empty stomach with plain water and wait at least 30–60 minutes before your first meal, if prescribed by your doctor.",
+    "Avoid fried foods and choose boiled or pan fried preparations instead.",
+    "When stress or late-night cravings occur, drink a glass of water and wait 10 minutes before eating.",
+    "Aim for 15–20 minutes of morning sunlight daily. Regular morning sunlight can help support your sleep cycle, energy levels and overall wellbeing.",
+    "Practice yoga regularly and include a 30-minute walk on most days to support thyroid health and healthy weight loss.",
+    "Drink at least 2.5–3 litres of water daily and maintain consistent meal timings."
+  ]
+}

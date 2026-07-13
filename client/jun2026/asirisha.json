@@ -1,0 +1,75 @@
+{
+  "Overview": {
+    "Name": "A.Sirisha",
+    "Age": 32,
+    "Gender": "Female",
+    "Height": "5.2 ft",
+    "Current_Weight_kg": 60,
+    "Target_Weight_kg": 58,
+    "Medical_Conditions": [],
+    "Food_Allergies": [
+      "Soy"
+    ],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [
+      "Nothing"
+    ],
+    "Likes": [
+      "All"
+    ],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Don’t track",
+    "Exercise": "Yoga",
+    "Food_Habit": "I usually avoid them",
+    "Food_Craving": "Fried, Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": [
+      "Stress",
+      "Boredom"
+    ],
+    "Open_To_New_Foods": "Yes",
+    "Meals_per_Day": 1,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Either is fine",
+    "Location": "Pragathi Nagar",
+    "Active": "Yes"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm methi water (250 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Warm water with lemon"
+    ],
+    "Breakfast": [
+      "Option 1: Rice rawa upma with vegetables (~1 cup cooked)",
+      "Option 2: Poha with vegetables (~1 cup cooked) and a side of curd (100 g)",
+      "Option 3: Plain curd (100 g) with cucumber and roasted makhana (30 g)"
+    ],
+    "Lunch": [
+      "Option 1: Cooked rice with fish or chicken curry and vegetables",
+      "Option 2: Cooked rice (~150 g cooked) with paneer curry (100 g) and mixed vegetables",
+      "Option 3: Cooked rice (~150 g cooked) with soya chunks (80 g) and a light vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice light (~30 g)",
+      "Option 2: Roasted makhana (30 g)",
+      "Option 3: Cucumber slices with plain curd dip (100 g)"
+    ],
+    "Dinner": [
+      "Option 1: Egg omelette (2 eggs) with cooked vegetables",
+      "Option 2: Steamed vegetables with paneer cubes",
+      "Option 3: Light curd bowl with cucumber and rice"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep meal timings regular and start meals with protein before rice.",
+    "Use simple home foods and keep a light snack ready for busy days.",
+    "Avoid fried foods, bakery sweets and sugary drinks where possible.",
+    "If cravings come up, wait 10 minutes and choose fruit, puffed rice or makhana first.",
+    "Stress or late-night triggers: take a short walk or rest before eating to avoid overeating."
+  ]
+}

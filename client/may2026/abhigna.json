@@ -1,0 +1,65 @@
+{
+  "Overview": {
+    "Name": "Talluri Abhigna",
+    "Age": 24,
+    "Gender": "Female",
+    "Height": "162 cm",
+    "Current_Weight_kg": 87,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": ["PCOS"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Cluster Beans", "Bitter Gourd"],
+    "Likes": [],
+    "Occupation": "Student",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet, Fried",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": ["Boredom"],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Reducing PCOS-related issues, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal, avoids non-veg on Tuesday, Thursday and Saturday",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm methi water (250 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Warm water"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer bhurji (120 g)",
+      "Option 2: Egg scramble (2 eggs)",
+      "Option 3: Poha (~150 g) + curd"
+    ],
+    "Meal_2": [
+  "Option 1: Cooked rice (150 g) & chicken curry (120 g) ",
+  "Option 2: Cooked rice (150 g) & egg curry (2 eggs) & vegetable curry",
+  "Option 3: Cooked rice (150 g) & paneer curry (120 g) or  vegetable curry"
+],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana",
+      "Option 2: Puffed rice (murmura)",
+      "Option 3: Small bowl curd"
+    ],
+    "Meal_3": [
+      "Option 1: Vegetable soup + paneer cubes (80 g)",
+      "Option 2: Curd rice (~150 g) ",
+      "Option 3: Egg omelette (2 eggs) + cucumber slices"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid cluster beans and bitter gourd completely.",
+    "Follow vegetarian meals on Tuesday, Thursday and Saturday.",
+    "Reduce sweets and fried foods to improve PCOS symptoms and fat loss.",
+    "For boredom cravings, drink water first and wait 10 minutes before eating.",
+    "Get 20–30 minutes of morning sunlight exposure daily.",
+    "Regular yoga, better sleep and consistent meal timing will improve hormone balance and energy."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Overview": {
+    "Name": "M Kavya",
+    "Age": 31,
+    "Gender": "Female",
+    "Height": "154 cm",
+    "Current_Weight_kg": 56,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": ["PCOS"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": ["Vegetables"],
+    "Likes": ["Non-veg"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Irregular",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Boredom"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Reducing PCOS-related issues, Improving body shape and energy levels",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal, avoids non-veg on Saturday",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm methi water (250 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Black coffee"
+    ],
+    "Meal_1": [
+      "Option 1: Egg omelette (2–3 eggs)",
+      "Option 2: Chicken pan fried (120 g)",
+      "Option 3: RICE RAWA upma (~150 g) + curd"
+    ],
+    "Mid_Morning (Optional)": [
+      "Option 1: Small fruit bowl",
+      "Option 2: Roasted makhana",
+      "Option 3: Buttermilk (200 ml)"
+    ],
+    "Meal_2 (Main Lunch Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & chicken curry (120 g)",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & egg curry (2 eggs) + curd",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & paneer curry (120 g)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Puffed rice (murmura)",
+      "Option 2: Roasted peanuts (small handful)",
+      "Option 3: Small bowl curd"
+    ],
+    "Meal_3 (Dinner - light)": [
+      "Option 1: Chicken soup + cucumber salad",
+      "Option 2: Curd rice (~150 g)",
+      "Option 3: Paneer pan fried (120 g)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Follow vegetarian meals on Saturday.",
+    "Since vegetables are disliked, keep them simple, lightly cooked and in smaller portions initially.",
+    "Avoid boredom eating by drinking water or buttermilk first before taking snacks.",
+    "Morning sunlight exposure and regular yoga can improve PCOS symptoms and energy.",
+    "Keep dinner lighter and maintain consistent meal timing for better hormone balance."
+  ]
+}

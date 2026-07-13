@@ -1,0 +1,73 @@
+{
+  "Overview": {
+    "Name": "Siva Prasad Kona",
+    "Age": 24,
+    "Gender": "Male",
+    "Height": "164.3 cm",
+    "Current_Weight_kg": 76,
+    "Target_Weight_kg": 60,
+    "Medical_Conditions": [
+      "None"
+    ],
+    "Food_Allergies": [
+      "None"
+    ],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "10:00 AM – 7:00 PM",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "None",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Fried, Spicy",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": [
+      "Social gatherings",
+      "Late nights",
+      "Boredom"
+    ],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Dinner"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (1 small glass)",
+      "Option 3: Any 1 fruit (apple, orange, guava or papaya)"
+    ],
+    "Meal_1": [
+      "Option 1: 2 egg omelette + any 1 fruit",
+      "Option 2: Paneer cubes (100 g) + any 1 fruit",
+      "Option 3: RICE RAWA upma (small bowl ~150 g) + curd (small bowl)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + chicken curry (100–120 g) + vegetable curry + curd",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + paneer curry (100 g) + vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + egg curry (2 eggs) + vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (20 g)",
+      "Option 2: Puffed rice (murmura) chaat (small bowl)",
+      "Option 3: Plain buttermilk (1 glass)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) + chicken curry (100 g) + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + paneer cubes (100 g) + cucumber salad",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + egg omelette (2 eggs) + curd (small bowl)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Since your activity level is low, include a 30–45 minute walk on most days in addition to yoga.",
+    "Keep non-vegetarian meals to 3–4 times per week as per your preference and use paneer or eggs on other days.",
+    "Avoid eating late at night whenever possible, as it can increase unnecessary calorie intake.",
+    "When attending social gatherings, eat a fruit or a small bowl of curd before leaving home to help control portions.",
+    "Aim for 15–20 minutes of morning sunlight daily. Regular morning sunlight can help support your sleep cycle, energy levels and overall wellbeing.",
+    "Drink at least 2.5–3 litres of water daily and maintain consistent meal timings for better fat loss results."
+  ]
+}

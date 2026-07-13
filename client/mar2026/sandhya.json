@@ -1,0 +1,61 @@
+{
+  "Overview": {
+    "Name": "Sandhya Balusu",
+    "Age": 37,
+    "Gender": "Female",
+    "Height": "160 cm",
+    "Current_Weight_kg": 73,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": ["Diabetes", "Thyroid", "PCOS", "Hypertension"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["Non-Vegetarian foods"],
+    "Occupation": "Homemaker",
+    "Work_Hours": "NA",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Mixed",
+    "Steps": "<5k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Based on mood",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Stress"],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 2,
+    "Goal": "Managing diabetes, thyroid, PCOS and hypertension, Preventing/reversing health issues, Mental wellbeing & stress reduction, Improving energy levels and body composition",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm methi water (250 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Warm water"
+    ],
+    "Meal_1 (Main Meal)": [
+      "Option 1: Cooked rice (150 g) & chicken curry (120 g) & vegetable curry",
+      "Option 2: Cooked rice (150 g) & fish curry (120 g) & vegetable curry",
+      "Option 3: Cooked rice (150 g) & paneer curry (120 g) & vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana",
+      "Option 2: Puffed rice (murmura)",
+      "Option 3: Coconut water"
+    ],
+    "Meal_2": [
+      "Option 1: Curd (200 g) + cucumber salad + paneer cubes (120 g)",
+      "Option 2: Egg omelette (2–3 eggs) + cooked vegetables",
+      "Option 3: Cooked rice (150 g) & fish curry (120 g) & vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Maintain fixed meal timings daily to support diabetes, thyroid and PCOS management.",
+    "Reduce sweets, bakery foods, sugary drinks and processed snacks.",
+    "Limit excess salt, pickles and packaged foods to support blood pressure control.",
+    "Start meals with protein (chicken, fish, eggs or paneer) before eating rice.",
+    "Get 20–30 minutes of morning sunlight exposure daily.",
+    "Regular yoga and a short walk after meals can improve blood sugar control and overall health.",
+    "Manage stress-related cravings with hydration, walking or relaxation techniques before eating."
+  ]
+}

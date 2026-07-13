@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Name": "Sathyagama Abhinav Kumar",
+    "Age": 30,
+    "Gender": "Male",
+    "Height": "165 cm",
+    "Current_Weight_kg": 90,
+    "Target_Weight_kg": 75,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["None"],
+    "Diet_Type": "Eggetarian",
+    "Dislikes": ["Food from online orders"],
+    "Likes": ["Dairy products"],
+    "Occupation": "Desk Job, Homemaker",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "5k–10k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I can eat one bite and stop",
+    "Food_Craving": "None",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": ["Stress", "Social gatherings", "Boredom"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (200 ml)",
+      "Option 3: Black coffee"
+    ],
+    "Meal_1 (Main Meal)": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) & egg curry (2–3 eggs) & vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) & paneer curry (100 g) & vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) & curd (200 g) & vegetable curry"
+    ],
+    "Evening_Snack (Optional)": [
+      "Option 1: Puffed rice (murmura) chaat",
+      "Option 2: Roasted makhana",
+      "Option 3: Buttermilk (250 ml)"
+    ],
+    "Meal_2 (Dinner - lighter)": [
+      "Option 1: Curd (200 g) & cucumber salad",
+      "Option 2: Paneer cubes (120 g) + cooked vegetables",
+      "Option 3: Egg omelette (2 eggs) + vegetables"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid ordering food online and stick to simple home cooked meals.",
+    "Start meals with eggs, paneer or curd before eating rice.",
+    "For stress or boredom eating, drink buttermilk or water and wait 10 minutes.",
+    "Keep dinner light to support fat loss and digestion.",
+    "Maintain fixed meal timing daily to improve consistency and results."
+  ]
+}
