@@ -1,0 +1,78 @@
+{
+  "Overview": {
+    "Name": "Swathi Venkatrao Panga",
+    "Age": 27,
+    "Gender": "Female",
+    "Height": "5.2 ft",
+    "Current_Weight_kg": 90,
+    "Target_Weight_kg": 65,
+    "Medical_Conditions": [
+      "Diabetes"
+    ],
+    "Food_Allergies": [
+      "None"
+    ],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [
+      "Mutton"
+    ],
+    "Likes": [
+      "Millets",
+      "Green leafy vegetables",
+      "Salads"
+    ],
+    "Occupation": "Homemaker",
+    "Work_Hours": "Homemaker",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "5k–10k",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": [
+      "Biryani",
+      "Rice curry specially prepared at home"
+    ],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Support better blood sugar management.",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (1 small glass)",
+      "Option 3: Cucumber slices"
+    ],
+    "Meal_1": [
+      "Option 1: 3 egg omelette + cucumber slices",
+      "Option 2: Paneer cubes (100 g) + tomato and cucumber salad",
+      "Option 3: RICE RAWA upma (small bowl ~120 g) + 2 boiled eggs"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (3/4 cup cooked ~150 g) + chicken curry (120 g) + green leafy vegetable curry + curd",
+      "Option 2: Cooked rice (3/4 cup cooked ~150 g) + fish curry (120 g) + mixed vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~150 g) + paneer curry (120 g) + vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (20 g)",
+      "Option 2: Puffed rice (murmura) (small bowl)",
+      "Option 3: Plain buttermilk (1 glass)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (1/2 cup cooked ~75 g) + chicken curry (100 g) + salad",
+      "Option 2: Cooked rice (1/2 cup cooked ~75 g) + paneer cubes (100 g) + vegetable curry",
+      "Option 3: Cooked rice (1/2 cup cooked ~75 g) + egg omelette (2 eggs) + green leafy vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid mutton as per your preference.",
+    "Try to eat your meals at the same time every day to help support stable blood sugar levels.",
+    "When biryani or special rice dishes are prepared at home, serve yourself a smaller portion of rice and fill the rest of your plate with protein and vegetables.",
+    "Aim for 15–20 minutes of morning sunlight daily. Regular morning sunlight can help support your sleep cycle, energy levels and overall wellbeing.",
+    "Continue practicing yoga regularly and include a 30-minute walk after lunch or dinner whenever possible to support blood sugar management.",
+    "Drink at least 2.5–3 litres of water daily and include green leafy vegetables regularly."
+  ]
+}

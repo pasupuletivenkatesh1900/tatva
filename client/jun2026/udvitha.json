@@ -1,0 +1,75 @@
+{
+  "Overview": {
+    "Name": "Udvitha Polireddy",
+    "Age": 14,
+    "Gender": "Female",
+    "Height": "157.5 cm",
+    "Current_Weight_kg": 50,
+    "Target_Weight_kg": 45,
+    "Medical_Conditions": [
+      "None"
+    ],
+    "Food_Allergies": [
+      "None"
+    ],
+    "Diet_Type": "Vegetarian",
+    "Dislikes": [
+      "Mutton"
+    ],
+    "Likes": [
+      "Vegetable Biryani"
+    ],
+    "Occupation": "Student",
+    "Work_Hours": "8 hrs (School)",
+    "Sleep_hrs": "More than 8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "Not tracked",
+    "Exercise": "Yoga",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet, Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": [
+      "Social gatherings"
+    ],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 3,
+    "Goal": "Feeling energetic & confident, Maintain a healthy weight, Support healthy growth and development.",
+    "Preference_Notes": "Strictly Vegetarian",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Plain milk (1 small glass)",
+      "Option 3: Any 1 fruit (apple, orange, guava or papaya)"
+    ],
+    "Meal_1": [
+      "Option 1: Paneer cubes (80 g) + any 1 fruit",
+      "Option 2: Thick curd (200 g) + any 1 fruit",
+      "Option 3: RICE RAWA upma (small bowl ~150 g) + paneer cubes (60 g)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + paneer curry (100 g) + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + soya chunks curry (75 g) + vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + mixed vegetable curry + curd (small bowl)"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (20 g)",
+      "Option 2: Puffed rice (murmura) (small bowl)",
+      "Option 3: Plain milk (1 small glass)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) + paneer cubes (80 g) + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + soya chunks curry (75 g) + cucumber salad",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + curd (200 g) + vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "This plan is designed to support healthy growth while gradually improving body composition.",
+    "Choose homemade sweets only occasionally and avoid packaged sugary snacks.",
+    "When attending social gatherings, eat a planned meal beforehand to reduce overeating.",
+    "Aim for 15–20 minutes of morning sunlight daily. Regular morning sunlight can help support your sleep cycle, energy levels and overall wellbeing.",
+    "Continue practicing yoga regularly and stay active with outdoor games or walking whenever possible.",
+    "Drink at least 2–2.5 litres of water daily and maintain regular meal timings."
+  ]
+}

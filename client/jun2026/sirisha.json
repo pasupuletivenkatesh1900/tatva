@@ -1,0 +1,65 @@
+{
+  "Overview": {
+    "Name": "A. Sirisha",
+    "Age": 32,
+    "Gender": "Female",
+    "Height": "5.2 ft",
+    "Current_Weight_kg": 60,
+    "Target_Weight_kg": 58,
+    "Medical_Conditions": ["None"],
+    "Food_Allergies": ["Soy"],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": ["All foods"],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9–5",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "Yoga",
+    "Food_Habit": "I usually avoid desserts",
+    "Food_Craving": "Fried, Spicy",
+    "Meal_Preference": "Variety",
+    "Triggers": ["Stress", "Boredom"],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 1,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction",
+    "Preference_Notes": "Minimal non-veg, mostly vegetarian",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (200 ml)",
+      "Option 2: Warm water with a squeeze of lemon",
+      "Option 3: Plain buttermilk (small glass)"
+    ],
+    "Meal_1": [
+      "Option 1: 2 boiled eggs + any 1 fruit (apple, orange, papaya or guava)",
+      "Option 2: Paneer cubes (80 g) + any 1 fruit",
+      "Option 3: RICE RAWA upma (small bowl ~150 g) + curd (small bowl)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + chicken curry (small portion ~100 g) + vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) + paneer curry (100 g) + vegetable curry + curd",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + egg curry (2 eggs) + vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (20 g)",
+      "Option 2: Puffed rice (murmura) chaat (small bowl)",
+      "Option 3: Fresh coconut pieces + buttermilk"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) + mixed vegetable curry + paneer cubes (80 g)",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + egg omelette (2 eggs) + cucumber salad",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + chicken curry (small portion ~100 g) + curd"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep non-vegetarian meals to 3-4 times per week as per your preference.",
+    "Include plenty of vegetables with both lunch and dinner.",
+    "When stress cravings hit, drink a glass of water and wait 10 minutes before eating.",
+    "Choose homemade spicy foods instead of packaged snacks.",
+    "Maintain regular meal timings even on busy workdays.",
+    "Practice yoga consistently and stay well hydrated throughout the day."
+  ]
+}

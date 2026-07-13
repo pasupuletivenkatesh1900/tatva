@@ -1,0 +1,71 @@
+{
+  "Overview": {
+    "Name": "Veera Pratap Gottipati",
+    "Age": 38,
+    "Gender": "Male",
+    "Height": "163 cm",
+    "Current_Weight_kg": 78,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": [
+      "Thyroid"
+    ],
+    "Food_Allergies": [
+      "Seafood"
+    ],
+    "Diet_Type": "Vegan",
+    "Dislikes": [
+      "Seafood"
+    ],
+    "Likes": [],
+    "Occupation": "Desk Job",
+    "Work_Hours": "11:00 AM – 9:00 PM",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "5k–10k",
+    "Exercise": "Yoga",
+    "Food_Habit": "Not Provided",
+    "Food_Craving": "Not Provided",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": [],
+    "Willing_To_Cook": "Maybe",
+    "Meals_per_Day": 2,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction, Support thyroid health.",
+    "Preference_Notes": "Strictly Vegan",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Any 1 fruit (apple, guava, orange or papaya)",
+      "Option 3: Tender coconut water (1 small glass)"
+    ],
+    "Meal_1": [
+      "Option 1: RICE RAWA upma (small bowl ~150 g) + mixed vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + vegetable curry + avocado (1/2 medium)",
+      "Option 3: Any 1 fruit + roasted peanuts (30 g)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + soya chunks curry (100 g) + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + mixed vegetable curry + mushrooms (100 g)",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + soya chunks and vegetable curry + cucumber salad"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (20 g)",
+      "Option 2: Puffed rice (murmura) (small bowl)",
+      "Option 3: Roasted peanuts (30 g)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) + soya chunks curry (100 g) + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + mushroom curry (120 g) + cucumber salad",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + mixed vegetable curry + avocado (1/2 medium)"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Take your thyroid medication on an empty stomach with plain water and wait at least 30–60 minutes before your first meal, if prescribed by your doctor.",
+    "Aim for 15–20 minutes of morning sunlight daily. Regular morning sunlight can help support your sleep cycle, energy levels and overall wellbeing.",
+    "Continue practicing yoga regularly and include a 30-minute walk on most days to support thyroid health and weight management.",
+    "If following a vegan diet long-term, discuss Vitamin B12 supplementation with your healthcare provider, as it may be appropriate.",
+    "Drink at least 2.5–3 litres of water daily.",
+    "Maintain consistent meal timings despite your late work schedule."
+  ]
+}

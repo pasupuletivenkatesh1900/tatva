@@ -1,0 +1,77 @@
+{
+  "Overview": {
+    "Name": "Manasa Adepu",
+    "Age": 30,
+    "Gender": "Female",
+    "Height": "150 cm",
+    "Current_Weight_kg": 69,
+    "Target_Weight_kg": 50,
+    "Medical_Conditions": [
+      "PCOS",
+      "Hypertension"
+    ],
+    "Food_Allergies": [
+      "None"
+    ],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [],
+    "Likes": [
+      "Paneer",
+      "Chicken",
+      "All vegetables"
+    ],
+    "Occupation": "Desk Job, Homemaker",
+    "Work_Hours": "11:00 AM – 8:00 PM (Late nights sometimes)",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Self",
+    "Steps": "Not tracked",
+    "Exercise": "None",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet, Spicy",
+    "Meal_Preference": "Doesn't Matter",
+    "Triggers": [
+      "Stress",
+      "Late nights"
+    ],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 3,
+    "Goal": "Looking better (appearance), Feeling energetic & confident, Preventing/reversing health issues, Mental wellbeing & stress reduction, Support better PCOS and blood pressure management.",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (1 small glass)",
+      "Option 3: Any 1 fruit (apple, guava, orange or papaya)"
+    ],
+    "Meal_1": [
+      "Option 1: 2 egg omelette + any 1 fruit",
+      "Option 2: Paneer cubes (100 g) + cucumber slices",
+      "Option 3: RICE RAWA upma (small bowl ~150 g) + curd (small bowl)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + chicken curry (100–120 g) + vegetable curry + curd",
+      "Option 2: Cooked rice (1 cup cooked ~150 g) + paneer curry (120 g) + vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + egg curry (2 eggs) + vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (20 g)",
+      "Option 2: Puffed rice (murmura) (small bowl)",
+      "Option 3: Plain buttermilk (1 glass)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) + paneer cubes (80 g) + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + chicken curry (100 g) + cucumber salad",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + egg omelette (2 eggs) + vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid skipping meals, especially on busy workdays or late nights.",
+    "Choose homemade foods and reduce packaged, salty and fried foods to help support healthy blood pressure.",
+    "When sweet cravings occur, have a fruit first and wait 10 minutes before choosing another snack.",
+    "Aim for 15–20 minutes of morning sunlight daily. Regular morning sunlight can help support your sleep cycle, energy levels and overall wellbeing.",
+    "Practice yoga regularly and include a 30-minute walk on most days to support weight loss, PCOS management and overall health.",
+    "Drink at least 2.5–3 litres of water daily and aim for consistent meal and sleep timings."
+  ]
+}

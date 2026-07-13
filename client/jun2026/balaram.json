@@ -1,0 +1,75 @@
+{
+  "Overview": {
+    "Name": "Balaram Krishna Murthy",
+    "Age": 37,
+    "Gender": "Male",
+    "Height": "178 cm",
+    "Current_Weight_kg": 80,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": [
+      "Diabetes"
+    ],
+    "Food_Allergies": [
+      "None"
+    ],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [
+      "Rice at dinner"
+    ],
+    "Likes": [
+      "Chicken"
+    ],
+    "Occupation": "Desk Job",
+    "Work_Hours": "9:00 AM – 5:00 PM",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Family member",
+    "Steps": "<5k",
+    "Exercise": "Sports",
+    "Food_Habit": "I lose control if I start eating",
+    "Food_Craving": "Sweet",
+    "Meal_Preference": "Variety",
+    "Triggers": [
+      "Stress"
+    ],
+    "Willing_To_Cook": "Yes",
+    "Meals_per_Day": 4,
+    "Goal": "Feeling energetic & confident, Support better blood sugar management and achieve healthy weight loss.",
+    "Preference_Notes": "Results first – include non-veg as needed for best results",
+    "Preferred_Meal_To_Focus": "Lunch"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (1 small glass)",
+      "Option 3: Cucumber slices"
+    ],
+    "Meal_1": [
+      "Option 1: 3 egg omelette + cucumber slices",
+      "Option 2: Paneer cubes (100 g) + tomato and cucumber slices",
+      "Option 3: RICE RAWA upma (small bowl ~120 g) + 2 boiled eggs"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) + chicken curry (120 g) + vegetable curry + curd",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + fish curry (120 g) + vegetable curry",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + paneer curry (100 g) + vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (20 g)",
+      "Option 2: Puffed rice (murmura) (small bowl)",
+      "Option 3: Boiled eggs (2)"
+    ],
+    "Meal_3": [
+      "Option 1: Chicken curry (120 g) + mixed vegetable curry",
+      "Option 2: Paneer cubes (100 g) + cucumber and tomato salad",
+      "Option 3: Egg omelette (3 eggs) + vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Avoid rice at dinner as per your preference.",
+    "When sweet cravings occur, eat a fruit first and wait 10 minutes before choosing another snack.",
+    "Reduce sweets, sugary drinks and packaged snacks to help manage blood sugar levels.",
+    "Aim for 15–20 minutes of morning sunlight daily. Regular morning sunlight can help support your sleep cycle, energy levels and overall wellbeing.",
+    "Continue playing sports regularly and include a 20–30 minute walk on non-sports days.",
+    "Drink at least 2.5–3 litres of water daily and try to eat your meals at consistent times."
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Overview": {
+    "Name": "K. Venkat",
+    "Age": 60,
+    "Gender": "Male",
+    "Height": "172 cm",
+    "Current_Weight_kg": 89,
+    "Target_Weight_kg": 70,
+    "Medical_Conditions": [
+      "None"
+    ],
+    "Food_Allergies": [
+      "None"
+    ],
+    "Diet_Type": "Non-Vegetarian",
+    "Dislikes": [
+      "Nothing"
+    ],
+    "Likes": [
+      "Mutton",
+      "Chicken"
+    ],
+    "Occupation": "Police Department",
+    "Work_Hours": "3 hrs",
+    "Sleep_hrs": "6–8 hrs",
+    "Who_Cooks": "Cook",
+    "Steps": "5k–10k",
+    "Exercise": "Yoga and Walking",
+    "Food_Habit": "I usually avoid desserts",
+    "Food_Craving": "Spicy",
+    "Meal_Preference": "Fixed routine",
+    "Triggers": [
+      "Stress"
+    ],
+    "Willing_To_Cook": "No",
+    "Meals_per_Day": 3,
+    "Goal": "Preventing/reversing health issues",
+    "Preference_Notes": "Balanced – include non-veg but not in every meal",
+    "Preferred_Meal_To_Focus": "Either is fine"
+  },
+  "Daily_Meal_Plan": {
+    "Early_Morning (optional)": [
+      "Option 1: Warm water (250 ml)",
+      "Option 2: Plain buttermilk (1 small glass)",
+      "Option 3: Any 1 fruit (apple, orange, guava or papaya)"
+    ],
+    "Meal_1": [
+      "Option 1: 2 boiled eggs + any 1 fruit",
+      "Option 2: Paneer cubes (80 g) + cucumber slices",
+      "Option 3: RICE RAWA upma (small bowl ~150 g) + curd (small bowl)"
+    ],
+    "Meal_2": [
+      "Option 1: Cooked rice (1 cup cooked ~150 g) + chicken curry (100–120 g) + vegetable curry + curd",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + mutton curry (80–100 g) + vegetable curry",
+      "Option 3: Cooked rice (1 cup cooked ~150 g) + paneer curry (100 g) + vegetable curry"
+    ],
+    "Evening_Snack": [
+      "Option 1: Roasted makhana (20 g)",
+      "Option 2: Puffed rice (murmura) chaat (small bowl)",
+      "Option 3: Plain buttermilk (1 glass)"
+    ],
+    "Meal_3": [
+      "Option 1: Cooked rice (3/4 cup cooked ~110 g) + fish curry (100 g) + vegetable curry",
+      "Option 2: Cooked rice (3/4 cup cooked ~110 g) + paneer cubes (80 g) + cucumber salad",
+      "Option 3: Cooked rice (3/4 cup cooked ~110 g) + egg curry (2 eggs) + vegetable curry"
+    ]
+  },
+  "Notes_and_Tips": [
+    "Keep mutton to once every 1–2 weeks and prefer chicken or fish on other non-vegetarian days.",
+    "Continue your regular yoga and walking routine to support overall health and mobility.",
+    "Aim for 15–20 minutes of morning sunlight daily. Regular morning sunlight can help support your sleep cycle, energy levels and overall wellbeing.",
+    "Maintain a consistent meal schedule even on busy days.",
+    "Drink at least 2.5–3 litres of water daily.",
+    "Choose freshly prepared home-cooked meals and include vegetables with both lunch and dinner."
+  ]
+}
